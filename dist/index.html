@@ -311,6 +311,8 @@ footer .legal a:hover,footer .legal button:hover{color:var(--red)}
 body{padding-bottom:var(--ckh,0px)}
 @media(max-width:560px){.ck{padding:14px var(--pad) calc(12px + env(safe-area-inset-bottom))}.ck h2{display:none}.ck p{font-size:.88rem;line-height:1.4;margin-bottom:10px}.ck-row{gap:8px}.ckb{flex:1 1 calc(50% - 4px);padding:10px 8px;font-size:.9rem}.ckb-out{flex-basis:100%}.ck-link{margin-top:10px;font-size:.88rem}}
 
+.legalnote{margin:0;font-size:.95rem;color:var(--muted)}
+
 </style>
 </head>
 <body>
@@ -425,7 +427,7 @@ body{padding-bottom:var(--ckh,0px)}
 <div class="fld full"><label for="cMensaje">Tu proyecto</label><textarea id="cMensaje" name="mensaje" aria-describedby="eMensaje" required placeholder="Qué quieres comunicar, dónde lo vas a colocar y para cuándo lo necesitas."></textarea><p class="err" id="eMensaje" hidden>Cuéntanos brevemente tu proyecto.</p></div>
 <div class="fld full"><label for="cMedidas">Medidas y cantidad <small>(opcional)</small></label><input id="cMedidas" name="medidas" type="text" placeholder="Por ejemplo, tamaño aproximado y número de piezas"></div>
 </div>
-<div class="fld full chk"><label for="cConsent"><input id="cConsent" type="checkbox" aria-describedby="eConsent" required> Acepto que MÉS PUBLICITAT trate mis datos para responder a esta solicitud de presupuesto.</label><p class="err" id="eConsent" hidden>Necesitamos tu consentimiento para poder responderte.</p></div>
+<p class="fld full legalnote">Los datos que indiques se usarán solo para responder a tu solicitud de presupuesto.</p>
 <button class="btn" type="submit">Preparar solicitud <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></button>
 </form>
 <div class="cres" id="cResult" tabindex="-1" hidden><h2>Resumen de tu solicitud</h2><pre id="cSummary"></pre><p id="cStatus" class="fnote"></p><div class="row"><button class="btn ghost" type="button" id="cCopy">Copiar resumen</button><a class="btn" id="cMail" href="#contacto" hidden>Abrir correo</a></div><p class="fnote" id="cCopied" role="status"></p></div>
@@ -544,8 +546,8 @@ const c=EMP.contacto,rows=[['Teléfono',c.telefono],['Correo',c.email],['Domicil
 cInfo.innerHTML=`<h2>Datos de contacto</h2>${rows.length?`<dl>${rows.map(r=>`<dt>${r[0]}</dt><dd>${r[1]}</dd>`).join('')}</dl>`:'<p>Los datos de contacto se añadirán aquí cuando la empresa los confirme.</p>'}<h2>Qué incluir</h2>${ul(['Qué quieres comunicar y dónde lo vas a colocar.','Si es para interior o exterior.','Medidas aproximadas y cantidad.','Para cuándo lo necesitas.'])}`}
 const fieldErr=(id,eid,bad)=>{const f=document.getElementById(id),e=document.getElementById(eid);f.setAttribute('aria-invalid',bad);e.hidden=!bad;return bad};
 cForm.addEventListener('submit',e=>{e.preventDefault();
-const b1=fieldErr('cNombre','eNombre',!cNombre.value.trim()),b2=fieldErr('cEmail','eEmail',!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cEmail.value.trim())),b3=fieldErr('cMensaje','eMensaje',!cMensaje.value.trim()),b4=fieldErr('cConsent','eConsent',!cConsent.checked);
-if(b1||b2||b3||b4){document.querySelector('.cform [aria-invalid=true]').focus();return}
+const b1=fieldErr('cNombre','eNombre',!cNombre.value.trim()),b2=fieldErr('cEmail','eEmail',!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cEmail.value.trim())),b3=fieldErr('cMensaje','eMensaje',!cMensaje.value.trim());
+if(b1||b2||b3){document.querySelector('.cform [aria-invalid=true]').focus();return}
 const m=MATS.find(x=>x.slug===cMaterial.value),L=[['Material',m?`${m.nombre} (${CBYID[m.categoria].nombre})`:'Sin material concreto'],['Nombre',cNombre.value.trim()],['Correo',cEmail.value.trim()],['Teléfono',cTel.value.trim()],['Empresa',cEmpresa.value.trim()],['Medidas y cantidad',cMedidas.value.trim()],['Proyecto',cMensaje.value.trim()]].filter(r=>r[1]);
 const txt='Solicitud de presupuesto\n'+L.map(r=>`${r[0]}: ${r[1]}`).join('\n');
 cSummary.textContent=txt;cCopied.textContent='';

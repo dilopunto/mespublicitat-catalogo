@@ -88,8 +88,8 @@ const c=EMP.contacto,rows=[['Teléfono',c.telefono],['Correo',c.email],['Domicil
 cInfo.innerHTML=`<h2>Datos de contacto</h2>${rows.length?`<dl>${rows.map(r=>`<dt>${r[0]}</dt><dd>${r[1]}</dd>`).join('')}</dl>`:'<p>Los datos de contacto se añadirán aquí cuando la empresa los confirme.</p>'}<h2>Qué incluir</h2>${ul(['Qué quieres comunicar y dónde lo vas a colocar.','Si es para interior o exterior.','Medidas aproximadas y cantidad.','Para cuándo lo necesitas.'])}`}
 const fieldErr=(id,eid,bad)=>{const f=document.getElementById(id),e=document.getElementById(eid);f.setAttribute('aria-invalid',bad);e.hidden=!bad;return bad};
 cForm.addEventListener('submit',e=>{e.preventDefault();
-const b1=fieldErr('cNombre','eNombre',!cNombre.value.trim()),b2=fieldErr('cEmail','eEmail',!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cEmail.value.trim())),b3=fieldErr('cMensaje','eMensaje',!cMensaje.value.trim()),b4=fieldErr('cConsent','eConsent',!cConsent.checked);
-if(b1||b2||b3||b4){document.querySelector('.cform [aria-invalid=true]').focus();return}
+const b1=fieldErr('cNombre','eNombre',!cNombre.value.trim()),b2=fieldErr('cEmail','eEmail',!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cEmail.value.trim())),b3=fieldErr('cMensaje','eMensaje',!cMensaje.value.trim());
+if(b1||b2||b3){document.querySelector('.cform [aria-invalid=true]').focus();return}
 const m=MATS.find(x=>x.slug===cMaterial.value),L=[['Material',m?`${m.nombre} (${CBYID[m.categoria].nombre})`:'Sin material concreto'],['Nombre',cNombre.value.trim()],['Correo',cEmail.value.trim()],['Teléfono',cTel.value.trim()],['Empresa',cEmpresa.value.trim()],['Medidas y cantidad',cMedidas.value.trim()],['Proyecto',cMensaje.value.trim()]].filter(r=>r[1]);
 const txt='Solicitud de presupuesto\n'+L.map(r=>`${r[0]}: ${r[1]}`).join('\n');
 cSummary.textContent=txt;cCopied.textContent='';

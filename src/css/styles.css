@@ -298,3 +298,5 @@ footer .legal a:hover,footer .legal button:hover{color:var(--red)}
 
 body{padding-bottom:var(--ckh,0px)}
 @media(max-width:560px){.ck{padding:14px var(--pad) calc(12px + env(safe-area-inset-bottom))}.ck h2{display:none}.ck p{font-size:.88rem;line-height:1.4;margin-bottom:10px}.ck-row{gap:8px}.ckb{flex:1 1 calc(50% - 4px);padding:10px 8px;font-size:.9rem}.ckb-out{flex-basis:100%}.ck-link{margin-top:10px;font-size:.88rem}}
+
+.legalnote{margin:0;font-size:.95rem;color:var(--muted)}
