@@ -1,0 +1,178 @@
+{
+  "id": "mat-34",
+  "slug": "menus-y-cartas",
+  "nombre": "Menús y cartas",
+  "categoria": "impresion-grafica",
+  "resumen": "Menús y cartas para restauración, impresos en papel o soportes más resistentes.",
+  "queEs": "Son impresos para bares y restaurantes. Pueden ir en hojas sueltas, cartas con tapas o soportes más resistentes frente a manchas. El formato y el material se eligen según el tipo de local.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Imagen del local",
+      "texto": "Refleja el estilo del local."
+    },
+    {
+      "icono": "escudo",
+      "titulo": "Resistentes",
+      "texto": "Con laminado o soporte plastificado."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Formatos variados",
+      "texto": "Hojas, cartas, tapas."
+    }
+  ],
+  "ventajas": [
+    "Refuerzan la imagen del local.",
+    "Se pueden actualizar con facilidad.",
+    "Opciones desde papel hasta soportes duraderos."
+  ],
+  "composicion": {
+    "descripcion": "Papel, cartulina o soportes plastificados. Opciones por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Formatos habituales",
+      "valor": "A4, A5 o a medida",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Protección",
+      "valor": "Laminado, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": [
+      {
+        "nombre": "A4",
+        "medida": "210 × 297 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "A5",
+        "medida": "148 × 210 mm",
+        "estado": "referencia"
+      }
+    ],
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Restaurantes",
+      "descripcion": "Carta principal."
+    },
+    {
+      "titulo": "Bares",
+      "descripcion": "Menús del día."
+    },
+    {
+      "titulo": "Cafeterías",
+      "descripcion": "Carta de bebidas."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "plegado",
+    "esquinas-redondeadas"
+  ],
+  "recomendaciones": [
+    "Plantea ya el acabado si habrá manipulación.",
+    "Deja margen para actualizar precios."
+  ],
+  "limitaciones": [
+    "El papel sin protección se mancha.",
+    "Los cambios de precio obligan a reimprimir."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/menus-y-cartas/muestra-01.webp",
+    "alt": "Carta de restaurante encuadernada con fotografías de platos",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/menus-y-cartas/galeria-1-material.webp",
+      "alt": "Menús y cartas: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/menus-y-cartas/galeria-2-proceso.webp",
+      "alt": "Menús y cartas: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/menus-y-cartas/galeria-3-resultado.webp",
+      "alt": "Menús y cartas: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Carta de restaurante abierta sobre una mesa.",
+    "caracteristicasFisicas": "Tipografía clara, papel laminado o con tapas.",
+    "entorno": "Mesa de bar o restaurante.",
+    "encuadre": "Plano cenital sobre la mesa.",
+    "texturaAcabado": "Papel con acabado mate o laminado.",
+    "noConfundirCon": [
+      "folleto promocional",
+      "cartel de pared"
+    ]
+  },
+  "relacionados": [
+    "mat-32",
+    "mat-33",
+    "mat-31"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

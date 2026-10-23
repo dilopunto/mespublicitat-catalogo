@@ -1,0 +1,183 @@
+{
+  "id": "mat-33",
+  "slug": "carteles-y-posters",
+  "nombre": "Carteles y pósters",
+  "categoria": "impresion-grafica",
+  "resumen": "Carteles y pósters impresos en papel, para interior, escaparates y campañas.",
+  "queEs": "Son impresos de mayor tamaño para colocar en paredes, escaparates o soportes. Se usan para promociones, eventos y decoración. Los formatos habituales van de A3 a A0, según el uso.",
+  "cualidades": [
+    {
+      "icono": "escala",
+      "titulo": "Tamaños grandes",
+      "texto": "De A3 en adelante."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Impacto visual",
+      "texto": "Imagen protagonista."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Campañas",
+      "texto": "Uso temporal."
+    }
+  ],
+  "ventajas": [
+    "Económicos y rápidos.",
+    "Gran visibilidad.",
+    "Adaptables a campañas."
+  ],
+  "composicion": {
+    "descripcion": "Papel de distintos gramajes y acabados. Gramajes y opciones por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Formatos de referencia",
+      "valor": "A3, A2, A1, A0",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Acabado",
+      "valor": "Mate o brillo, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": [
+      {
+        "nombre": "A3",
+        "medida": "297 × 420 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "A2",
+        "medida": "420 × 594 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "A1",
+        "medida": "594 × 841 mm",
+        "estado": "referencia"
+      }
+    ],
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del papel."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "escaparates",
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Escaparates",
+      "descripcion": "Campañas y ofertas."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Cartelería informativa."
+    },
+    {
+      "titulo": "Decoración",
+      "descripcion": "Láminas para interior."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "montaje-sobre-rigido"
+  ],
+  "recomendaciones": [
+    "Piensa la distancia de lectura.",
+    "Adapta el formato al lugar."
+  ],
+  "limitaciones": [
+    "El papel es sensible a la humedad.",
+    "No es adecuado para exterior permanente."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/carteles-y-posters/muestra-01.webp",
+    "alt": "Carteles y pósters enmarcados",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/carteles-y-posters/galeria-1-material.webp",
+      "alt": "Carteles y pósters: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/carteles-y-posters/galeria-2-proceso.webp",
+      "alt": "Carteles y pósters: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/carteles-y-posters/galeria-3-resultado.webp",
+      "alt": "Carteles y pósters: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Cartel impreso en pared o escaparate.",
+    "caracteristicasFisicas": "Imagen nítida, bordes limpios y papel liso.",
+    "entorno": "Pared o escaparate de un comercio.",
+    "encuadre": "Plano frontal completo.",
+    "texturaAcabado": "Papel liso, mate o brillo.",
+    "noConfundirCon": [
+      "vinilo adhesivo en cristal",
+      "panel rígido impreso"
+    ]
+  },
+  "relacionados": [
+    "mat-32",
+    "mat-07",
+    "mat-34"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

@@ -1,0 +1,478 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "material.schema.json",
+  "title": "Ficha de material MésPublicitat",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "nombre",
+    "categoria",
+    "resumen",
+    "queEs",
+    "cualidades",
+    "ventajas",
+    "composicion",
+    "caracteristicasTecnicas",
+    "grosoresFormatos",
+    "usos",
+    "aplicaciones",
+    "ejemplosAplicacion",
+    "acabadosCompatibles",
+    "recomendaciones",
+    "limitaciones",
+    "imagenPrincipal",
+    "galeria",
+    "proyectosReales",
+    "referenciaVisual",
+    "relacionados",
+    "fuentes",
+    "aplicacionesVerificadas"
+  ],
+  "$defs": {
+    "estadoDato": {
+      "enum": [
+        "general",
+        "referencia",
+        "pendiente",
+        "verificado"
+      ]
+    },
+    "texto": {
+      "type": "string",
+      "minLength": 1
+    },
+    "textos": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/texto"
+      }
+    },
+    "imagen": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "src",
+        "alt",
+        "estado",
+        "origen",
+        "foco"
+      ],
+      "properties": {
+        "src": {
+          "type": "string",
+          "pattern": "^assets/(materiales|proyectos)/[a-z0-9-]+/[a-z0-9-]+\\.(webp|jpg|png)$"
+        },
+        "alt": {
+          "$ref": "#/$defs/texto"
+        },
+        "estado": {
+          "enum": [
+            "pendiente",
+            "disponible"
+          ]
+        },
+        "tipo": {
+          "enum": [
+            "material",
+            "proceso",
+            "resultado"
+          ]
+        },
+        "origen": {
+          "enum": [
+            "propia",
+            "referencia",
+            "ia",
+            "pendiente"
+          ],
+          "description": "propia = foto real de MÉS PUBLICITAT (carpeta proyectos); referencia = imagen real externa con derechos; ia = generada con IA (último recurso); pendiente = sin imagen"
+        },
+        "foco": {
+          "type": "string",
+          "pattern": "^(contain|\\d{1,3}% \\d{1,3}%)$",
+          "description": "Encuadre dentro de la caja 4:3: «X% Y%» (object-position) o «contain» para mostrar la foto completa."
+        }
+      }
+    },
+    "uso": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "apto",
+        "nota"
+      ],
+      "properties": {
+        "apto": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "nota": {
+          "$ref": "#/$defs/texto"
+        }
+      }
+    },
+    "imagenProyecto": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "src",
+        "alt",
+        "proyecto",
+        "estado",
+        "origen",
+        "foco"
+      ],
+      "properties": {
+        "src": {
+          "type": "string",
+          "pattern": "^assets/(materiales|proyectos)/[a-z0-9-]+/[a-z0-9-]+\\.(webp|jpg|png)$"
+        },
+        "alt": {
+          "$ref": "#/$defs/texto"
+        },
+        "proyecto": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "id del proyecto en proyectos.json"
+        },
+        "estado": {
+          "enum": [
+            "pendiente",
+            "disponible"
+          ]
+        },
+        "origen": {
+          "enum": [
+            "propia",
+            "referencia",
+            "ia",
+            "pendiente"
+          ],
+          "description": "propia = foto real de MÉS PUBLICITAT (carpeta proyectos); referencia = imagen real externa con derechos; ia = generada con IA (último recurso); pendiente = sin imagen"
+        },
+        "foco": {
+          "type": "string",
+          "pattern": "^(contain|\\d{1,3}% \\d{1,3}%)$",
+          "description": "Encuadre dentro de la caja 4:3: «X% Y%» (object-position) o «contain» para mostrar la foto completa."
+        }
+      }
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^mat-[0-9]{2}$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "nombre": {
+      "$ref": "#/$defs/texto"
+    },
+    "categoria": {
+      "type": "string",
+      "description": "ID existente en categorias.json"
+    },
+    "resumen": {
+      "$ref": "#/$defs/texto"
+    },
+    "queEs": {
+      "$ref": "#/$defs/texto"
+    },
+    "cualidades": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "icono",
+          "titulo",
+          "texto"
+        ],
+        "properties": {
+          "icono": {
+            "enum": [
+              "sol",
+              "gota",
+              "escudo",
+              "ligero",
+              "capa",
+              "tijera",
+              "regla",
+              "pincel",
+              "reloj",
+              "plegable",
+              "rigido",
+              "check",
+              "textil",
+              "ojo",
+              "escala"
+            ]
+          },
+          "titulo": {
+            "$ref": "#/$defs/texto"
+          },
+          "texto": {
+            "$ref": "#/$defs/texto"
+          }
+        }
+      }
+    },
+    "ventajas": {
+      "$ref": "#/$defs/textos"
+    },
+    "composicion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "descripcion",
+        "estado"
+      ],
+      "properties": {
+        "descripcion": {
+          "$ref": "#/$defs/texto"
+        },
+        "estado": {
+          "$ref": "#/$defs/estadoDato"
+        }
+      }
+    },
+    "caracteristicasTecnicas": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "etiqueta",
+          "valor",
+          "estado"
+        ],
+        "properties": {
+          "etiqueta": {
+            "$ref": "#/$defs/texto"
+          },
+          "valor": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "estado": {
+            "$ref": "#/$defs/estadoDato"
+          }
+        }
+      }
+    },
+    "grosoresFormatos": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "espesores",
+        "medidasMaximas",
+        "formatosEstandar",
+        "estado"
+      ],
+      "properties": {
+        "espesores": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "string"
+          }
+        },
+        "medidasMaximas": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "formatosEstandar": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "nombre",
+              "medida",
+              "estado"
+            ],
+            "properties": {
+              "nombre": {
+                "type": "string"
+              },
+              "medida": {
+                "type": "string"
+              },
+              "estado": {
+                "$ref": "#/$defs/estadoDato"
+              }
+            }
+          }
+        },
+        "estado": {
+          "$ref": "#/$defs/estadoDato"
+        }
+      }
+    },
+    "usos": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "interior",
+        "exterior"
+      ],
+      "properties": {
+        "interior": {
+          "$ref": "#/$defs/uso"
+        },
+        "exterior": {
+          "$ref": "#/$defs/uso"
+        }
+      }
+    },
+    "aplicaciones": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "description": "IDs de aplicaciones.json"
+      }
+    },
+    "ejemplosAplicacion": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "titulo",
+          "descripcion"
+        ],
+        "properties": {
+          "titulo": {
+            "$ref": "#/$defs/texto"
+          },
+          "descripcion": {
+            "$ref": "#/$defs/texto"
+          }
+        }
+      }
+    },
+    "acabadosCompatibles": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "description": "IDs de acabados.json"
+      }
+    },
+    "recomendaciones": {
+      "$ref": "#/$defs/textos"
+    },
+    "limitaciones": {
+      "$ref": "#/$defs/textos"
+    },
+    "imagenPrincipal": {
+      "$ref": "#/$defs/imagen"
+    },
+    "galeria": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/imagen"
+      }
+    },
+    "referenciaVisual": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "producto",
+        "caracteristicasFisicas",
+        "entorno",
+        "encuadre",
+        "texturaAcabado",
+        "noConfundirCon"
+      ],
+      "properties": {
+        "producto": {
+          "$ref": "#/$defs/texto"
+        },
+        "caracteristicasFisicas": {
+          "$ref": "#/$defs/texto"
+        },
+        "entorno": {
+          "$ref": "#/$defs/texto"
+        },
+        "encuadre": {
+          "$ref": "#/$defs/texto"
+        },
+        "texturaAcabado": {
+          "$ref": "#/$defs/texto"
+        },
+        "noConfundirCon": {
+          "$ref": "#/$defs/textos"
+        }
+      }
+    },
+    "relacionados": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^mat-[0-9]{2}$"
+      }
+    },
+    "fuentes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tipo",
+        "verificado",
+        "nota",
+        "pendientes"
+      ],
+      "properties": {
+        "tipo": {
+          "type": "string"
+        },
+        "verificado": {
+          "type": "boolean"
+        },
+        "nota": {
+          "type": "string"
+        },
+        "pendientes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "aplicacionesVerificadas": {
+      "type": "boolean"
+    },
+    "proyectosReales": {
+      "type": "array",
+      "maxItems": 4,
+      "items": {
+        "$ref": "#/$defs/imagenProyecto"
+      }
+    }
+  }
+}

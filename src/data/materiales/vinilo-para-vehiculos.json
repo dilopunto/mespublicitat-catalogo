@@ -1,0 +1,191 @@
+{
+  "id": "mat-05",
+  "slug": "vinilo-para-vehiculos",
+  "nombre": "Vinilo para vehículos",
+  "categoria": "vinilos-y-adhesivos",
+  "resumen": "Vinilo adhesivo pensado para rotular furgonetas, coches y flotas, de forma parcial o total.",
+  "queEs": "Es un vinilo que se adapta a las superficies de un vehículo, incluidas curvas suaves. Se emplea para rotular logotipos, teléfonos y campañas completas. Algunas calidades se adaptan mejor a formas complejas; la elección depende del tipo de carrocería.",
+  "cualidades": [
+    {
+      "icono": "capa",
+      "titulo": "Se adapta a curvas",
+      "texto": "Según la calidad, acompaña formas de la carrocería."
+    },
+    {
+      "icono": "sol",
+      "titulo": "Exterior",
+      "texto": "Pensado para estar a la intemperie."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen completa",
+      "texto": "Se imprime o corta según el diseño."
+    }
+  ],
+  "ventajas": [
+    "Convierte el vehículo en soporte publicitario.",
+    "Se puede retirar para renovar la imagen.",
+    "Opciones parciales o totales."
+  ],
+  "composicion": {
+    "descripcion": "Película de PVC (calandrado o fundido) con adhesivo para uso exterior. Tipo y laminado por confirmar con el proveedor.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Uso",
+      "valor": "Carrocería y cristales, según normativa",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Calidad",
+      "valor": "Depende de la forma a cubrir",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No es su uso principal."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Diseñado para uso exterior; durabilidad por confirmar."
+    }
+  },
+  "aplicaciones": [
+    "exterior",
+    "vehiculos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Furgonetas",
+      "descripcion": "Logotipo, teléfono y web en los laterales."
+    },
+    {
+      "titulo": "Flotas",
+      "descripcion": "Misma imagen en todos los vehículos."
+    },
+    {
+      "titulo": "Rotulación parcial",
+      "descripcion": "Franjas y detalles de marca."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "corte-contorno"
+  ],
+  "recomendaciones": [
+    "Indica modelo de vehículo y zonas a rotular.",
+    "Revisa la normativa antes de cubrir cristales."
+  ],
+  "limitaciones": [
+    "La superficie debe estar limpia y en buen estado.",
+    "Las curvas muy marcadas pueden requerir otra calidad."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/vinilo-para-vehiculos/muestra-01.webp",
+    "alt": "Vehículo rotulado con vinilo en negro, rojo y blanco",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/vinilo-para-vehiculos/galeria-1-material.webp",
+      "alt": "Vinilo para vehículos: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-para-vehiculos/galeria-2-proceso.webp",
+      "alt": "Vinilo para vehículos: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/camion-circo/01.webp",
+      "alt": "Camión de circo rotulado, vista frontal",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Vinilo de rotulación aplicado sobre un vehículo comercial.",
+    "caracteristicasFisicas": "Gráfica integrada con las curvas del vehículo, sin burbujas.",
+    "entorno": "Furgoneta aparcada en exterior, con luz diurna.",
+    "encuadre": "Plano tres cuartos del lateral, con detalle de un contorno.",
+    "texturaAcabado": "Superficie lisa, ligeramente brillante.",
+    "noConfundirCon": [
+      "vinilo impreso para interior",
+      "pintura o lacado del vehículo"
+    ]
+  },
+  "relacionados": [
+    "mat-01",
+    "mat-03",
+    "mat-02"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/camion-circo/02.webp",
+      "alt": "Camión de circo con rotulación integral, lateral completo",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "camion-circo"
+    },
+    {
+      "src": "assets/proyectos/camion-circo/03.webp",
+      "alt": "Camión de circo con rotulación integral, vista trasera en perspectiva",
+      "proyecto": "camion-circo",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/remolque-espectaculo/01.webp",
+      "alt": "Remolque rotulado de espectáculo",
+      "proyecto": "remolque-espectaculo",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

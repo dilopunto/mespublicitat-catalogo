@@ -1,0 +1,132 @@
+{
+  "nombre": "MésPublicitat",
+  "nombreComercial": "MES PUBLICITAT",
+  "descripcion": "Soluciones de comunicación visual para empresas, marcas, espacios y eventos, combinando asesoramiento, producción, impresión e instalación.",
+  "relato": {
+    "texto": "Damos forma a las ideas para que se vean, funcionen y se recuerden.",
+    "estado": "propuesta pendiente de aprobación"
+  },
+  "servicios": [
+    {
+      "id": "asesoramiento",
+      "nombre": "Asesoramiento",
+      "texto": "Te ayudamos a elegir el material según uso, superficie y presupuesto."
+    },
+    {
+      "id": "produccion",
+      "nombre": "Producción",
+      "texto": "Preparamos y producimos cada pieza con el soporte adecuado."
+    },
+    {
+      "id": "impresion",
+      "nombre": "Impresión",
+      "texto": "Impresión publicitaria para pequeño y gran formato."
+    },
+    {
+      "id": "instalacion",
+      "nombre": "Instalación",
+      "texto": "Dejamos el resultado visible y funcionando en su lugar."
+    }
+  ],
+  "proceso": [
+    {
+      "nombre": "Cuéntanos tu idea",
+      "texto": "Qué quieres comunicar y dónde."
+    },
+    {
+      "nombre": "Te asesoramos",
+      "texto": "Recomendamos el material y el acabado."
+    },
+    {
+      "nombre": "Producimos e imprimimos",
+      "texto": "Fabricación con el soporte elegido."
+    },
+    {
+      "nombre": "Instalamos",
+      "texto": "Entrega o instalación del resultado."
+    }
+  ],
+  "cifras": {
+    "anosExperiencia": 20,
+    "proyectosRealizados": 400,
+    "clientes": 20,
+    "prefijos": {
+      "proyectosRealizados": "+",
+      "clientes": "+"
+    },
+    "estado": "facilitado por el cliente"
+  },
+  "marcasColaboradoras": [
+    {
+      "nombre": "ESCI-UPF",
+      "logo": "assets/clientes/esci-upf.png"
+    },
+    {
+      "nombre": "Funbox",
+      "logo": "assets/clientes/funbox.png"
+    },
+    {
+      "nombre": "Trib3",
+      "logo": "assets/clientes/trib3.png"
+    },
+    {
+      "nombre": "Laie",
+      "logo": "assets/clientes/laie.png"
+    },
+    {
+      "nombre": "APD",
+      "logo": "assets/clientes/apd.png"
+    },
+    {
+      "nombre": "Espacio Delicias",
+      "logo": "assets/clientes/espacio-delicias.png"
+    }
+  ],
+  "contacto": {
+    "telefono": "+34 666 74 35 50",
+    "email": "comercial@mespublicitat.com",
+    "direccion": "Barcelona",
+    "horario": null,
+    "web": "https://sites.google.com/view/catalogomespublicitat",
+    "emailDestinoFormulario": "comercial@mespublicitat.com"
+  },
+  "redes": {
+    "instagram": "https://www.instagram.com/mespublicitat/"
+  },
+  "coloresMarca": {
+    "rojoLogotipo": "#E20613",
+    "rojoEditorial": "#D81A1C",
+    "negro": "#000000",
+    "blanco": "#FFFFFF"
+  },
+  "principios": [
+    {
+      "nombre": "Clara",
+      "texto": "Te explicamos para qué sirve cada material antes de llenarte de términos técnicos."
+    },
+    {
+      "nombre": "Experta",
+      "texto": "Recomendamos según el uso, la superficie, la duración y el presupuesto."
+    },
+    {
+      "nombre": "Directa",
+      "texto": "Una idea principal por pieza: titulares cortos y conclusiones concretas."
+    },
+    {
+      "nombre": "Cercana",
+      "texto": "Te hablamos de tú y resolvemos tus dudas, sin frases comerciales exageradas."
+    }
+  ],
+  "principiosEstado": "propuesta del manual de marca, pendiente de validar",
+  "imagenesQuienesSomos": [
+    {
+      "src": "assets/proyectos/jornada-directivos/04.webp",
+      "alt": "Equipo de MÉS PUBLICITAT instalando una gráfica de gran formato en un acceso"
+    },
+    {
+      "src": "assets/proyectos/f1-barcelona/02.webp",
+      "alt": "Equipo de MÉS PUBLICITAT montando una instalación dentro de una carpa"
+    }
+  ],
+  "cobertura": "Servicios de impresión y rotulación en toda la península."
+}

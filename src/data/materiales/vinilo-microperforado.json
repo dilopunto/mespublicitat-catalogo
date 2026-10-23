@@ -1,0 +1,185 @@
+{
+  "id": "mat-02",
+  "slug": "vinilo-microperforado",
+  "nombre": "Vinilo microperforado",
+  "categoria": "vinilos-y-adhesivos",
+  "resumen": "Vinilo con perforaciones diminutas que permite ver desde dentro hacia fuera y cubrir el cristal con una imagen.",
+  "queEs": "Es un vinilo adhesivo con una trama de microagujeros. Desde fuera se ve la imagen impresa; desde dentro, con buena iluminación exterior, se puede mirar a través. Se usa para decorar escaparates, ventanas y lunas sin perder la luz natural ni la visión desde el interior.",
+  "cualidades": [
+    {
+      "icono": "ojo",
+      "titulo": "Visión desde dentro",
+      "texto": "La trama de microagujeros deja ver el exterior."
+    },
+    {
+      "icono": "sol",
+      "titulo": "Deja pasar luz",
+      "texto": "Aporta luz natural en interiores."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen a todo color",
+      "texto": "Se imprime por la cara exterior."
+    }
+  ],
+  "ventajas": [
+    "Mantiene la luz y la visión desde el interior.",
+    "Convierte un cristal en soporte publicitario.",
+    "Reduce parte de la incidencia directa del sol."
+  ],
+  "composicion": {
+    "descripcion": "Película de PVC adhesiva con perforaciones regulares y laminado específico habitual. Datos de perforación y laminado por confirmar con el proveedor.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Trama",
+      "valor": "Perforación regular (parámetros por confirmar)",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Instalación",
+      "valor": "Sobre cristal limpio, por la cara exterior",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "Se aplica sobre cristal para ver hacia dentro y hacia fuera, según la luz."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Se coloca por el exterior del cristal; confirmar calidad y laminado."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "exterior",
+    "escaparates",
+    "vehiculos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Escaparate",
+      "descripcion": "Imagen de campaña que deja ver el interior del local."
+    },
+    {
+      "titulo": "Oficinas",
+      "descripcion": "Cristal exterior decorado sin perder luz."
+    },
+    {
+      "titulo": "Vehículos",
+      "descripcion": "Lunas con gráfica, sujeto a la normativa aplicable."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "corte-contorno"
+  ],
+  "recomendaciones": [
+    "Comprueba la normativa si vas a aplicarlo en un vehículo.",
+    "Pide una prueba si el cristal es oscuro o tintado."
+  ],
+  "limitaciones": [
+    "La visión desde dentro empeora si el interior está más iluminado que el exterior.",
+    "La imagen pierde algo de definición y saturación frente a un vinilo sin perforar."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/vinilo-microperforado/muestra-01.webp",
+    "alt": "Vinilo microperforado impreso sobre un ventanal, con visión desde el interior",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/vinilo-microperforado/galeria-1-material.webp",
+      "alt": "Vinilo microperforado: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-microperforado/galeria-2-proceso.webp",
+      "alt": "Vinilo microperforado: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-microperforado/galeria-3-resultado.webp",
+      "alt": "Vinilo microperforado: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Vinilo microperforado impreso, aplicado sobre un cristal.",
+    "caracteristicasFisicas": "Trama de puntos muy pequeños visible de cerca; imagen a todo color por fuera.",
+    "entorno": "Escaparate de tienda visto desde la calle, con detalle del interior.",
+    "encuadre": "Primer plano en 45º para que se aprecie la trama de microagujeros.",
+    "texturaAcabado": "Superficie con micropuntos regulares, ligeramente mate.",
+    "noConfundirCon": [
+      "vinilo impreso sin perforar",
+      "vinilo ácido (esmerilado, sin trama de puntos)"
+    ]
+  },
+  "relacionados": [
+    "mat-03",
+    "mat-05",
+    "mat-04"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/ventanales-vinilo/01.webp",
+      "alt": "Vinilo microperforado en el cristal de un local, vista frontal",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "ventanales-vinilo"
+    },
+    {
+      "src": "assets/proyectos/ventanales-vinilo/02.webp",
+      "alt": "Vinilo impreso en el cristal de un local, vista frontal",
+      "proyecto": "ventanales-vinilo",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

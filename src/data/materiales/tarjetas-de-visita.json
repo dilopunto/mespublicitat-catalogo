@@ -1,0 +1,172 @@
+{
+  "id": "mat-31",
+  "slug": "tarjetas-de-visita",
+  "nombre": "Tarjetas de visita",
+  "categoria": "impresion-grafica",
+  "resumen": "Tarjetas impresas con los datos de contacto y la imagen de marca, en cartulina.",
+  "queEs": "Las tarjetas de visita son piezas impresas pequeñas con los datos de contacto y la imagen de marca. Se imprimen habitualmente en cartulina y admiten acabados como laminado o barniz. El formato estándar de referencia es 85 × 55 mm.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Imagen cuidada",
+      "texto": "Impresión nítida."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Acabados",
+      "texto": "Laminado, barniz u otros."
+    },
+    {
+      "icono": "ligero",
+      "titulo": "Portátiles",
+      "texto": "Pequeñas y fáciles de entregar."
+    }
+  ],
+  "ventajas": [
+    "Primera impresión profesional.",
+    "Admite varios acabados.",
+    "Producción en series."
+  ],
+  "composicion": {
+    "descripcion": "Cartulina de distintos gramajes y acabados. Gramajes y opciones por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Formato de referencia",
+      "valor": "85 × 55 mm",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Acabados",
+      "valor": "Laminado, barniz u otros, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": [
+      {
+        "nombre": "Tarjeta estándar",
+        "medida": "85 × 55 mm",
+        "estado": "referencia"
+      }
+    ],
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Profesionales",
+      "descripcion": "Tarjeta personal."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Tarjetas de cliente."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Entrega en ferias."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "barniz-uv",
+    "esquinas-redondeadas"
+  ],
+  "recomendaciones": [
+    "Cuida los márgenes de seguridad.",
+    "Elige un acabado que combine con tu marca."
+  ],
+  "limitaciones": [
+    "Espacio reducido para información.",
+    "Los acabados dependen de la disponibilidad."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/tarjetas-de-visita/muestra-01.webp",
+    "alt": "Tarjetas de visita impresas apiladas",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/tarjetas-de-visita/galeria-1-material.webp",
+      "alt": "Tarjetas de visita: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/tarjetas-de-visita/galeria-2-proceso.webp",
+      "alt": "Tarjetas de visita: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/tarjetas-de-visita/galeria-3-resultado.webp",
+      "alt": "Tarjetas de visita: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Tarjetas de visita impresas apiladas o en mano.",
+    "caracteristicasFisicas": "Cantos limpios, tipografía nítida y papel de buen cuerpo.",
+    "entorno": "Escritorio o mostrador.",
+    "encuadre": "Plano cenital con varias tarjetas y un detalle.",
+    "texturaAcabado": "Superficie lisa, mate o brillante.",
+    "noConfundirCon": [
+      "flyer",
+      "carnet de plástico"
+    ]
+  },
+  "relacionados": [
+    "mat-32",
+    "mat-36",
+    "mat-34"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

@@ -1,0 +1,200 @@
+{
+  "id": "mat-24",
+  "slug": "graficas-para-suelos",
+  "nombre": "Gráficas para suelos",
+  "categoria": "eventos-y-plv",
+  "resumen": "Vinilos y gráficas específicas para suelo, para señalizar recorridos y promociones.",
+  "queEs": "Las gráficas para suelo son vinilos pensados para aplicarse sobre el pavimento. Suelen incluir un laminado de protección y, según la referencia, propiedades antideslizantes (por confirmar). Se usan para señalizar recorridos, distancias de seguridad y promociones.",
+  "cualidades": [
+    {
+      "icono": "escudo",
+      "titulo": "Para tránsito",
+      "texto": "Pensadas para pisadas."
+    },
+    {
+      "icono": "ojo",
+      "titulo": "Señalización",
+      "texto": "Marcan recorridos y zonas."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Uso temporal",
+      "texto": "Campañas y eventos."
+    }
+  ],
+  "ventajas": [
+    "Dirige a las personas en un espacio.",
+    "Llamativas y visibles.",
+    "Se retiran al terminar."
+  ],
+  "composicion": {
+    "descripcion": "Vinilo para suelo con laminado de protección. Propiedades antideslizantes y certificaciones por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Laminado",
+      "valor": "Protección para suelo (por confirmar)",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Superficie",
+      "valor": "Suelo liso y limpio",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del producto."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Tiendas",
+      "descripcion": "Flechas y recorridos."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Marcas en el suelo."
+    },
+    {
+      "titulo": "Oficinas",
+      "descripcion": "Señalización de zonas."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "corte-contorno"
+  ],
+  "recomendaciones": [
+    "Aplica sobre suelos limpios y lisos.",
+    "Consulta requisitos de antideslizamiento."
+  ],
+  "limitaciones": [
+    "El desgaste depende del tránsito.",
+    "No se aplica sobre suelos muy rugosos."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/graficas-para-suelos/muestra-01.webp",
+    "alt": "Gráfica de suelo adhesiva en un centro comercial",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/graficas-para-suelos/galeria-1-material.webp",
+      "alt": "Gráficas para suelos: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/graficas-para-suelos/galeria-2-proceso.webp",
+      "alt": "Gráficas para suelos: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/graficas-para-suelos/galeria-3-resultado.webp",
+      "alt": "Gráficas para suelos: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Gráfica de suelo con flechas o mensaje, aplicada en pavimento.",
+    "caracteristicasFisicas": "Bordes limpios, color intenso y laminado de protección.",
+    "entorno": "Suelo de un comercio, oficina o evento.",
+    "encuadre": "Plano cenital o inclinado del suelo.",
+    "texturaAcabado": "Superficie ligeramente rugosa y mate.",
+    "noConfundirCon": [
+      "vinilo de pared",
+      "alfombra o moqueta impresa"
+    ]
+  },
+  "relacionados": [
+    "mat-03",
+    "mat-19",
+    "mat-20"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/f1-barcelona/09.webp",
+      "alt": "Pasillo con suelo gráfico a rayas rojas y blancas",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "f1-barcelona"
+    },
+    {
+      "src": "assets/proyectos/f1-barcelona/06.webp",
+      "alt": "Photocalls y suelo gráfico en carpa, vista general",
+      "proyecto": "f1-barcelona",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/f1-barcelona/07.webp",
+      "alt": "Photocall rojo y panel triangular en carpa",
+      "proyecto": "f1-barcelona",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/f1-barcelona/08.webp",
+      "alt": "Photocalls y suelo gráfico en carpa, vista diagonal",
+      "proyecto": "f1-barcelona",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

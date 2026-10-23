@@ -1,0 +1,200 @@
+{
+  "id": "mat-20",
+  "slug": "banderolas",
+  "nombre": "Banderolas",
+  "categoria": "eventos-y-plv",
+  "resumen": "Banderas verticales o banderolas para exterior e interior que atraen la mirada a distancia.",
+  "queEs": "Las banderolas son gráficas verticales que se cuelgan o se montan en un mástil, base o estructura. Se usan para señalizar comercios, eventos y espacios públicos con un mensaje visible a distancia. Existen modelos de distintas formas; los disponibles están por confirmar.",
+  "cualidades": [
+    {
+      "icono": "ojo",
+      "titulo": "Visibles a distancia",
+      "texto": "Formato vertical llamativo."
+    },
+    {
+      "icono": "sol",
+      "titulo": "Exterior",
+      "texto": "Pensadas para estar fuera."
+    },
+    {
+      "icono": "ligero",
+      "titulo": "Ligeras",
+      "texto": "Fáciles de montar."
+    }
+  ],
+  "ventajas": [
+    "Atraen la atención desde lejos.",
+    "Fáciles de cambiar.",
+    "Se adaptan a varios soportes."
+  ],
+  "composicion": {
+    "descripcion": "Tejido de poliéster u otro, con mástil o base. Materiales por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Soporte",
+      "valor": "Mástil, base o farola",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Gráfica",
+      "valor": "Impresa en tejido",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso posible en interior."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Uso habitual; durabilidad por confirmar."
+    }
+  },
+  "aplicaciones": [
+    "exterior",
+    "eventos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Entrada de local",
+      "descripcion": "Banderola junto a la puerta."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Señalización de acceso."
+    },
+    {
+      "titulo": "Calles",
+      "descripcion": "Banderolas en farolas, sujeto a permisos."
+    }
+  ],
+  "acabadosCompatibles": [
+    "dobladillo-refuerzo",
+    "ojales"
+  ],
+  "recomendaciones": [
+    "Consulta permisos si va en vía pública.",
+    "Elige un anclaje adecuado al viento."
+  ],
+  "limitaciones": [
+    "El viento puede deteriorarlas.",
+    "Necesitan un soporte seguro."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/banderolas/muestra-01.webp",
+    "alt": "Banderolas publicitarias impresas en un espacio exterior",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/banderolas/galeria-1-material.webp",
+      "alt": "Banderolas: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/banderolas/galeria-2-proceso.webp",
+      "alt": "Banderolas: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/banderolas-bilbao/07.webp",
+      "alt": "Banderolas impresas colgadas de una farola en un paseo urbano",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "50% 15%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Banderola vertical impresa montada en un mástil.",
+    "caracteristicasFisicas": "Tela tensa y flameando ligeramente, con gráfica clara.",
+    "entorno": "Entrada de un local o calle durante un evento.",
+    "encuadre": "Plano vertical completo desde abajo.",
+    "texturaAcabado": "Tejido ligero, algo brillante.",
+    "noConfundirCon": [
+      "pancarta horizontal",
+      "roll up (interior)"
+    ]
+  },
+  "relacionados": [
+    "mat-14",
+    "mat-13",
+    "mat-15"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/banderolas-bilbao/05.webp",
+      "alt": "Banderolas dobles en farola junto a la ría, de día",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 10%",
+      "proyecto": "banderolas-bilbao"
+    },
+    {
+      "src": "assets/proyectos/banderolas-bilbao/01.webp",
+      "alt": "Banderolas dobles en farola, de noche, junto a un puente",
+      "proyecto": "banderolas-bilbao",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/banderolas-valencia/01.webp",
+      "alt": "Banderolas dobles en farola, de noche, junto a árboles",
+      "proyecto": "banderolas-valencia",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/banderolas-campanas/01.webp",
+      "alt": "Banderolas dobles en farola, de día, en paseo marítimo",
+      "proyecto": "banderolas-campanas",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}

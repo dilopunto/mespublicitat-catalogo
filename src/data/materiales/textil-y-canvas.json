@@ -1,0 +1,183 @@
+{
+  "id": "mat-18",
+  "slug": "textil-y-canvas",
+  "nombre": "Textil y canvas",
+  "categoria": "gran-formato",
+  "resumen": "Impresión sobre tejidos y lienzos para decoración, stands y gráficas tensadas.",
+  "queEs": "Esta categoría reúne la impresión sobre tejido y sobre canvas (lienzo). El textil se usa en gráficas tensadas en bastidores y sistemas de tensado; el canvas se emplea en cuadros y decoración. Aportan un acabado cálido y sin reflejos.",
+  "cualidades": [
+    {
+      "icono": "textil",
+      "titulo": "Aspecto textil",
+      "texto": "Acabado suave y sin brillos."
+    },
+    {
+      "icono": "plegable",
+      "titulo": "Fácil de transportar",
+      "texto": "Se dobla o enrolla."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Decoración",
+      "texto": "Buen resultado en interiores."
+    }
+  ],
+  "ventajas": [
+    "Acabado elegante y sin reflejos.",
+    "Ligero y transportable.",
+    "Útil para stands y decoración."
+  ],
+  "composicion": {
+    "descripcion": "Tejidos de poliéster y lienzos (canvas). Gramajes y tipos por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Montaje",
+      "valor": "Bastidor, perfil o sistema de tensado",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Acabado",
+      "valor": "Mate, textil",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del tejido; confirmar."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Stands",
+      "descripcion": "Gráficas textiles tensadas."
+    },
+    {
+      "titulo": "Decoración",
+      "descripcion": "Cuadros de lienzo para espacios."
+    },
+    {
+      "titulo": "Fondos",
+      "descripcion": "Telones y fondos de eventos."
+    }
+  ],
+  "acabadosCompatibles": [
+    "montaje-bastidor",
+    "dobladillo-refuerzo"
+  ],
+  "recomendaciones": [
+    "Define el sistema de montaje antes de imprimir.",
+    "Aplica márgenes de seguridad en el diseño."
+  ],
+  "limitaciones": [
+    "No es el soporte más rígido.",
+    "Requiere estructura para mantenerse tenso."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/textil-y-canvas/muestra-01.webp",
+    "alt": "Impresión sobre lienzo (canvas) en una pared interior",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/textil-y-canvas/galeria-1-material.webp",
+      "alt": "Textil y canvas: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/textil-y-canvas/galeria-2-proceso.webp",
+      "alt": "Textil y canvas: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/evento-hotel-madrid/02.webp",
+      "alt": "Detalle de funda de silla con gráfica impresa",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "tipo": "resultado"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Gráfica textil tensada sobre bastidor, o canvas enmarcado.",
+    "caracteristicasFisicas": "Tejido tenso, sin arrugas y con trama textil visible de cerca.",
+    "entorno": "Interior decorado o stand de feria.",
+    "encuadre": "Plano medio con detalle del borde y del tejido.",
+    "texturaAcabado": "Superficie mate con trama de tejido.",
+    "noConfundirCon": [
+      "lona frontlit (recubierta de PVC)",
+      "papel impreso (sin trama)"
+    ]
+  },
+  "relacionados": [
+    "mat-13",
+    "mat-16",
+    "mat-17"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/evento-hotel-madrid/01.webp",
+      "alt": "Fundas de silla impresas en una sala de conferencias",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "evento-hotel-madrid"
+    },
+    {
+      "src": "assets/proyectos/evento-hotel-madrid/03.webp",
+      "alt": "Vista lateral de la sala con fundas de silla impresas",
+      "proyecto": "evento-hotel-madrid",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}

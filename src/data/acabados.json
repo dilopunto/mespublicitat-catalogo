@@ -1,0 +1,164 @@
+[
+  {
+    "id": "laminado",
+    "slug": "laminado",
+    "nombre": "Laminado",
+    "descripcion": "Película transparente sobre la impresión que la protege de roces y luz y define el acabado visual (mate o brillo).",
+    "tipo": "Protección",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "corte-contorno",
+    "slug": "corte-contorno",
+    "nombre": "Corte de contorno",
+    "descripcion": "Corte siguiendo la forma del diseño con plóter, para vinilos y adhesivos con formas especiales.",
+    "tipo": "Corte",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "troquelado",
+    "slug": "troquelado",
+    "nombre": "Troquelado",
+    "descripcion": "Corte con troquel para formas repetidas y piezas en serie.",
+    "tipo": "Corte",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "cinta-transferencia",
+    "slug": "cinta-transferencia",
+    "nombre": "Cinta de transferencia",
+    "descripcion": "Cinta que mantiene el diseño unido para aplicarlo de una vez sobre la superficie.",
+    "tipo": "Aplicación",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "montaje-sobre-rigido",
+    "slug": "montaje-sobre-rigido",
+    "nombre": "Montaje sobre rígido",
+    "descripcion": "Pegado del vinilo o papel impreso sobre un panel rígido.",
+    "tipo": "Montaje",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "corte-a-medida",
+    "slug": "corte-a-medida",
+    "nombre": "Corte a medida",
+    "descripcion": "Corte recto a las medidas del proyecto.",
+    "tipo": "Corte",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "fresado-cnc",
+    "slug": "fresado-cnc",
+    "nombre": "Fresado y corte CNC",
+    "descripcion": "Corte de contornos y formas en planchas rígidas con fresadora.",
+    "tipo": "Corte",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "canto-pulido",
+    "slug": "canto-pulido",
+    "nombre": "Canto pulido",
+    "descripcion": "Acabado liso y brillante del borde en metacrilato.",
+    "tipo": "Acabado de borde",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "esquinas-redondeadas",
+    "slug": "esquinas-redondeadas",
+    "nombre": "Esquinas redondeadas",
+    "descripcion": "Redondeo de las esquinas para un acabado más seguro y cuidado.",
+    "tipo": "Acabado de borde",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "ojales",
+    "slug": "ojales",
+    "nombre": "Ojales",
+    "descripcion": "Refuerzos en los bordes de lonas y banners para colgarlos.",
+    "tipo": "Fijación",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "dobladillo-refuerzo",
+    "slug": "dobladillo-refuerzo",
+    "nombre": "Dobladillo y refuerzo",
+    "descripcion": "Borde doblado y reforzado que evita desgarros en lonas y tejidos.",
+    "tipo": "Fijación",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "montaje-bastidor",
+    "slug": "montaje-bastidor",
+    "nombre": "Montaje en bastidor",
+    "descripcion": "Tensado de tela o lienzo sobre un marco.",
+    "tipo": "Montaje",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "montaje-estructura",
+    "slug": "montaje-estructura",
+    "nombre": "Montaje en estructura",
+    "descripcion": "Gráfica montada sobre estructura (roll up, fotocall, stand).",
+    "tipo": "Montaje",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "barniz-uv",
+    "slug": "barniz-uv",
+    "nombre": "Barniz UV",
+    "descripcion": "Barniz sobre papel o cartulina para realzar zonas o proteger la impresión.",
+    "tipo": "Protección",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "plegado",
+    "slug": "plegado",
+    "nombre": "Plegado",
+    "descripcion": "Plegado de impresos en dípticos, trípticos y otros formatos.",
+    "tipo": "Manipulado",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "encuadernacion",
+    "slug": "encuadernacion",
+    "nombre": "Encuadernación",
+    "descripcion": "Unión de páginas mediante grapado, espiral u otros sistemas.",
+    "tipo": "Manipulado",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "bordado",
+    "slug": "bordado",
+    "nombre": "Bordado",
+    "descripcion": "Personalización de prendas con hilo, habitual en polos, gorras y ropa de trabajo.",
+    "tipo": "Personalización textil",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  },
+  {
+    "id": "estampado-textil",
+    "slug": "estampado-textil",
+    "nombre": "Estampado textil",
+    "descripcion": "Personalización de prendas mediante estampado (técnica por confirmar).",
+    "tipo": "Personalización textil",
+    "ofrecidoPorEmpresa": null,
+    "verificado": false
+  }
+]

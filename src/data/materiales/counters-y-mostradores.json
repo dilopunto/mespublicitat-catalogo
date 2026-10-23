@@ -1,0 +1,176 @@
+{
+  "id": "mat-21",
+  "slug": "counters-y-mostradores",
+  "nombre": "Counters y mostradores",
+  "categoria": "eventos-y-plv",
+  "resumen": "Mostradores y counters promocionales con gráfica, para ferias, tiendas y acciones de marca.",
+  "queEs": "Los counters y mostradores son muebles promocionales con la imagen de marca. Se usan para atender al público en ferias, tiendas o eventos. Pueden ser plegables, modulares o de cartón, según el uso.",
+  "cualidades": [
+    {
+      "icono": "plegable",
+      "titulo": "Portátil",
+      "texto": "Se monta y desmonta."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen de marca",
+      "texto": "Gráfica a medida."
+    },
+    {
+      "icono": "rigido",
+      "titulo": "Funcional",
+      "texto": "Superficie de trabajo."
+    }
+  ],
+  "ventajas": [
+    "Punto de atención propio.",
+    "Ligero y fácil de transportar.",
+    "Refuerza la marca."
+  ],
+  "composicion": {
+    "descripcion": "Estructura y paneles con gráfica impresa. Materiales y modelos por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Tipos",
+      "valor": "Plegable, modular o de cartón",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Gráfica",
+      "valor": "Integrada en el frontal",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del modelo."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos",
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Ferias",
+      "descripcion": "Atención en el stand."
+    },
+    {
+      "titulo": "Tiendas",
+      "descripcion": "Punto de promoción."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Registro y recepción."
+    }
+  ],
+  "acabadosCompatibles": [
+    "montaje-estructura",
+    "montaje-sobre-rigido"
+  ],
+  "recomendaciones": [
+    "Define la altura y el uso de la parte superior.",
+    "Prevé un espacio de almacenaje."
+  ],
+  "limitaciones": [
+    "La capacidad de carga depende del modelo.",
+    "Requiere transporte adecuado."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/counters-y-mostradores/muestra-01.webp",
+    "alt": "Mostrador impreso en un espacio de feria",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/counters-y-mostradores/galeria-1-material.webp",
+      "alt": "Counters y mostradores: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/counters-y-mostradores/galeria-2-proceso.webp",
+      "alt": "Counters y mostradores: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/jornada-directivos/03.webp",
+      "alt": "Mostradores de acogida con gráfica corporativa, vista frontal",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Counter promocional con gráfica frontal.",
+    "caracteristicasFisicas": "Frontal impreso, superficie de trabajo limpia.",
+    "entorno": "Stand o tienda con público alrededor.",
+    "encuadre": "Plano frontal con detalle de la gráfica.",
+    "texturaAcabado": "Superficies mates, aristas limpias.",
+    "noConfundirCon": [
+      "stand completo",
+      "expositor de producto"
+    ]
+  },
+  "relacionados": [
+    "mat-19",
+    "mat-22",
+    "mat-15"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/jornada-directivos/02.webp",
+      "alt": "Dos mostradores de acogida con frontal impreso y atril de señalización",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "jornada-directivos"
+    }
+  ]
+}

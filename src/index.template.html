@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- Fase 2: catálogo de materiales -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Catálogo de materiales | MésPublicitat</title>
+<meta name="description" content="Catálogo interactivo de MésPublicitat: vinilos, soportes rígidos, gran formato, eventos y PLV, textil e impresión gráfica. Te ayudamos a escoger el soporte adecuado.">
+<meta property="og:title" content="Catálogo de materiales | MésPublicitat">
+<meta property="og:type" content="website">
+<link rel="icon" type="image/png" href="__LOGO_ISO__">
+<style>
+/*__CSS__*/
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<header class="top"><div class="wrap bar">
+<a class="brand" href="#inicio" aria-label="MésPublicitat, ir al inicio"><img data-logo="full" width="1699" height="515" alt="MésPublicitat"></a>
+<button class="burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav"><span></span><span></span><span></span></button>
+<nav id="nav" aria-label="Principal"><ul>
+<li><a href="#inicio">Inicio</a></li><li><a href="#quienes-somos">Quiénes somos</a></li><li><a href="#materiales">Materiales</a></li><li><a href="#aplicaciones">Aplicaciones</a></li><li><a href="#acabados">Acabados</a></li><li><a href="#contacto">Contacto</a></li></ul></nav>
+</div></header>
+
+<main id="main">
+<div class="page" data-page="inicio">
+<section class="hero"><div class="wrap">
+<div><h1 class="rv">¿Qué quieres que se vea?</h1>
+<p class="lead rv" style="--d:.1s">Catálogo de materiales de impresión publicitaria. Vinilos, rígidos, gran formato, eventos, textil e impresión gráfica: te ayudamos a escoger el soporte adecuado.</p>
+<div class="row rv" style="--d:.2s"><a class="btn" href="#materiales">Explorar catálogo <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a><a class="btn ghost" href="#contacto">Solicitar presupuesto</a></div></div>
+<img class="iso" data-logo="iso" width="518" height="515" alt="" role="presentation">
+</div></section>
+
+<section id="catalogo" style="padding-top:0"><div class="wrap">
+<div class="head"><div><h2 class="rv">Catálogo interactivo</h2><p class="lead rv">Seis familias y 36 materiales. ¿Interior o exterior? Entra en la que necesitas y compara.</p></div>
+<a class="btn ghost rv" href="#materiales">Ver todos los materiales</a></div>
+<div class="grid" id="cats"></div></div></section>
+
+<section class="on-dark"><div class="wrap">
+<div class="head"><h2 class="rv">De la idea a la instalación</h2></div>
+<div class="cols4" id="svc"></div></div></section>
+
+<section><div class="wrap exp">
+<div><h2 class="rv">Soluciones de comunicación visual</h2><p class="lead rv">Para empresas, marcas, espacios y eventos. Combinamos asesoramiento, producción, impresión e instalación.</p></div>
+<dl class="rv" style="--d:.1s"><dt>Según el uso</dt><dd>Interior o exterior, de forma puntual o permanente.</dd><dt>Según la superficie</dt><dd>Cristal, pared, vehículo, suelo, textil o soporte rígido.</dd><dt>Según duración y presupuesto</dt><dd>Te recomendamos el material que encaja, sin tecnicismos innecesarios.</dd></dl>
+</div></section>
+
+<section style="background:#fff;padding-top:0"><div class="wrap">
+<div class="head"><h2 class="rv">Cómo trabajamos</h2></div>
+<div class="cols4" id="steps"></div></div></section>
+
+<section class="on-red"><div class="wrap">
+<div class="head"><h2 class="rv">MésPublicitat en cifras</h2></div>
+<div class="cols3" id="figs"></div></div></section>
+
+<section><div class="wrap">
+<div class="head"><div><h2 class="rv">Marcas colaboradoras</h2><p class="lead rv">Algunos de los clientes que confían en nosotros.</p></div></div>
+<div class="logos rv" id="brands"></div></div></section>
+
+<section class="on-dark cta"><div class="wrap">
+<div><h2 class="rv">¿Tienes un proyecto en mente?</h2><p class="rv" style="--d:.1s">Cuéntanos tu idea y te ayudamos a encontrar la mejor solución.</p></div>
+<div class="row rv" style="--d:.2s"><a class="btn" href="#contacto">Solicitar presupuesto <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a><a class="btn ghost" href="#materiales">Explorar catálogo</a></div>
+</div></section>
+</div>
+
+<div class="page" data-page="materiales">
+<section class="mhead"><div class="wrap">
+<nav class="crumbs" id="mCrumb" aria-label="Migas de pan"></nav>
+<h1 class="rv">Materiales</h1>
+<p class="lead rv" style="--d:.1s">Elige una familia, busca por nombre o filtra por dónde lo vas a usar. Te ayudamos a escoger el soporte adecuado.</p>
+</div></section>
+<section class="mtool"><div class="wrap">
+<div class="search"><label class="sr" for="mSearch">Buscar material</label>
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+<input id="mSearch" type="search" placeholder="Busca un material: vinilo, lona, camisetas…" autocomplete="off" spellcheck="false">
+<button type="button" id="mClear" hidden>Borrar</button></div>
+<div class="filters">
+<div class="fgroup" role="group" aria-labelledby="fl1"><span class="flabel" id="fl1">Categoría</span><div class="chips" id="mCats"></div></div>
+<div class="fgroup" role="group" aria-labelledby="fl2"><span class="flabel" id="fl2">Aplicación</span><div class="chips" id="mApps"></div></div>
+</div>
+<div class="fbar"><p id="mCount" aria-live="polite"></p><button type="button" id="mReset" hidden>Quitar filtros</button></div>
+</div></section>
+<section class="mres"><div class="wrap" id="mList"></div></section>
+<section class="on-red cta"><div class="wrap">
+<div><h2 class="rv">¿Necesitas asesoramiento?</h2><p class="rv" style="--d:.1s">Te ayudamos a elegir el material perfecto para tu proyecto.</p></div>
+<div class="row rv" style="--d:.2s"><a class="btn" href="#contacto">Contactar ahora <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a></div>
+</div></section>
+</div>
+
+<div class="page" data-page="quienes-somos">
+<section class="mhead"><div class="wrap"><nav class="crumbs" aria-label="Migas de pan"><a href="#inicio">Inicio</a><i>/</i><span aria-current="page">Quiénes somos</span></nav><h1 class="rv">Quiénes somos</h1><p class="lead rv" style="--d:.1s" id="qsLead"></p></div></section>
+<section style="padding-block:0"><div class="wrap"><div class="qsimgs" id="qsImgs"></div></div></section>
+<section class="on-dark"><div class="wrap"><div class="head"><h2 class="rv">Qué hacemos</h2></div><div class="cols4" id="qsSvc"></div></div></section>
+<section><div class="wrap"><div class="head"><h2 class="rv">Cómo trabajamos</h2></div><div class="cols4" id="qsSteps"></div></div></section>
+<section class="on-red cta"><div class="wrap"><div><h2 class="rv">¿Tienes un proyecto en mente?</h2><p class="rv" style="--d:.1s">Cuéntanos tu idea y te ayudamos a encontrar la mejor solución.</p></div><div class="row rv" style="--d:.2s"><a class="btn" href="#contacto">Solicitar presupuesto <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a></div></div></section>
+</div>
+
+<div class="page" data-page="aplicaciones">
+<section class="mhead"><div class="wrap"><nav class="crumbs" aria-label="Migas de pan"><a href="#inicio">Inicio</a><i>/</i><span aria-current="page">Aplicaciones</span></nav><h1 class="rv">Aplicaciones</h1><p class="lead rv" style="--d:.1s">¿Interior o exterior? Elige dónde vas a usar tu proyecto y mira los materiales que encajan.</p></div></section>
+<section class="mres"><div class="wrap" id="apList"></div></section>
+<section class="on-red cta"><div class="wrap"><div><h2 class="rv">¿Tienes un proyecto en mente?</h2><p class="rv" style="--d:.1s">Cuéntanos tu idea y te ayudamos a encontrar la mejor solución.</p></div><div class="row rv" style="--d:.2s"><a class="btn" href="#contacto">Solicitar presupuesto <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a></div></div></section>
+</div>
+
+<div class="page" data-page="acabados">
+<section class="mhead"><div class="wrap"><nav class="crumbs" aria-label="Migas de pan"><a href="#inicio">Inicio</a><i>/</i><span aria-current="page">Acabados</span></nav><h1 class="rv">Acabados</h1><p class="lead rv" style="--d:.1s">El acabado protege, da forma y prepara la pieza para su instalación. Consulta cuáles son compatibles con cada material.</p></div></section>
+<section class="mres"><div class="wrap" id="acList"></div></section>
+<section class="on-red cta"><div class="wrap"><div><h2 class="rv">¿Tienes un proyecto en mente?</h2><p class="rv" style="--d:.1s">Cuéntanos tu idea y te ayudamos a encontrar la mejor solución.</p></div><div class="row rv" style="--d:.2s"><a class="btn" href="#contacto">Solicitar presupuesto <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a></div></div></section>
+</div>
+
+<div class="page" data-page="cookies">
+<section class="mhead"><div class="wrap"><nav class="crumbs" aria-label="Migas de pan"><a href="#inicio">Inicio</a><i>/</i><span aria-current="page">Política de cookies</span></nav><h1 class="rv">Política de cookies</h1><p class="lead rv" style="--d:.1s" id="ckLead"></p></div></section>
+<section><div class="wrap"><div class="legaltxt" id="ckDoc"></div></div></section>
+</div>
+
+<div class="page" data-page="contacto">
+<section class="mhead"><div class="wrap"><nav class="crumbs" aria-label="Migas de pan"><a href="#inicio">Inicio</a><i>/</i><span aria-current="page">Contacto</span></nav><h1 class="rv">Contacto</h1><p class="lead rv" style="--d:.1s">Cuéntanos tu idea y te ayudamos a encontrar la mejor solución.</p></div></section>
+<section class="mres"><div class="wrap cgrid">
+<div><form id="cForm" class="cform" novalidate>
+<div class="fields">
+<div class="fld"><label for="cNombre">Nombre</label><input id="cNombre" name="nombre" type="text" autocomplete="name" aria-describedby="eNombre" required><p class="err" id="eNombre" hidden>Escribe tu nombre.</p></div>
+<div class="fld"><label for="cEmail">Correo electrónico</label><input id="cEmail" name="email" type="email" autocomplete="email" aria-describedby="eEmail" required><p class="err" id="eEmail" hidden>Escribe un correo válido.</p></div>
+<div class="fld"><label for="cTel">Teléfono <small>(opcional)</small></label><input id="cTel" name="telefono" type="tel" autocomplete="tel"></div>
+<div class="fld"><label for="cEmpresa">Empresa <small>(opcional)</small></label><input id="cEmpresa" name="empresa" type="text" autocomplete="organization"></div>
+<div class="fld full"><label for="cMaterial">Material</label><select id="cMaterial" name="material"></select></div>
+<div class="fld full"><label for="cMensaje">Tu proyecto</label><textarea id="cMensaje" name="mensaje" aria-describedby="eMensaje" required placeholder="Qué quieres comunicar, dónde lo vas a colocar y para cuándo lo necesitas."></textarea><p class="err" id="eMensaje" hidden>Cuéntanos brevemente tu proyecto.</p></div>
+<div class="fld full"><label for="cMedidas">Medidas y cantidad <small>(opcional)</small></label><input id="cMedidas" name="medidas" type="text" placeholder="Por ejemplo, tamaño aproximado y número de piezas"></div>
+</div>
+<div class="fld full chk"><label for="cConsent"><input id="cConsent" type="checkbox" aria-describedby="eConsent" required> Acepto que MÉS PUBLICITAT trate mis datos para responder a esta solicitud de presupuesto.</label><p class="err" id="eConsent" hidden>Necesitamos tu consentimiento para poder responderte.</p></div>
+<button class="btn" type="submit">Preparar solicitud <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></button>
+</form>
+<div class="cres" id="cResult" tabindex="-1" hidden><h2>Resumen de tu solicitud</h2><pre id="cSummary"></pre><p id="cStatus" class="fnote"></p><div class="row"><button class="btn ghost" type="button" id="cCopy">Copiar resumen</button><a class="btn" id="cMail" href="#contacto" hidden>Abrir correo</a></div><p class="fnote" id="cCopied" role="status"></p></div>
+</div>
+<aside class="cinfo" id="cInfo"></aside>
+</div></section>
+</div>
+
+<div class="page" data-page="ficha"><div id="fichaRoot"></div></div>
+
+</main>
+
+<footer><div class="wrap">
+<div><img data-logo="full" width="1699" height="515" alt="MésPublicitat" loading="lazy"></div>
+<ul><li><a href="#inicio">Inicio</a></li><li><a href="#quienes-somos">Quiénes somos</a></li><li><a href="#materiales">Materiales</a></li><li><a href="#aplicaciones">Aplicaciones</a></li><li><a href="#acabados">Acabados</a></li><li><a href="#contacto">Contacto</a></li></ul>
+<small><span>© 2026 MésPublicitat. Catálogo de materiales.</span><span class="legal"><a href="#cookies">Política de cookies</a><button type="button" id="ckOpen">Configurar cookies</button></span></small>
+</div></footer>
+
+<script>window.CATALOGO=__DATA__;</script>
+<div id="ckBanner" class="ck" role="region" aria-label="Aviso de cookies" hidden>
+<h2>Tu privacidad</h2>
+<p id="ckText"></p>
+<div class="ck-row"><button type="button" class="ckb ckb-red" id="ckAll">Aceptar todas</button><button type="button" class="ckb ckb-blk" id="ckRej">Rechazar opcionales</button><button type="button" class="ckb ckb-out" id="ckCfg">Configurar cookies</button></div>
+<a href="#cookies" class="ck-link">Política de cookies</a>
+</div>
+<dialog id="ckDlg" class="ckd" aria-labelledby="ckDt"><form method="dialog" id="ckForm"><h2 id="ckDt">Configurar cookies</h2><div id="ckCats"></div>
+<div class="ck-row"><button type="button" class="ckb ckb-red" id="ckSave">Guardar selección</button><button type="button" class="ckb ckb-out" id="ckClose">Cerrar</button></div></form></dialog>
+<script>
+/*__JS__*/
+</script>
+</body>
+</html>

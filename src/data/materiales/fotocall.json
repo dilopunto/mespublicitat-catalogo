@@ -1,0 +1,199 @@
+{
+  "id": "mat-16",
+  "slug": "fotocall",
+  "nombre": "Fotocall",
+  "categoria": "gran-formato",
+  "resumen": "Fondo impreso de gran formato para fotos en eventos, con estructura o tensado.",
+  "queEs": "Un fotocall es un fondo gráfico para fotografiar a invitados o personalidades en eventos. Suele componerse de una gráfica de gran formato con logotipos repetidos, montada sobre estructura. El material y la estructura dependen del tipo de evento.",
+  "cualidades": [
+    {
+      "icono": "escala",
+      "titulo": "Gran formato",
+      "texto": "Cubre un fondo amplio."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen de marca",
+      "texto": "Logotipos repetidos."
+    },
+    {
+      "icono": "plegable",
+      "titulo": "Montaje con estructura",
+      "texto": "Se monta y desmonta."
+    }
+  ],
+  "ventajas": [
+    "Refuerza la imagen de marca en cada foto.",
+    "Se transporta y se reutiliza.",
+    "Adaptable a distintos tamaños."
+  ],
+  "composicion": {
+    "descripcion": "Gráfica impresa en tejido o lona, sobre estructura. Materiales y estructuras por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Estructura",
+      "valor": "Por confirmar (ej. tijera o pop-up)",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Gráfica",
+      "valor": "Impresa de gran formato",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende de estructura y material."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Presentaciones de producto",
+      "descripcion": "Fondo con logotipo repetido."
+    },
+    {
+      "titulo": "Eventos sociales",
+      "descripcion": "Fondo fotográfico."
+    },
+    {
+      "titulo": "Ferias",
+      "descripcion": "Fondo de entrevistas."
+    }
+  ],
+  "acabadosCompatibles": [
+    "montaje-estructura",
+    "montaje-bastidor"
+  ],
+  "recomendaciones": [
+    "Prefiere acabados mates para evitar reflejos del flash.",
+    "Repite el logotipo con espacio suficiente."
+  ],
+  "limitaciones": [
+    "Los acabados brillantes reflejan la luz.",
+    "Requiere espacio de montaje."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/proyectos/photocall-cabaret/01.webp",
+    "alt": "Photocall grande con estructura de trusses y focos",
+    "estado": "disponible",
+    "origen": "propia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/proyectos/photocalls-carpa/01.webp",
+      "alt": "Reverso de un photocall: panel con bastidor de madera",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "material",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/fotocall/galeria-2-proceso.webp",
+      "alt": "Fotocall: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/neverland/01.webp",
+      "alt": "Photocall largo con logos de patrocinadores sobre césped",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Fotocall con gráfica repetida sobre estructura, en un evento.",
+    "caracteristicasFisicas": "Gráfica tensa, mate, con logotipos repetidos y buen encuadre.",
+    "entorno": "Sala de presentación o evento con iluminación.",
+    "encuadre": "Plano frontal con una persona posando para dar escala.",
+    "texturaAcabado": "Superficie plana y mate, sin reflejos.",
+    "noConfundirCon": [
+      "roll up (más estrecho)",
+      "pared decorada con mural"
+    ]
+  },
+  "relacionados": [
+    "mat-15",
+    "mat-19",
+    "mat-13"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/evento-economistas-barcelona/02.webp",
+      "alt": "Panel vertical impreso en un vestíbulo",
+      "proyecto": "evento-economistas-barcelona",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/photocalls-carpa/02.webp",
+      "alt": "Photocall frontal grande en carpa",
+      "proyecto": "photocalls-carpa",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/foro-bienestar/01.webp",
+      "alt": "Photocall corporativo impreso en una sala",
+      "proyecto": "foro-bienestar",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/exposicion-madrid/01.webp",
+      "alt": "Photocall exterior sobre muro de ladrillo, vista lateral",
+      "proyecto": "exposicion-madrid",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

@@ -1,0 +1,1895 @@
+{
+ "proyectos": [
+  {
+   "id": "banderolas-bilbao",
+   "nombre": "Banderolas en la vía pública de Bilbao",
+   "fotos": 10
+  },
+  {
+   "id": "banderolas-valencia",
+   "nombre": "Banderolas en la vía pública de Valencia",
+   "fotos": 6
+  },
+  {
+   "id": "banderolas-campanas",
+   "nombre": "Banderolas en farola: campañas culturales y de eventos",
+   "fotos": 12
+  },
+  {
+   "id": "evento-hotel-madrid",
+   "nombre": "Evento en hotel de Madrid: fundas de silla y lanyards",
+   "fotos": 4
+  },
+  {
+   "id": "evento-economistas-barcelona",
+   "nombre": "Jornada de evento en Barcelona",
+   "fotos": 3
+  },
+  {
+   "id": "camion-circo",
+   "nombre": "Rotulación integral de camión de circo",
+   "fotos": 3
+  },
+  {
+   "id": "food-truck",
+   "nombre": "Food trucks",
+   "fotos": 2
+  },
+  {
+   "id": "puesto-burger",
+   "nombre": "Puesto de comida en el puerto",
+   "fotos": 4
+  },
+  {
+   "id": "concierto-anfiteatro",
+   "nombre": "Concierto en anfiteatro: escenografía y accesorios",
+   "fotos": 4
+  },
+  {
+   "id": "cartel-exterior",
+   "nombre": "Cartelería exterior ilustrada",
+   "fotos": 1
+  },
+  {
+   "id": "rotulos-fachada",
+   "nombre": "Rótulos de fachada",
+   "fotos": 4
+  },
+  {
+   "id": "stand-feria-fitness",
+   "nombre": "Stand de feria con banderola de vela",
+   "fotos": 1
+  },
+  {
+   "id": "ventanales-vinilo",
+   "nombre": "Vinilos en cristal y puertas",
+   "fotos": 5
+  },
+  {
+   "id": "columna-impresa",
+   "nombre": "Columna impresa en taller",
+   "fotos": 1
+  },
+  {
+   "id": "photocalls-carpa",
+   "nombre": "Photocalls en carpa de espectáculos",
+   "fotos": 6
+  },
+  {
+   "id": "exposicion-alicia",
+   "nombre": "Exposición: merchandising y panel recortado",
+   "fotos": 2
+  },
+  {
+   "id": "foro-ciberseguridad",
+   "nombre": "Foro de ciberseguridad en Barcelona",
+   "fotos": 2
+  },
+  {
+   "id": "mural-interior",
+   "nombre": "Mural impreso en interior",
+   "fotos": 1
+  },
+  {
+   "id": "frisos-local-infantil",
+   "nombre": "Frisos impresos en local infantil",
+   "fotos": 1
+  },
+  {
+   "id": "finance-summit",
+   "nombre": "Panel de jornada financiera",
+   "fotos": 1
+  },
+  {
+   "id": "parque-hinchable",
+   "nombre": "Taquilla de parque hinchable",
+   "fotos": 1
+  },
+  {
+   "id": "stand-feria-animacion",
+   "nombre": "Stand de feria para escuela de animación",
+   "fotos": 4
+  },
+  {
+   "id": "letras-corporeas",
+   "nombre": "Letras corpóreas en taller",
+   "fotos": 2
+  },
+  {
+   "id": "merch-festival",
+   "nombre": "Merchandising de festival",
+   "fotos": 3
+  },
+  {
+   "id": "festival-musica",
+   "nombre": "Escenografía de festival de música",
+   "fotos": 4
+  },
+  {
+   "id": "foro-bienestar",
+   "nombre": "Foro corporativo de bienestar",
+   "fotos": 4
+  },
+  {
+   "id": "jornada-directivos",
+   "nombre": "Jornada corporativa de directivos en Barcelona",
+   "fotos": 6
+  },
+  {
+   "id": "f1-barcelona",
+   "nombre": "Montaje de zona de hospitalidad deportiva",
+   "fotos": 9
+  },
+  {
+   "id": "graduacion",
+   "nombre": "Escenografía de graduación",
+   "fotos": 1
+  },
+  {
+   "id": "lanyard-acreditacion",
+   "nombre": "Lanyard con acreditación",
+   "fotos": 1
+  },
+  {
+   "id": "remolque-espectaculo",
+   "nombre": "Remolque rotulado de espectáculo",
+   "fotos": 1
+  },
+  {
+   "id": "exposicion-madrid",
+   "nombre": "Photocalls de exposición en Madrid",
+   "fotos": 4
+  },
+  {
+   "id": "neverland",
+   "nombre": "Photocall The Island of Neverland",
+   "fotos": 1
+  },
+  {
+   "id": "photocall-cabaret",
+   "nombre": "Photocall musical Cabaret",
+   "fotos": 1
+  }
+ ],
+ "fotos": [
+  {
+   "id": "p-001",
+   "origen": "proyectos/BANDEEROLAS CABARET.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de noche, junto a un puente",
+   "web": "assets/proyectos/banderolas-bilbao/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-002",
+   "origen": "proyectos/EVENTO HOTEL RIO PLAZA MADRID, (SIN DETALLAR LAS MARCAS QUE VEAS) PRODUCCIÓN LANYARS Y CHAIRCOVERS/WhatsApp Image 2026-09-22 at 20.20.22 (1).jpeg",
+   "proyecto": "evento-hotel-madrid",
+   "descripcion": "Sala de conferencias con fundas de silla impresas y pantalla de patrocinadores",
+   "web": "assets/proyectos/evento-hotel-madrid/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "textil-y-canvas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-003",
+   "origen": "proyectos/EVENTO HOTEL RIO PLAZA MADRID, (SIN DETALLAR LAS MARCAS QUE VEAS) PRODUCCIÓN LANYARS Y CHAIRCOVERS/WhatsApp Image 2026-09-22 at 20.20.22 (2).jpeg",
+   "proyecto": "evento-hotel-madrid",
+   "descripcion": "Detalle de fundas de silla con gráfica impresa",
+   "web": "assets/proyectos/evento-hotel-madrid/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "textil-y-canvas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-004",
+   "origen": "proyectos/EVENTO HOTEL RIO PLAZA MADRID, (SIN DETALLAR LAS MARCAS QUE VEAS) PRODUCCIÓN LANYARS Y CHAIRCOVERS/WhatsApp Image 2026-09-22 at 20.20.22 (3).jpeg",
+   "proyecto": "evento-hotel-madrid",
+   "descripcion": "Vista lateral de la sala con fundas de silla impresas",
+   "web": "assets/proyectos/evento-hotel-madrid/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "textil-y-canvas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-005",
+   "origen": "proyectos/EVENTO HOTEL RIO PLAZA MADRID, (SIN DETALLAR LAS MARCAS QUE VEAS) PRODUCCIÓN LANYARS Y CHAIRCOVERS/WhatsApp Image 2026-09-22 at 20.20.22.jpeg",
+   "proyecto": "evento-hotel-madrid",
+   "descripcion": "Lanyards blancos con impresión en verde (detalle)",
+   "web": "assets/proyectos/evento-hotel-madrid/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "accesorios-personalizados"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-006",
+   "origen": "proyectos/Evento Col.legi Economistes de Barcelona/20261002_112835.jpg",
+   "proyecto": "evento-economistas-barcelona",
+   "descripcion": "Escenario con cubos rotulados con logos y expositor vertical",
+   "web": "assets/proyectos/evento-economistas-barcelona/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "expositores"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-007",
+   "origen": "proyectos/Evento Col.legi Economistes de Barcelona/20261002_113055.jpg",
+   "proyecto": "evento-economistas-barcelona",
+   "descripcion": "Panel vertical impreso en un vestíbulo",
+   "web": "assets/proyectos/evento-economistas-barcelona/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-008",
+   "origen": "proyectos/Evento Col.legi Economistes de Barcelona/20261002_113059.jpg",
+   "proyecto": "evento-economistas-barcelona",
+   "descripcion": "Panel impreso al fondo de un pasillo",
+   "web": "assets/proyectos/evento-economistas-barcelona/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-009",
+   "origen": "proyectos/GESTION PERMISO, PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE VALENCIA/WhatsApp Image 2026-09-22 at 20.21.19.jpeg",
+   "proyecto": "banderolas-valencia",
+   "descripcion": "Banderolas dobles en farola, de noche, junto a árboles",
+   "web": "assets/proyectos/banderolas-valencia/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-010",
+   "origen": "proyectos/GESTION PERMISO, PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE VALENCIA/WhatsApp Image 2026-09-22 at 20.21.55 (1).jpeg",
+   "proyecto": "banderolas-valencia",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-valencia/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-011",
+   "origen": "proyectos/GESTION PERMISO, PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE VALENCIA/WhatsApp Image 2026-09-22 at 20.21.55 (2).jpeg",
+   "proyecto": "banderolas-valencia",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-valencia/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-012",
+   "origen": "proyectos/GESTION PERMISO, PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE VALENCIA/WhatsApp Image 2026-09-22 at 20.21.55 (3).jpeg",
+   "proyecto": "banderolas-valencia",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-valencia/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-013",
+   "origen": "proyectos/GESTION PERMISO, PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE VALENCIA/WhatsApp Image 2026-09-22 at 20.21.55 (4).jpeg",
+   "proyecto": "banderolas-valencia",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-valencia/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-014",
+   "origen": "proyectos/GESTION PERMISO, PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE VALENCIA/WhatsApp Image 2026-09-22 at 20.21.55.jpeg",
+   "proyecto": "banderolas-valencia",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-valencia/06.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-015",
+   "origen": "proyectos/OTROS/CIRCO/WhatsApp Image 2026-07-13 at 18.41.31 (1).jpeg",
+   "proyecto": "camion-circo",
+   "descripcion": "Camión de circo con rotulación integral, vista frontal",
+   "web": "assets/proyectos/camion-circo/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-para-vehiculos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-016",
+   "origen": "proyectos/OTROS/CIRCO/WhatsApp Image 2026-07-13 at 18.41.31 (2).jpeg",
+   "proyecto": "camion-circo",
+   "descripcion": "Camión de circo con rotulación integral, lateral completo",
+   "web": "assets/proyectos/camion-circo/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-para-vehiculos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-017",
+   "origen": "proyectos/OTROS/CIRCO/WhatsApp Image 2026-07-13 at 18.41.31.jpeg",
+   "proyecto": "camion-circo",
+   "descripcion": "Camión de circo con rotulación integral, vista trasera en perspectiva",
+   "web": "assets/proyectos/camion-circo/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-para-vehiculos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-018",
+   "origen": "proyectos/OTROS/FOOD TRUCK/WhatsApp Image 2026-08-09 at 09.47.38.jpeg",
+   "proyecto": "food-truck",
+   "descripcion": "Food truck tipo contenedor negro con rótulos y flores",
+   "web": "assets/proyectos/food-truck/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-019",
+   "origen": "proyectos/OTROS/FOOD TRUCK/WhatsApp Image 2026-09-01 at 10.56.55.jpeg",
+   "proyecto": "food-truck",
+   "descripcion": "Furgoneta food truck con rótulo superior",
+   "web": "assets/proyectos/food-truck/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-020",
+   "origen": "proyectos/OTROS/PUESTO BURGER/WhatsApp Image 2026-09-01 at 11.00.42 (1).jpeg",
+   "proyecto": "puesto-burger",
+   "descripcion": "Puesto de comida con frontal impreso y carteles",
+   "web": "assets/proyectos/puesto-burger/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-021",
+   "origen": "proyectos/OTROS/PUESTO BURGER/WhatsApp Image 2026-09-01 at 11.00.42.jpeg",
+   "proyecto": "puesto-burger",
+   "descripcion": "Detalle de letras iluminadas sobre frontal negro",
+   "web": "assets/proyectos/puesto-burger/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "metacrilato"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-022",
+   "origen": "proyectos/OTROS/PUESTO BURGER/WhatsApp Image 2026-09-01 at 11.00.43.jpeg",
+   "proyecto": "puesto-burger",
+   "descripcion": "Puesto de comida con frontal impreso, vista frontal",
+   "web": "assets/proyectos/puesto-burger/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-023",
+   "origen": "proyectos/OTROS/PUESTO BURGER/WhatsApp Image 2026-09-01 at 11.02.19.jpeg",
+   "proyecto": "puesto-burger",
+   "descripcion": "Puesto de comida con frontal impreso, vista frontal (repetida)",
+   "web": "assets/proyectos/puesto-burger/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-024",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.20.02.jpeg",
+   "proyecto": "concierto-anfiteatro",
+   "descripcion": "Escenario de concierto en anfiteatro",
+   "web": "assets/proyectos/concierto-anfiteatro/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "stands"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-025",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.20.03 (1).jpeg",
+   "proyecto": "concierto-anfiteatro",
+   "descripcion": "Llavero con colgante de corazón y entrada impresa en plástico rosa",
+   "web": "assets/proyectos/concierto-anfiteatro/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "metacrilato"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-026",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.20.03.jpeg",
+   "proyecto": "cartel-exterior",
+   "descripcion": "Estructura exterior con carteles ilustrados",
+   "web": "assets/proyectos/cartel-exterior/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "murales-y-revestimientos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-027",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.22.00.jpeg",
+   "proyecto": "rotulos-fachada",
+   "descripcion": "Fachada de tienda con rótulo en letras verdes",
+   "web": "assets/proyectos/rotulos-fachada/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "murales-y-revestimientos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-028",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.25.36 (1).jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de día, en paseo marítimo",
+   "web": "assets/proyectos/banderolas-campanas/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-029",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.25.36.jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas en farola, de noche, junto a la ría",
+   "web": "assets/proyectos/banderolas-campanas/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-030",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.26.17.jpeg",
+   "proyecto": "stand-feria-fitness",
+   "descripcion": "Banderola de vela en un stand de feria",
+   "web": "assets/proyectos/stand-feria-fitness/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-031",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.26.57 (1).jpeg",
+   "proyecto": "ventanales-vinilo",
+   "descripcion": "Vinilo impreso en el cristal de un local, vista lateral",
+   "web": "assets/proyectos/ventanales-vinilo/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-microperforado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-032",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.26.57.jpeg",
+   "proyecto": "ventanales-vinilo",
+   "descripcion": "Vinilo impreso en el cristal de un local, vista frontal",
+   "web": "assets/proyectos/ventanales-vinilo/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-microperforado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-033",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.34.16.jpeg",
+   "proyecto": "columna-impresa",
+   "descripcion": "Columna impresa sobre una mesa de taller",
+   "web": "assets/proyectos/columna-impresa/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "expositores"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-034",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.36.19 (1).jpeg",
+   "proyecto": "photocalls-carpa",
+   "descripcion": "Reverso de un photocall: panel negro con bastidor de madera",
+   "web": "assets/proyectos/photocalls-carpa/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "detalle",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-035",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.36.19.jpeg",
+   "proyecto": "photocalls-carpa",
+   "descripcion": "Photocall frontal grande en carpa",
+   "web": "assets/proyectos/photocalls-carpa/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-036",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.36.20.jpeg",
+   "proyecto": "photocalls-carpa",
+   "descripcion": "Photocall con figura recortada, vista lateral",
+   "web": "assets/proyectos/photocalls-carpa/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-037",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.38.38 (1).jpeg",
+   "proyecto": "exposicion-alicia",
+   "descripcion": "Expositor de tienda con camisetas, bolsas y gráfica",
+   "web": "assets/proyectos/exposicion-alicia/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-038",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.38.38.jpeg",
+   "proyecto": "exposicion-alicia",
+   "descripcion": "Panel rígido recortado a contorno en una exposición",
+   "web": "assets/proyectos/exposicion-alicia/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "dibond"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-039",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.39.17 (1).jpeg",
+   "proyecto": "foro-ciberseguridad",
+   "descripcion": "Panel impreso en pared de un foro",
+   "web": "assets/proyectos/foro-ciberseguridad/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "murales-y-revestimientos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-040",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.39.17.jpeg",
+   "proyecto": "foro-ciberseguridad",
+   "descripcion": "Panel impreso con patrocinadores en pared de un foro",
+   "web": "assets/proyectos/foro-ciberseguridad/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "murales-y-revestimientos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-041",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.42.56.jpeg",
+   "proyecto": "mural-interior",
+   "descripcion": "Mural impreso de gran formato en interior",
+   "web": "assets/proyectos/mural-interior/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "murales-y-revestimientos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-042",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.44.11 (1).jpeg",
+   "proyecto": "rotulos-fachada",
+   "descripcion": "Rótulo de fachada rojo, vista cercana",
+   "web": "assets/proyectos/rotulos-fachada/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "dibond"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-043",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.44.11.jpeg",
+   "proyecto": "rotulos-fachada",
+   "descripcion": "Rótulo de fachada rojo, vista lejana",
+   "web": "assets/proyectos/rotulos-fachada/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "pvc-espumado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-044",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.45.21.jpeg",
+   "proyecto": "finance-summit",
+   "descripcion": "Panel rígido negro impreso con soporte en exterior",
+   "web": "assets/proyectos/finance-summit/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "dibond"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-045",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.46.42.jpeg",
+   "proyecto": "frisos-local-infantil",
+   "descripcion": "Frisos impresos sobre fachada acristalada de un local infantil",
+   "web": "assets/proyectos/frisos-local-infantil/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-046",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.48.59.jpeg",
+   "proyecto": "parque-hinchable",
+   "descripcion": "Taquilla de parque hinchable con gráficas",
+   "web": "assets/proyectos/parque-hinchable/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-047",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.51.00 (1).jpeg",
+   "proyecto": "stand-feria-animacion",
+   "descripcion": "Stand de feria con paredes impresas, vista interior",
+   "web": "assets/proyectos/stand-feria-animacion/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "stands"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-048",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.51.00.jpeg",
+   "proyecto": "stand-feria-animacion",
+   "descripcion": "Stand de feria con paredes impresas, vista general",
+   "web": "assets/proyectos/stand-feria-animacion/02.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [
+    "stands"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-049",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.51.01 (1).jpeg",
+   "proyecto": "stand-feria-animacion",
+   "descripcion": "Stand de feria con paredes impresas, vista lateral",
+   "web": "assets/proyectos/stand-feria-animacion/03.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [
+    "stands"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-050",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 14.51.01.jpeg",
+   "proyecto": "stand-feria-animacion",
+   "descripcion": "Stand de feria con paredes impresas, vista en esquina",
+   "web": "assets/proyectos/stand-feria-animacion/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "stands"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-051",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 15.04.10 (1).jpeg",
+   "proyecto": "letras-corporeas",
+   "descripcion": "Letras corpóreas negras sobre mesa de trabajo",
+   "web": "assets/proyectos/letras-corporeas/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "pvc-espumado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-052",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 15.04.10.jpeg",
+   "proyecto": "letras-corporeas",
+   "descripcion": "Letras corpóreas negras con tipografía, sobre mesa",
+   "web": "assets/proyectos/letras-corporeas/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "pvc-espumado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-053",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-09 at 18.14.45.jpeg",
+   "proyecto": "concierto-anfiteatro",
+   "descripcion": "Llavero con colgante en mano",
+   "web": "assets/proyectos/concierto-anfiteatro/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "metacrilato"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-054",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-11 at 22.05.20.jpeg",
+   "proyecto": "concierto-anfiteatro",
+   "descripcion": "Valla de obra con malla impresa",
+   "web": "assets/proyectos/concierto-anfiteatro/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "lona-frontlit"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-055",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-12 at 17.02.57 (1).jpeg",
+   "proyecto": "ventanales-vinilo",
+   "descripcion": "Vinilo en ventana de oficina, vista cercana",
+   "web": "assets/proyectos/ventanales-vinilo/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-056",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-12 at 17.02.57.jpeg",
+   "proyecto": "ventanales-vinilo",
+   "descripcion": "Vinilo en ventana de oficina, vista general",
+   "web": "assets/proyectos/ventanales-vinilo/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-057",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-12 at 19.16.57 (1).jpeg",
+   "proyecto": "merch-festival",
+   "descripcion": "Bolsa de tela estampada con asas amarillas",
+   "web": "assets/proyectos/merch-festival/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "bolsas-de-tela"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-058",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-12 at 19.16.57.jpeg",
+   "proyecto": "merch-festival",
+   "descripcion": "Bolsa de tela estampada junto a prenda embolsada",
+   "web": "assets/proyectos/merch-festival/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "bolsas-de-tela"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-059",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-14 at 10.06.44.jpeg",
+   "proyecto": "merch-festival",
+   "descripcion": "Camiseta negra estampada sobre césped",
+   "web": "assets/proyectos/merch-festival/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "camisetas-y-polos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-060",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-15 at 14.43.52 (1).jpeg",
+   "proyecto": "festival-musica",
+   "descripcion": "Escenario con banner textil colgado",
+   "web": "assets/proyectos/festival-musica/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banner-pancarta"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-061",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-15 at 14.43.52.jpeg",
+   "proyecto": "festival-musica",
+   "descripcion": "Panel impreso en bastidor, lateral de escenario",
+   "web": "assets/proyectos/festival-musica/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banner-pancarta"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-062",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-15 at 14.43.56.jpeg",
+   "proyecto": "festival-musica",
+   "descripcion": "Photocall de festival en exterior",
+   "web": "assets/proyectos/festival-musica/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banner-pancarta"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-063",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-15 at 14.44.14.jpeg",
+   "proyecto": "festival-musica",
+   "descripcion": "Escenario de festival con dos photocalls laterales",
+   "web": "assets/proyectos/festival-musica/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banner-pancarta"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-064",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-18 at 11.23.34.jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-campanas/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-065",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-18 at 11.23.35.jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-campanas/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-066",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-18 at 11.26.13 (1).jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-campanas/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-067",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-05-18 at 11.26.13.jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-campanas/06.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-068",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-02 at 19.40.10.jpeg",
+   "proyecto": "rotulos-fachada",
+   "descripcion": "Fachada de hotel con rótulo",
+   "web": "assets/proyectos/rotulos-fachada/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "murales-y-revestimientos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-069",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 10.04.40 (1).jpeg",
+   "proyecto": "photocalls-carpa",
+   "descripcion": "Photocall oscuro con luces, vista frontal",
+   "web": "assets/proyectos/photocalls-carpa/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-070",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 10.04.40.jpeg",
+   "proyecto": "photocalls-carpa",
+   "descripcion": "Photocall oscuro con luces, vista lateral",
+   "web": "assets/proyectos/photocalls-carpa/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-071",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 10.44.13.jpeg",
+   "proyecto": "photocalls-carpa",
+   "descripcion": "Reverso de un photocall con bastidor de madera",
+   "web": "assets/proyectos/photocalls-carpa/06.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "detalle",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-072",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 21.45.52 (1).jpeg",
+   "proyecto": "foro-bienestar",
+   "descripcion": "Photocall corporativo impreso en una sala",
+   "web": "assets/proyectos/foro-bienestar/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-073",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 21.45.52 (2).jpeg",
+   "proyecto": "foro-bienestar",
+   "descripcion": "Expositor vertical en un acceso",
+   "web": "assets/proyectos/foro-bienestar/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-074",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 21.45.52 (3).jpeg",
+   "proyecto": "foro-bienestar",
+   "descripcion": "Podio y cubos con logos en un escenario",
+   "web": "assets/proyectos/foro-bienestar/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "expositores"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-075",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-03 at 21.45.52.jpeg",
+   "proyecto": "foro-bienestar",
+   "descripcion": "Escenario con cubos con logos y ponentes",
+   "web": "assets/proyectos/foro-bienestar/04.webp",
+   "personasVisibles": true,
+   "clasificacion": "descartada",
+   "materiales": [],
+   "rol": null,
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-076",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 16.29.41.jpeg",
+   "proyecto": "jornada-directivos",
+   "descripcion": "Acceso con gráfica verde de gran formato en la fachada",
+   "web": "assets/proyectos/jornada-directivos/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-077",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 16.29.42.jpeg",
+   "proyecto": "jornada-directivos",
+   "descripcion": "Dos mostradores impresos con atril de señalización",
+   "web": "assets/proyectos/jornada-directivos/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "counters-y-mostradores"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-078",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 16.29.43.jpeg",
+   "proyecto": "jornada-directivos",
+   "descripcion": "Dos mostradores impresos, vista frontal",
+   "web": "assets/proyectos/jornada-directivos/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "counters-y-mostradores"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-079",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 16.29.44.jpeg",
+   "proyecto": "jornada-directivos",
+   "descripcion": "Instalación de la gráfica de acceso (equipo trabajando)",
+   "web": "assets/proyectos/jornada-directivos/04.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [],
+   "rol": "quienes-somos",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-080",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 18.55.31.jpeg",
+   "proyecto": "jornada-directivos",
+   "descripcion": "Expositores con tableros impresos, vista trasera",
+   "web": "assets/proyectos/jornada-directivos/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "pvc-espumado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-081",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 18.55.32.jpeg",
+   "proyecto": "jornada-directivos",
+   "descripcion": "Expositores con tableros impresos, vista lateral",
+   "web": "assets/proyectos/jornada-directivos/06.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "pvc-espumado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-082",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.16.17.jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Montaje de tableros negros sobre el suelo",
+   "web": "assets/proyectos/f1-barcelona/01.webp",
+   "personasVisibles": true,
+   "clasificacion": "por-confirmar",
+   "materiales": [],
+   "rol": null,
+   "candidatos": [
+    "graficas-para-suelos",
+    "fotocall"
+   ],
+   "pregunta": "Montaje de carpa deportiva: ¿qué elementos hicisteis?"
+  },
+  {
+   "id": "p-083",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.25.38.jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Equipo en montaje dentro de una carpa",
+   "web": "assets/proyectos/f1-barcelona/02.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [],
+   "rol": "quienes-somos",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-084",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.25.39 (1).jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Persona de espaldas con polo de MÉS PUBLICITAT",
+   "web": "assets/proyectos/f1-barcelona/03.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [
+    "camisetas-y-polos",
+    "ropa-de-trabajo"
+   ],
+   "rol": "merchandising",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-085",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.25.39 (2).jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Pasillo de carpa con photocalls al fondo",
+   "web": "assets/proyectos/f1-barcelona/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "descartada",
+   "materiales": [],
+   "rol": null,
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-086",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.25.39.jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Banderolas de vela negras en carpa",
+   "web": "assets/proyectos/f1-barcelona/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-087",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.47.19 (1).jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Photocalls y suelo gráfico en carpa, vista general",
+   "web": "assets/proyectos/f1-barcelona/06.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "graficas-para-suelos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-088",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.47.19.jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Photocall rojo y panel triangular en carpa",
+   "web": "assets/proyectos/f1-barcelona/07.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "graficas-para-suelos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-089",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.47.20 (1).jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Photocalls y suelo gráfico en carpa, vista diagonal",
+   "web": "assets/proyectos/f1-barcelona/08.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "graficas-para-suelos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-090",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-10 at 20.47.20.jpeg",
+   "proyecto": "f1-barcelona",
+   "descripcion": "Pasillo con suelo gráfico a rayas rojas y blancas",
+   "web": "assets/proyectos/f1-barcelona/09.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "graficas-para-suelos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-091",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-06-17 at 11.32.52.jpeg",
+   "proyecto": "ventanales-vinilo",
+   "descripcion": "Póster en puerta de gimnasio",
+   "web": "assets/proyectos/ventanales-vinilo/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-impreso"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-092",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-07-02 at 11.51.40.jpeg",
+   "proyecto": "graduacion",
+   "descripcion": "Letras decorativas sobre escenario",
+   "web": "assets/proyectos/graduacion/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "pvc-espumado"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-093",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-07-02 at 11.52.28 (1).jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-campanas/07.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-094",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-07-02 at 11.52.28.jpeg",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola, de noche",
+   "web": "assets/proyectos/banderolas-campanas/08.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-095",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-07-06 at 14.55.38.jpeg",
+   "proyecto": "lanyard-acreditacion",
+   "descripcion": "Lanyard con acreditación roja sobre moqueta",
+   "web": "assets/proyectos/lanyard-acreditacion/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "accesorios-personalizados"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-096",
+   "origen": "proyectos/OTROS/WhatsApp Image 2026-09-01 at 10.57.52.jpeg",
+   "proyecto": "remolque-espectaculo",
+   "descripcion": "Remolque rotulado de espectáculo",
+   "web": "assets/proyectos/remolque-espectaculo/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "vinilo-para-vehiculos"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-097",
+   "origen": "proyectos/OTROS/image013 (1).png",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola",
+   "web": "assets/proyectos/banderolas-campanas/09.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-098",
+   "origen": "proyectos/OTROS/image014 (1).png",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola",
+   "web": "assets/proyectos/banderolas-campanas/10.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-099",
+   "origen": "proyectos/OTROS/image015 (2).png",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola",
+   "web": "assets/proyectos/banderolas-campanas/11.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-100",
+   "origen": "proyectos/OTROS/image016 (4).png",
+   "proyecto": "banderolas-campanas",
+   "descripcion": "Banderolas dobles en farola",
+   "web": "assets/proyectos/banderolas-campanas/12.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-101",
+   "origen": "proyectos/PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE BILBAO/WhatsApp Image 2026-09-22 at 20.21.18 (1).jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de noche, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-102",
+   "origen": "proyectos/PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE BILBAO/WhatsApp Image 2026-09-22 at 20.21.18 (2).jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de noche, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-103",
+   "origen": "proyectos/PRODUCCIÓN, INSTALACIÓN Y RETIRADA DE BANDEROLAS EN LA VIA PUBLICA DE BILBAO/WhatsApp Image 2026-09-22 at 20.21.18.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de noche, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-104",
+   "origen": "proyectos/banderolas en bilbao/IMG_1276.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de día, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/05.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-105",
+   "origen": "proyectos/banderolas en bilbao/IMG_1277.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de día, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/06.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-106",
+   "origen": "proyectos/banderolas en bilbao/IMG_1279.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de día, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/07.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-107",
+   "origen": "proyectos/banderolas en bilbao/IMG_1285.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de día, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/08.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-108",
+   "origen": "proyectos/banderolas en bilbao/IMG_1286.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de día, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/09.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-109",
+   "origen": "proyectos/banderolas en bilbao/IMG_1287.jpeg",
+   "proyecto": "banderolas-bilbao",
+   "descripcion": "Banderolas dobles en farola, de día, junto a la ría",
+   "web": "assets/proyectos/banderolas-bilbao/10.webp",
+   "personasVisibles": true,
+   "clasificacion": "clara",
+   "materiales": [
+    "banderolas"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-110",
+   "origen": "proyectos/exposicion madrid/WhatsApp Image 2026-10-16 at 11.47.57 (1).jpeg",
+   "proyecto": "exposicion-madrid",
+   "descripcion": "Photocall exterior sobre muro de ladrillo, vista lateral",
+   "web": "assets/proyectos/exposicion-madrid/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-111",
+   "origen": "proyectos/exposicion madrid/WhatsApp Image 2026-10-16 at 11.47.57 (2).jpeg",
+   "proyecto": "exposicion-madrid",
+   "descripcion": "Photocall con hueco para la cara en un local",
+   "web": "assets/proyectos/exposicion-madrid/02.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-112",
+   "origen": "proyectos/exposicion madrid/WhatsApp Image 2026-10-16 at 11.47.57 (3).jpeg",
+   "proyecto": "exposicion-madrid",
+   "descripcion": "Detalle lateral del canto del photocall",
+   "web": "assets/proyectos/exposicion-madrid/03.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "detalle",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-113",
+   "origen": "proyectos/exposicion madrid/WhatsApp Image 2026-10-16 at 11.47.57.jpeg",
+   "proyecto": "exposicion-madrid",
+   "descripcion": "Photocall exterior sobre muro de ladrillo, vista frontal",
+   "web": "assets/proyectos/exposicion-madrid/04.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-114",
+   "origen": "proyectos/neverland/Banner NEVERLAND,.png",
+   "proyecto": "neverland",
+   "descripcion": "Photocall largo con logos de patrocinadores en césped",
+   "web": "assets/proyectos/neverland/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  },
+  {
+   "id": "p-115",
+   "origen": "proyectos/photocall cabraret/WhatsApp Image 2026-10-14 at 14.00.37.jpeg",
+   "proyecto": "photocall-cabaret",
+   "descripcion": "Photocall con estructura de trusses y focos",
+   "web": "assets/proyectos/photocall-cabaret/01.webp",
+   "personasVisibles": false,
+   "clasificacion": "clara",
+   "materiales": [
+    "fotocall"
+   ],
+   "rol": "aplicacion",
+   "candidatos": [],
+   "pregunta": null
+  }
+ ]
+}

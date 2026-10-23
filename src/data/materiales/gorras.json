@@ -1,0 +1,165 @@
+{
+  "id": "mat-27",
+  "slug": "gorras",
+  "nombre": "Gorras",
+  "categoria": "textil-y-merchandising",
+  "resumen": "Gorras personalizadas con logotipo bordado o estampado para marcas, equipos y eventos.",
+  "queEs": "Las gorras son accesorios muy utilizados para merchandising y uniformes. Su personalización suele hacerse mediante bordado o estampado en el frontal, según el diseño. El área disponible es pequeña y exige diseños simples.",
+  "cualidades": [
+    {
+      "icono": "textil",
+      "titulo": "Accesorio de marca",
+      "texto": "Mucha visibilidad."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Bordado o estampado",
+      "texto": "Según diseño."
+    },
+    {
+      "icono": "ligero",
+      "titulo": "Ligera",
+      "texto": "Fácil de repartir."
+    }
+  ],
+  "ventajas": [
+    "Visible y práctica.",
+    "Producto económico de merchandising.",
+    "Larga vida útil."
+  ],
+  "composicion": {
+    "descripcion": "Tejidos de algodón o poliéster con visera. Modelos y calidades por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Zona de personalización",
+      "valor": "Frontal, laterales o trasera",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Técnica",
+      "valor": "Bordado o estampado, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Eventos",
+      "descripcion": "Gorras para el personal."
+    },
+    {
+      "titulo": "Equipos",
+      "descripcion": "Imagen del equipo."
+    },
+    {
+      "titulo": "Marcas",
+      "descripcion": "Regalo promocional."
+    }
+  ],
+  "acabadosCompatibles": [
+    "bordado",
+    "estampado-textil"
+  ],
+  "recomendaciones": [
+    "Usa diseños simples para el frontal.",
+    "Indica color de gorra y de hilo."
+  ],
+  "limitaciones": [
+    "Área de personalización pequeña.",
+    "Los detalles muy finos no se reproducen bien."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/gorras/muestra-01.webp",
+    "alt": "Gorras personalizadas",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/gorras/galeria-1-material.webp",
+      "alt": "Gorras: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/gorras/galeria-2-proceso.webp",
+      "alt": "Gorras: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/gorras/galeria-3-resultado.webp",
+      "alt": "Gorras: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Gorra personalizada con logotipo en el frontal.",
+    "caracteristicasFisicas": "Logotipo centrado, costura limpia, visera curva.",
+    "entorno": "Fondo neutro o exterior.",
+    "encuadre": "Plano frontal y plano tres cuartos.",
+    "texturaAcabado": "Tejido con textura y bordado ligeramente en relieve.",
+    "noConfundirCon": [
+      "camiseta",
+      "bolsa de tela"
+    ]
+  },
+  "relacionados": [
+    "mat-25",
+    "mat-26",
+    "mat-29"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

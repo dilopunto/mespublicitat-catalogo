@@ -1,0 +1,37 @@
+[
+  {
+    "id": "interior",
+    "nombre": "Interior",
+    "descripcion": "Materiales para espacios cerrados: tiendas, oficinas, salas y eventos bajo techo."
+  },
+  {
+    "id": "exterior",
+    "nombre": "Exterior",
+    "descripcion": "Soportes pensados para estar a la intemperie: fachadas, vallas, vehículos y señalización. Consulta siempre con nosotros la calidad y la duración."
+  },
+  {
+    "id": "escaparates",
+    "nombre": "Escaparates",
+    "descripcion": "Soluciones para cristales y vitrinas que comunican desde la calle: vinilos, rígidos y carteles."
+  },
+  {
+    "id": "vehiculos",
+    "nombre": "Vehículos",
+    "descripcion": "Rotulación para furgonetas, coches y flotas, con vinilos adaptados a la carrocería."
+  },
+  {
+    "id": "eventos",
+    "nombre": "Eventos y ferias",
+    "descripcion": "Imagen de marca para ferias, presentaciones y acciones promocionales: stands, fondos, banderolas y expositores."
+  },
+  {
+    "id": "senalizacion",
+    "nombre": "Señalización",
+    "descripcion": "Carteles, placas y gráficas que orientan o informan, desde una puerta hasta un recorrido completo."
+  },
+  {
+    "id": "promocion",
+    "nombre": "Promoción de marca",
+    "descripcion": "Impresos y textil para llevar tu marca a clientes y equipos: papel, prendas y artículos personalizados."
+  }
+]

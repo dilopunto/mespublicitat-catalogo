@@ -1,0 +1,22 @@
+# generado
+dist/index.inline.html
+# temporales y del sistema
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+# secretos
+.env
+.env.*
+*.key
+*.pem
+# material de revisión interno y originales sin optimizar
+/revision/
+/proyectos/
+/recursos web/
+*.zip
+# fotos pendientes de autorización
+public/assets/pendientes/

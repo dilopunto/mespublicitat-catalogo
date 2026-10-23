@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vinilos-y-adhesivos",
+    "slug": "vinilos-y-adhesivos",
+    "orden": 1,
+    "nombre": "Vinilos y adhesivos",
+    "descripcion": "Soluciones versátiles para escaparates, paredes, cristales, vehículos y señalética.",
+    "materiales": [
+      "mat-01",
+      "mat-02",
+      "mat-03",
+      "mat-04",
+      "mat-05",
+      "mat-06"
+    ],
+    "imagen": {
+      "src": "assets/categorias/vinilos-y-adhesivos.webp",
+      "alt": "Vehículo rotulado con vinilo",
+      "origen": "ia"
+    }
+  },
+  {
+    "id": "soportes-rigidos",
+    "slug": "soportes-rigidos",
+    "orden": 2,
+    "nombre": "Soportes rígidos",
+    "descripcion": "Materiales resistentes como PVC, dibond o cartón pluma para carteles, paneles y displays.",
+    "materiales": [
+      "mat-07",
+      "mat-08",
+      "mat-09",
+      "mat-10",
+      "mat-11",
+      "mat-12"
+    ],
+    "imagen": {
+      "src": "assets/categorias/soportes-rigidos.webp",
+      "alt": "Planchas de soportes rígidos apiladas",
+      "origen": "ia"
+    }
+  },
+  {
+    "id": "gran-formato",
+    "slug": "gran-formato",
+    "orden": 3,
+    "nombre": "Gran formato",
+    "descripcion": "Impresión para lonas, banners, photocalls, murales y cartelería de gran impacto.",
+    "materiales": [
+      "mat-13",
+      "mat-14",
+      "mat-15",
+      "mat-16",
+      "mat-17",
+      "mat-18"
+    ],
+    "imagen": {
+      "src": "assets/categorias/gran-formato.webp",
+      "alt": "Pancarta de gran formato sobre una valla",
+      "origen": "ia"
+    }
+  },
+  {
+    "id": "eventos-y-plv",
+    "slug": "eventos-y-plv",
+    "orden": 4,
+    "nombre": "Eventos y PLV",
+    "descripcion": "Soluciones visuales para ferias, stands, expositores y acciones promocionales.",
+    "materiales": [
+      "mat-19",
+      "mat-20",
+      "mat-21",
+      "mat-22",
+      "mat-23",
+      "mat-24"
+    ],
+    "imagen": {
+      "src": "assets/categorias/eventos-y-plv.webp",
+      "alt": "Stand de feria con paredes impresas",
+      "origen": "ia"
+    }
+  },
+  {
+    "id": "textil-y-merchandising",
+    "slug": "textil-y-merchandising",
+    "orden": 5,
+    "nombre": "Textil y merchandising",
+    "descripcion": "Personalizamos camisetas, bolsas y artículos promocionales para reforzar tu marca.",
+    "materiales": [
+      "mat-25",
+      "mat-26",
+      "mat-27",
+      "mat-28",
+      "mat-29",
+      "mat-30"
+    ],
+    "imagen": {
+      "src": "assets/categorias/textil-y-merchandising.webp",
+      "alt": "Camisetas y polos personalizados",
+      "origen": "ia"
+    }
+  },
+  {
+    "id": "impresion-grafica",
+    "slug": "impresion-grafica",
+    "orden": 6,
+    "nombre": "Impresión gráfica",
+    "descripcion": "Tarjetas, folletos, carteles, menús, catálogos y etiquetas para que tu marca llegue en papel.",
+    "materiales": [
+      "mat-31",
+      "mat-32",
+      "mat-33",
+      "mat-34",
+      "mat-35",
+      "mat-36"
+    ],
+    "imagen": {
+      "src": "assets/categorias/impresion-grafica.webp",
+      "alt": "Folletos y trípticos impresos",
+      "origen": "ia"
+    }
+  }
+]

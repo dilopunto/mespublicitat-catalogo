@@ -1,0 +1,166 @@
+{
+  "id": "mat-06",
+  "slug": "vinilo-decorativo",
+  "nombre": "Vinilo decorativo",
+  "categoria": "vinilos-y-adhesivos",
+  "resumen": "Vinilo adhesivo para decorar paredes, cristales y mobiliario con diseños, frases o siluetas.",
+  "queEs": "Es un vinilo pensado para personalizar espacios: frases, motivos, formas y gráficas sencillas sobre pared, cristal o muebles. Permite renovar la imagen de un lugar sin obra y, según el tipo, puede retirarse con facilidad.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Personaliza",
+      "texto": "Frases, motivos y siluetas a medida."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Fácil de aplicar",
+      "texto": "Sin obras ni pintura."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Renovable",
+      "texto": "Se puede cambiar cuando se quiera."
+    }
+  ],
+  "ventajas": [
+    "Cambia el aspecto de un espacio rápidamente.",
+    "Adecuado para comercios, oficinas y hogares.",
+    "Se combina con otros vinilos."
+  ],
+  "composicion": {
+    "descripcion": "Película de vinilo adhesiva, impresa o de color. Tipo de adhesivo (removible o permanente) por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Adhesivo",
+      "valor": "Removible o permanente, según referencia",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Formas",
+      "valor": "Corte de contorno o impresión",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del vinilo; confirmar."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "escaparates"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Pared de oficina",
+      "descripcion": "Frase corporativa o logotipo en grande."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Motivos de temporada en escaparate."
+    },
+    {
+      "titulo": "Mobiliario",
+      "descripcion": "Personalización de mostradores y muebles."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-contorno",
+    "cinta-transferencia"
+  ],
+  "recomendaciones": [
+    "Pinta la pared con acabado liso y deja secar bien antes.",
+    "Pide una prueba si la pared es rugosa o está recién pintada."
+  ],
+  "limitaciones": [
+    "Paredes rugosas o con pintura reciente pueden dar problemas de adhesión.",
+    "El diseño debe adaptarse al tamaño de la superficie."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/vinilo-decorativo/muestra-01.webp",
+    "alt": "Vinilo decorativo de pared con motivo tropical en un salón",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/vinilo-decorativo/galeria-1-material.webp",
+      "alt": "Vinilo decorativo: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-decorativo/galeria-2-proceso.webp",
+      "alt": "Vinilo decorativo: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-decorativo/galeria-3-resultado.webp",
+      "alt": "Vinilo decorativo: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Vinilo decorativo con frase o silueta aplicado en pared o cristal.",
+    "caracteristicasFisicas": "Contornos limpios, color uniforme, aspecto de decoración.",
+    "entorno": "Pared de un comercio, oficina o espacio de trabajo.",
+    "encuadre": "Plano abierto para ver el conjunto y un detalle del vinilo.",
+    "texturaAcabado": "Superficie lisa, mate o semibrillo.",
+    "noConfundirCon": [
+      "mural impreso (cubre la pared completa)",
+      "vinilo de corte para rotulación comercial"
+    ]
+  },
+  "relacionados": [
+    "mat-01",
+    "mat-04",
+    "mat-17"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

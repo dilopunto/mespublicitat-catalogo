@@ -1,0 +1,187 @@
+{
+  "id": "mat-32",
+  "slug": "flyers-y-folletos",
+  "nombre": "Flyers y folletos",
+  "categoria": "impresion-grafica",
+  "resumen": "Impresos de papel para promociones, información y reparto, en formatos A6, A5, A4 o DL.",
+  "queEs": "Los flyers y folletos son impresos pensados para repartirse o dejarse en mostrador. Pueden ser una hoja o plegarse en dípticos y trípticos. Se imprimen en distintos papeles y se les puede añadir acabados.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Información clara",
+      "texto": "Mensaje directo."
+    },
+    {
+      "icono": "plegable",
+      "titulo": "Plegables",
+      "texto": "Dípticos y trípticos."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Acabados",
+      "texto": "Barniz o laminado."
+    }
+  ],
+  "ventajas": [
+    "Económicos para tiradas grandes.",
+    "Fáciles de repartir.",
+    "Versátiles en formato y papel."
+  ],
+  "composicion": {
+    "descripcion": "Papel o cartulina de distintos gramajes. Gramajes y opciones por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Formatos de referencia",
+      "valor": "A6, A5, A4, DL",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Plegado",
+      "valor": "Díptico o tríptico",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": [
+      {
+        "nombre": "A6",
+        "medida": "105 × 148 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "A5",
+        "medida": "148 × 210 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "A4",
+        "medida": "210 × 297 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "DL",
+        "medida": "99 × 210 mm",
+        "estado": "referencia"
+      }
+    ],
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Promociones",
+      "descripcion": "Ofertas y descuentos."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Programas y planos."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Información de producto."
+    }
+  ],
+  "acabadosCompatibles": [
+    "plegado",
+    "laminado",
+    "barniz-uv"
+  ],
+  "recomendaciones": [
+    "Define el formato antes de diseñar.",
+    "Cuida el margen de seguridad."
+  ],
+  "limitaciones": [
+    "Espacio limitado para información.",
+    "Plegado según formato."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/flyers-y-folletos/muestra-01.webp",
+    "alt": "Folletos y trípticos impresos",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/flyers-y-folletos/galeria-1-material.webp",
+      "alt": "Flyers y folletos: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/flyers-y-folletos/galeria-2-proceso.webp",
+      "alt": "Flyers y folletos: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/flyers-y-folletos/galeria-3-resultado.webp",
+      "alt": "Flyers y folletos: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Flyers y folletos impresos, en abanico o apilados.",
+    "caracteristicasFisicas": "Colores vivos, cortes limpios y tipografía nítida.",
+    "entorno": "Mostrador o mesa de un comercio.",
+    "encuadre": "Plano cenital con un folleto abierto.",
+    "texturaAcabado": "Papel liso, mate o brillante.",
+    "noConfundirCon": [
+      "tarjeta de visita (más pequeña)",
+      "revista o catálogo (encuadernado)"
+    ]
+  },
+  "relacionados": [
+    "mat-31",
+    "mat-33",
+    "mat-35"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

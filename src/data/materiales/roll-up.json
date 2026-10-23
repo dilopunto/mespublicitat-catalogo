@@ -1,0 +1,165 @@
+{
+  "id": "mat-15",
+  "slug": "roll-up",
+  "nombre": "Roll up",
+  "categoria": "gran-formato",
+  "resumen": "Expositor enrollable con gráfica impresa y estructura de aluminio, fácil de transportar y montar.",
+  "queEs": "Un roll up es un expositor con una gráfica impresa que se enrolla dentro de un cassette de aluminio y se despliega sobre un mástil. Se transporta en una funda y se monta en pocos minutos. Es habitual en ferias, recepciones y presentaciones.",
+  "cualidades": [
+    {
+      "icono": "plegable",
+      "titulo": "Portátil",
+      "texto": "Se enrolla en su cassette."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Montaje rápido",
+      "texto": "Se despliega en pocos minutos."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Mensaje claro",
+      "texto": "Una gráfica vertical bien visible."
+    }
+  ],
+  "ventajas": [
+    "Muy cómodo para eventos.",
+    "Ligero y fácil de guardar.",
+    "La gráfica puede cambiarse según el modelo."
+  ],
+  "composicion": {
+    "descripcion": "Estructura de aluminio con gráfica impresa en película o tejido. Modelos y soportes por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Estructura",
+      "valor": "Cassette con mástil",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Gráfica",
+      "valor": "Impresa, enrollable",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Pensado sobre todo para interior."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Ferias",
+      "descripcion": "Mensaje del producto en el stand."
+    },
+    {
+      "titulo": "Recepciones",
+      "descripcion": "Imagen corporativa en la entrada."
+    },
+    {
+      "titulo": "Presentaciones",
+      "descripcion": "Fondo informativo en salas."
+    }
+  ],
+  "acabadosCompatibles": [
+    "montaje-estructura"
+  ],
+  "recomendaciones": [
+    "Concentra el mensaje principal en la parte alta.",
+    "Guarda la gráfica en su funda."
+  ],
+  "limitaciones": [
+    "Los pliegues o golpes pueden marcar la gráfica.",
+    "Medidas y modelos según estructura disponible."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/roll-up/muestra-01.webp",
+    "alt": "Roll up impreso en un vestíbulo corporativo",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/roll-up/galeria-1-material.webp",
+      "alt": "Roll up: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/roll-up/galeria-2-proceso.webp",
+      "alt": "Roll up: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/roll-up/galeria-3-resultado.webp",
+      "alt": "Roll up: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Roll up desplegado con gráfica vertical impresa.",
+    "caracteristicasFisicas": "Base de aluminio, mástil visible y gráfica tensa sin arrugas.",
+    "entorno": "Entrada o stand de un evento.",
+    "encuadre": "Plano frontal completo y detalle de la base.",
+    "texturaAcabado": "Gráfica plana, mate o semibrillo.",
+    "noConfundirCon": [
+      "photocall (más ancho y apaisado)",
+      "banner colgante sin estructura"
+    ]
+  },
+  "relacionados": [
+    "mat-16",
+    "mat-14",
+    "mat-19"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

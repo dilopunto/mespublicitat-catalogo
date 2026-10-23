@@ -1,0 +1,176 @@
+[
+  {
+    "id": "aplicaciones-filtro",
+    "ambito": "Todos los materiales",
+    "descripcion": "Asignación de aplicaciones (interior, exterior, escaparates, vehículos, eventos, señalización, promoción) para el filtro. Propuesta provisional (aplicacionesVerificadas: false).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "espesores-gramajes",
+    "ambito": "Todos los materiales",
+    "descripcion": "Espesores, gramajes y medidas máximas (valor null en cada ficha) a confirmar con producción o proveedor. El cliente trabaja con empresas externas de producción: se solicitará a los proveedores.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "durabilidad-certificados",
+    "ambito": "Todos los materiales",
+    "descripcion": "Durabilidad estimada y certificados (valor null). Incluye resistencia exterior y antideslizamiento en gráficas de suelo. El cliente trabaja con empresas externas de producción: se solicitará a los proveedores.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "uso-exterior",
+    "ambito": "Materiales con uso exterior nulo",
+    "descripcion": "Fichas con 'exterior: apto null': confirmar si se ofrece en exterior y con qué calidad.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "acabados-oferta",
+    "ambito": "acabados.json",
+    "descripcion": "Confirmar qué acabados y técnicas ofrece MésPublicitat (ofrecidoPorEmpresa: null en los 18 acabados).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "textil-tecnicas",
+    "ambito": "Textil y merchandising",
+    "descripcion": "Técnicas de personalización disponibles (estampado, vinilo textil, bordado), marcas de prendas y catálogo de accesorios.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "polipropileno-formato",
+    "ambito": "polipropileno",
+    "descripcion": "Formato que se ofrece (alveolar u otro).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "banderolas-formatos",
+    "ambito": "banderolas",
+    "descripcion": "Tipos de banderola disponibles (colgantes, de pluma, de mástil).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "fotografias",
+    "ambito": "Todos los materiales",
+    "descripcion": "Parcialmente resuelto: 8 materiales ya usan fotos reales de proyectos (banderolas, stands, counters y mostradores, fotocall, vinilo para vehículos, bolsas de tela, camisetas y polos, accesorios personalizados). Faltan fotos de muestra/detalle de producto para los 36 materiales (especialmente soportes rígidos) y fotos propias para el resto. Ver src/data/proyectos.json (61 fotos por confirmar).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "cifras-empresa",
+    "ambito": "empresa.json",
+    "descripcion": "Años de experiencia, proyectos realizados y clientes (null).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "contacto-empresa",
+    "ambito": "empresa.json",
+    "descripcion": "Teléfono, email, dirección y horario (null).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "marcas-colaboradoras",
+    "ambito": "empresa.json",
+    "descripcion": "Logotipos de marcas colaboradoras (lista vacía).",
+    "estado": "pendiente"
+  },
+  {
+    "id": "relato-marca",
+    "ambito": "empresa.json",
+    "descripcion": "Aprobación del relato de marca propuesto en el manual.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "rojo-unico",
+    "ambito": "Identidad",
+    "descripcion": "Unificar el rojo del logotipo (#E20613) y el editorial (#D81A1C); sin CMYK/Pantone aprobado.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "descripcion-impresion-grafica",
+    "ambito": "categorias.json",
+    "descripcion": "Texto de la categoría Impresión gráfica: la web de referencia no tiene descripción.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "formulario-destino",
+    "ambito": "empresa.json / Contacto",
+    "descripcion": "Correo o servicio de destino del formulario de presupuesto (contacto.emailDestinoFormulario). Sin él, el formulario solo genera un resumen para copiar y no envía nada.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "privacidad-rgpd",
+    "ambito": "Contacto",
+    "descripcion": "Política de privacidad y texto de consentimiento (RGPD) antes de activar el envío de datos personales.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "principios-voz",
+    "ambito": "empresa.json / Quiénes somos",
+    "descripcion": "Validar los cuatro principios de atención (clara, experta, directa, cercana), tomados como propuesta del manual de marca.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "quienes-somos-contenido",
+    "ambito": "Quiénes somos",
+    "descripcion": "Historia, equipo, ubicación y trayectoria de la empresa: no hay datos facilitados, por eso la página no los incluye.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "aplicaciones-descripciones",
+    "ambito": "aplicaciones.json",
+    "descripcion": "Revisar las descripciones de las 7 aplicaciones, redactadas como propuesta.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "fotos-por-confirmar",
+    "ambito": "proyectos.json",
+    "descripcion": "Resuelto salvo p-082 (equipo en montaje dentro de una carpa): sin respuesta.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "imagenes-muestra-soportes",
+    "ambito": "Soportes rígidos",
+    "descripcion": "Todas las portadas son ilustraciones IA (origen «ia»), salvo fotocall (foto real). Lona frontlit y roll up usan imágenes con texto/marca ficticios (NEXORA, «Ideas que conectan»): sustituir cuando haya imágenes limpias.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "personas-en-fotos",
+    "ambito": "proyectos.json",
+    "descripcion": "Fotos con personas visibles (personasVisibles: true): no se usan en la web hasta confirmar consentimiento.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "cartulina-marron",
+    "ambito": "Soportes rígidos",
+    "descripcion": "La imagen de tablero marrón aportada no corresponde a ningún material de las 36 fichas: sin usar hasta decidir.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "telefono-verificar",
+    "ambito": "empresa.json",
+    "descripcion": "Teléfono recibido «+34 66674 35 50»; se muestra como +34 666 74 35 50. Confirmar que es correcto.",
+    "estado": "resuelto"
+  },
+  {
+    "id": "direccion-horario",
+    "ambito": "empresa.json",
+    "descripcion": "No necesarios: domicilio Barcelona y cobertura en toda la península ya incluidos.",
+    "estado": "resuelto"
+  },
+  {
+    "id": "responsable-privacidad",
+    "ambito": "Formulario",
+    "descripcion": "Razón social, NIF y domicilio del responsable del tratamiento; revisar docs/PRIVACIDAD_BORRADOR.md con el asesor antes de publicar.",
+    "estado": "pendiente"
+  },
+  {
+    "id": "logos-clientes-autorizacion",
+    "ambito": "Marcas colaboradoras",
+    "descripcion": "Confirmar que los 6 clientes autorizan mostrar su logotipo.",
+    "estado": "resuelto"
+  },
+  {
+    "id": "cifras-clientes",
+    "ambito": "empresa.json",
+    "descripcion": "Cifras facilitadas: 20 años, +400 proyectos, 20 clientes. Confirmar si «20 clientes» debe llevar «+».",
+    "estado": "resuelto"
+  }
+]

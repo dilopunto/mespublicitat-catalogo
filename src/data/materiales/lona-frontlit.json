@@ -1,0 +1,176 @@
+{
+  "id": "mat-13",
+  "slug": "lona-frontlit",
+  "nombre": "Lona frontlit",
+  "categoria": "gran-formato",
+  "resumen": "Lona de poliéster con recubrimiento de PVC para gráficas de gran formato en exterior e interior.",
+  "queEs": "La lona frontlit es un tejido de poliéster recubierto de PVC, pensado para ser vista con iluminación frontal. Es resistente y admite impresión de gran formato. Se usa en fachadas, vallas, andamios y eventos.",
+  "cualidades": [
+    {
+      "icono": "escudo",
+      "titulo": "Resistente",
+      "texto": "Tejido reforzado y recubierto."
+    },
+    {
+      "icono": "sol",
+      "titulo": "Exterior",
+      "texto": "Pensada para intemperie."
+    },
+    {
+      "icono": "escala",
+      "titulo": "Gran formato",
+      "texto": "Se produce en grandes dimensiones."
+    }
+  ],
+  "ventajas": [
+    "Buena relación coste y rendimiento.",
+    "Admite ojales y dobladillo reforzado.",
+    "Se enrolla para transportar."
+  ],
+  "composicion": {
+    "descripcion": "Tejido de poliéster con recubrimiento de PVC. Gramajes y anchos por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Iluminación",
+      "valor": "Frontal (no retroiluminada)",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Montaje",
+      "valor": "Ojales, perfiles o bastidor",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso posible en interior."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Uso habitual; durabilidad por confirmar."
+    }
+  },
+  "aplicaciones": [
+    "exterior",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Fachadas",
+      "descripcion": "Lonas publicitarias sobre edificios."
+    },
+    {
+      "titulo": "Vallas",
+      "descripcion": "Cartelería de obras y eventos."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Fondos y señalización."
+    }
+  ],
+  "acabadosCompatibles": [
+    "ojales",
+    "dobladillo-refuerzo",
+    "montaje-bastidor"
+  ],
+  "recomendaciones": [
+    "Define el sistema de fijación antes de imprimir.",
+    "Para zonas con mucho viento, consulta opciones."
+  ],
+  "limitaciones": [
+    "Pesa más que otros soportes textiles.",
+    "Con viento fuerte actúa como una vela si no se ventila."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/lona-frontlit/muestra-01.webp",
+    "alt": "Lona frontlit impresa tensada sobre una valla exterior",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/lona-frontlit/galeria-1-material.webp",
+      "alt": "Lona frontlit: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/lona-frontlit/galeria-2-proceso.webp",
+      "alt": "Lona frontlit: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/lona-frontlit/galeria-3-resultado.webp",
+      "alt": "Lona frontlit: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Lona frontlit impresa, tensada en una fachada o valla.",
+    "caracteristicasFisicas": "Ojales y dobladillo visibles; superficie tensada y sin arrugas.",
+    "entorno": "Fachada exterior de un edificio o valla.",
+    "encuadre": "Plano general con detalle de ojal y dobladillo.",
+    "texturaAcabado": "Superficie ligeramente brillante, tejido recubierto.",
+    "noConfundirCon": [
+      "textil o canvas (tejido sin recubrimiento)",
+      "vinilo adhesivo (no es lona)"
+    ]
+  },
+  "relacionados": [
+    "mat-14",
+    "mat-18",
+    "mat-16"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/concierto-anfiteatro/04.webp",
+      "alt": "Valla de obra con malla impresa",
+      "proyecto": "concierto-anfiteatro",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

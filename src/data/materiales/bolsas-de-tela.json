@@ -1,0 +1,173 @@
+{
+  "id": "mat-28",
+  "slug": "bolsas-de-tela",
+  "nombre": "Bolsas de tela",
+  "categoria": "textil-y-merchandising",
+  "resumen": "Bolsas de tela reutilizables personalizadas para comercios, eventos y promociones.",
+  "queEs": "Son bolsas reutilizables de tela que se personalizan con logotipo o diseño. Se emplean en comercios, ferias y campañas. El material (algodón, yute u otros) y la técnica de personalización están por confirmar.",
+  "cualidades": [
+    {
+      "icono": "check",
+      "titulo": "Reutilizables",
+      "texto": "Alternativa al plástico."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Personalizables",
+      "texto": "Logotipo o diseño."
+    },
+    {
+      "icono": "ligero",
+      "titulo": "Ligeras",
+      "texto": "Fáciles de repartir."
+    }
+  ],
+  "ventajas": [
+    "Producto útil y de larga vida.",
+    "Gran superficie de impresión.",
+    "Imagen de marca cotidiana."
+  ],
+  "composicion": {
+    "descripcion": "Tejidos como algodón u otros. Materiales y gramajes por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Zona de impresión",
+      "valor": "Frontal amplio",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Técnica",
+      "valor": "Estampado, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No aplica: producto."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica: producto."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Tiendas",
+      "descripcion": "Bolsa de compra con marca."
+    },
+    {
+      "titulo": "Ferias",
+      "descripcion": "Merchandising para visitantes."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Welcome kits."
+    }
+  ],
+  "acabadosCompatibles": [
+    "estampado-textil"
+  ],
+  "recomendaciones": [
+    "Elige un color que contraste con la tinta.",
+    "Pide una muestra para series grandes."
+  ],
+  "limitaciones": [
+    "El tejido puede arrugarse.",
+    "Los diseños muy finos pueden perder detalle."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/bolsas-de-tela/muestra-01.webp",
+    "alt": "Bolsas de tela estampadas",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/bolsas-de-tela/galeria-1-material.webp",
+      "alt": "Bolsas de tela: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/bolsas-de-tela/galeria-2-proceso.webp",
+      "alt": "Bolsas de tela: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/merch-festival/02.webp",
+      "alt": "Bolsa de tela estampada junto a prenda embolsada",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Bolsa de tela con logotipo estampado, colgada o apoyada.",
+    "caracteristicasFisicas": "Asas cosidas y estampado nítido sobre tela lisa.",
+    "entorno": "Fondo neutro o uso en tienda.",
+    "encuadre": "Plano frontal del estampado.",
+    "texturaAcabado": "Tejido natural con trama visible.",
+    "noConfundirCon": [
+      "bolsa de plástico",
+      "camiseta"
+    ]
+  },
+  "relacionados": [
+    "mat-25",
+    "mat-29",
+    "mat-27"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/merch-festival/01.webp",
+      "alt": "Bolsa de tela estampada con asas amarillas",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "merch-festival"
+    }
+  ]
+}

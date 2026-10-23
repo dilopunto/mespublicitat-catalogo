@@ -1,0 +1,167 @@
+{
+  "id": "mat-04",
+  "slug": "vinilo-acido",
+  "nombre": "Vinilo ácido",
+  "categoria": "vinilos-y-adhesivos",
+  "resumen": "Vinilo translúcido que imita el cristal esmerilado para dar privacidad sin perder luz.",
+  "queEs": "Es un vinilo que reproduce el aspecto del cristal grabado al ácido. Difumina lo que hay detrás pero deja pasar la luz. Se utiliza para mamparas, puertas de despacho y cristales donde se busca intimidad con un acabado elegante.",
+  "cualidades": [
+    {
+      "icono": "sol",
+      "titulo": "Deja pasar luz",
+      "texto": "Translúcido, sin oscurecer el espacio."
+    },
+    {
+      "icono": "ojo",
+      "titulo": "Difumina la vista",
+      "texto": "Aporta privacidad visual."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Elegante",
+      "texto": "Efecto esmerilado uniforme."
+    }
+  ],
+  "ventajas": [
+    "Privacidad y luz a la vez.",
+    "Se puede combinar con cortes de logotipos o franjas.",
+    "Alternativa económica a un cristal esmerilado real."
+  ],
+  "composicion": {
+    "descripcion": "Película de vinilo translúcida con adhesivo. Tipo y calidad según fabricante; por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Aspecto",
+      "valor": "Translúcido esmerilado",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Combinación habitual",
+      "valor": "Corte de contorno y franjas",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal en cristales y mamparas interiores."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Confirmar con el proveedor si se desea en exterior."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "escaparates",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Despachos",
+      "descripcion": "Mamparas y puertas con franja y logotipo."
+    },
+    {
+      "titulo": "Salas de reuniones",
+      "descripcion": "Cristales con privacidad visual."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Escaparates o separadores con diseño."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-contorno",
+    "cinta-transferencia"
+  ],
+  "recomendaciones": [
+    "Define si quieres cubrir todo el cristal o solo una franja.",
+    "Combina con vinilo de corte para logotipos."
+  ],
+  "limitaciones": [
+    "No ofrece privacidad total: difumina, no oculta.",
+    "Se aplica sobre cristal liso y limpio."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/vinilo-acido/muestra-01.webp",
+    "alt": "Vinilo ácido (translúcido) en mamparas de cristal de una oficina",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/vinilo-acido/galeria-1-material.webp",
+      "alt": "Vinilo ácido: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-acido/galeria-2-proceso.webp",
+      "alt": "Vinilo ácido: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-acido/galeria-3-resultado.webp",
+      "alt": "Vinilo ácido: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Vinilo esmerilado en un cristal, con franja o logotipo recortado.",
+    "caracteristicasFisicas": "Aspecto translúcido y uniforme, similar al cristal grabado.",
+    "entorno": "Mampara o puerta de cristal de una oficina.",
+    "encuadre": "Plano medio frontal, con luz natural desde el fondo.",
+    "texturaAcabado": "Superficie translúcida, aspecto de cristal esmerilado.",
+    "noConfundirCon": [
+      "vinilo de corte (color liso opaco)",
+      "vinilo microperforado (trama de puntos)"
+    ]
+  },
+  "relacionados": [
+    "mat-01",
+    "mat-06",
+    "mat-02"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

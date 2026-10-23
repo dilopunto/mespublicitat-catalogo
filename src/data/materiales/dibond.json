@@ -1,0 +1,193 @@
+{
+  "id": "mat-09",
+  "slug": "dibond",
+  "nombre": "Dibond",
+  "categoria": "soportes-rigidos",
+  "resumen": "Panel composite con dos láminas de aluminio y núcleo de plástico: rígido, plano y apto para exterior.",
+  "queEs": "Dibond es el nombre comercial de un panel composite de aluminio: dos láminas finas de aluminio con un núcleo de polietileno. Es muy rígido y permanece plano, con buena resistencia a la intemperie. Existen paneles equivalentes de otros fabricantes. Se usa en rotulación exterior, placas y paneles de calidad.",
+  "cualidades": [
+    {
+      "icono": "rigido",
+      "titulo": "Muy rígido",
+      "texto": "Mantiene la planitud en grandes tamaños."
+    },
+    {
+      "icono": "sol",
+      "titulo": "Exterior",
+      "texto": "Pensado para uso en intemperie."
+    },
+    {
+      "icono": "escudo",
+      "titulo": "Resistente",
+      "texto": "Buena resistencia a golpes y clima."
+    }
+  ],
+  "ventajas": [
+    "Acabado de calidad y larga duración (por confirmar).",
+    "Se puede fresar, cortar y plegar con técnicas específicas.",
+    "Admite impresión directa o vinilo."
+  ],
+  "composicion": {
+    "descripcion": "Dos láminas de aluminio con núcleo de polietileno. Espesores y acabados por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Estructura",
+      "valor": "Aluminio + núcleo plástico + aluminio",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Superficie",
+      "valor": "Lisa, con diferentes acabados",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Apto para interior."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Apto para exterior; durabilidad por confirmar."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "exterior",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Rotulación de fachadas",
+      "descripcion": "Paneles y placas de empresa."
+    },
+    {
+      "titulo": "Señalización",
+      "descripcion": "Carteles de calidad en exterior."
+    },
+    {
+      "titulo": "Placas informativas",
+      "descripcion": "Placas de despachos y edificios."
+    }
+  ],
+  "acabadosCompatibles": [
+    "fresado-cnc",
+    "esquinas-redondeadas",
+    "corte-a-medida"
+  ],
+  "recomendaciones": [
+    "Indica si va en interior o exterior.",
+    "Consulta el tipo de fijación antes de diseñar."
+  ],
+  "limitaciones": [
+    "Más pesado que otras planchas.",
+    "Se raya y marca si se golpea; coste superior a opciones ligeras."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/dibond/muestra-01.webp",
+    "alt": "Muestra de panel composite de aluminio (tipo Dibond): núcleo oscuro entre dos láminas metálicas",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/dibond/galeria-1-material.webp",
+      "alt": "Paneles composite de aluminio apilados con el canto visible",
+      "tipo": "material",
+      "estado": "disponible",
+      "origen": "ia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/dibond/galeria-2-proceso.webp",
+      "alt": "Dibond: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/dibond/galeria-3-resultado.webp",
+      "alt": "Dibond: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Panel composite de aluminio con gráfica impresa o placa rotulada.",
+    "caracteristicasFisicas": "Superficie lisa metalizada o lacada; canto con núcleo negro o gris visible.",
+    "entorno": "Fachada de oficina o exterior de un comercio.",
+    "encuadre": "Plano frontal con detalle del canto del panel.",
+    "texturaAcabado": "Superficie lisa con reflejo suave de aluminio.",
+    "noConfundirCon": [
+      "PVC espumado (más ligero y blanco)",
+      "metacrilato (transparente)"
+    ]
+  },
+  "relacionados": [
+    "mat-07",
+    "mat-10",
+    "mat-11"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/exposicion-alicia/02.webp",
+      "alt": "Panel rígido recortado a contorno en una exposición",
+      "proyecto": "exposicion-alicia",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/rotulos-fachada/02.webp",
+      "alt": "Rótulo de fachada rojo, vista cercana",
+      "proyecto": "rotulos-fachada",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/finance-summit/01.webp",
+      "alt": "Panel rígido negro impreso con soporte en exterior",
+      "proyecto": "finance-summit",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}

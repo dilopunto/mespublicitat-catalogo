@@ -1,0 +1,173 @@
+{
+  "id": "mat-29",
+  "slug": "accesorios-personalizados",
+  "nombre": "Accesorios personalizados",
+  "categoria": "textil-y-merchandising",
+  "resumen": "Artículos promocionales personalizados para reforzar la marca en eventos, tiendas y campañas.",
+  "queEs": "Esta línea agrupa pequeños artículos promocionales que se personalizan con el logotipo o diseño del cliente. Los productos concretos disponibles (por ejemplo llaveros, tazas o similares) están por confirmar con MésPublicitat.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Personalizables",
+      "texto": "Logotipo o diseño."
+    },
+    {
+      "icono": "ligero",
+      "titulo": "Pequeños",
+      "texto": "Fáciles de repartir."
+    },
+    {
+      "icono": "check",
+      "titulo": "Variedad",
+      "texto": "Según el catálogo."
+    }
+  ],
+  "ventajas": [
+    "Recuerdo de marca duradero.",
+    "Opciones para presupuestos variados.",
+    "Refuerzan campañas y eventos."
+  ],
+  "composicion": {
+    "descripcion": "Materiales variados según artículo. Catálogo de productos por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Surtido",
+      "valor": "Por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Personalización",
+      "valor": "Según artículo",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No aplica: artículos."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica: artículos."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Ferias",
+      "descripcion": "Regalos para visitantes."
+    },
+    {
+      "titulo": "Campañas",
+      "descripcion": "Artículos de temporada."
+    },
+    {
+      "titulo": "Clientes",
+      "descripcion": "Detalles de fidelización."
+    }
+  ],
+  "acabadosCompatibles": [
+    "estampado-textil"
+  ],
+  "recomendaciones": [
+    "Indica cantidad y presupuesto.",
+    "Elige artículos útiles para el cliente."
+  ],
+  "limitaciones": [
+    "Disponibilidad por confirmar.",
+    "Plazos según artículo."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/accesorios-personalizados/muestra-01.webp",
+    "alt": "Botellas, tazas, llaveros, lanyards y libreta personalizados",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/accesorios-personalizados/galeria-1-material.webp",
+      "alt": "Accesorios personalizados: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/accesorios-personalizados/galeria-2-proceso.webp",
+      "alt": "Accesorios personalizados: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/lanyard-acreditacion/01.webp",
+      "alt": "Lanyard con acreditación roja",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "contain"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Conjunto de pequeños artículos promocionales con logotipo.",
+    "caracteristicasFisicas": "Productos limpios, logotipo nítido y variedad.",
+    "entorno": "Superficie neutra o mesa de presentación.",
+    "encuadre": "Plano cenital con varios productos.",
+    "texturaAcabado": "Superficies variadas según artículo.",
+    "noConfundirCon": [
+      "textil personalizado",
+      "material impreso"
+    ]
+  },
+  "relacionados": [
+    "mat-28",
+    "mat-27",
+    "mat-25"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/evento-hotel-madrid/04.webp",
+      "alt": "Lanyards blancos con impresión en verde",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "evento-hotel-madrid"
+    }
+  ]
+}

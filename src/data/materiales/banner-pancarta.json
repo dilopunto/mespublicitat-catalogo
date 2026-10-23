@@ -1,0 +1,200 @@
+{
+  "id": "mat-14",
+  "slug": "banner-pancarta",
+  "nombre": "Banner / pancarta",
+  "categoria": "gran-formato",
+  "resumen": "Pancarta o banner para colgar en exterior o interior con mensajes temporales y de gran visibilidad.",
+  "queEs": "Un banner o pancarta es una gráfica de gran formato pensada para colgarse y comunicar mensajes de forma temporal: promociones, eventos, inauguraciones o apoyo a campañas. Suele fabricarse en lona o tejido ligero, con ojales o bolsillos para su fijación.",
+  "cualidades": [
+    {
+      "icono": "ojo",
+      "titulo": "Alta visibilidad",
+      "texto": "Pensado para verse a distancia."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Temporal",
+      "texto": "Ideal para campañas."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Fácil de colgar",
+      "texto": "Con ojales o dobladillo."
+    }
+  ],
+  "ventajas": [
+    "Producción rápida.",
+    "Coste ajustado para tamaños grandes.",
+    "Sirve para exterior e interior."
+  ],
+  "composicion": {
+    "descripcion": "Lona o tejido de poliéster con refuerzo perimetral. Material exacto por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Fijación",
+      "valor": "Ojales o bolsillos",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Formato",
+      "valor": "A medida",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Habitual en interior de eventos."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Habitual en exterior; confirmar tejido."
+    }
+  },
+  "aplicaciones": [
+    "exterior",
+    "eventos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Inauguraciones",
+      "descripcion": "Pancarta sobre la entrada."
+    },
+    {
+      "titulo": "Eventos deportivos",
+      "descripcion": "Mensajes y patrocinadores."
+    },
+    {
+      "titulo": "Promociones",
+      "descripcion": "Ofertas en fachada."
+    }
+  ],
+  "acabadosCompatibles": [
+    "ojales",
+    "dobladillo-refuerzo"
+  ],
+  "recomendaciones": [
+    "Pide ventilación si va en un lugar con viento.",
+    "Define altura y dónde se fijará."
+  ],
+  "limitaciones": [
+    "Es un soporte temporal.",
+    "El viento puede dañarla si no se ancla bien."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/banner-pancarta/muestra-01.webp",
+    "alt": "Pancarta impresa con ojales tensada sobre una valla",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/banner-pancarta/galeria-1-material.webp",
+      "alt": "Banner / pancarta: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/banner-pancarta/galeria-2-proceso.webp",
+      "alt": "Banner / pancarta: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/banner-pancarta/galeria-3-resultado.webp",
+      "alt": "Banner / pancarta: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Pancarta de lona colgada con mensaje impreso.",
+    "caracteristicasFisicas": "Ojales visibles, tela tensada con bordes reforzados.",
+    "entorno": "Fachada o calle durante un evento.",
+    "encuadre": "Plano general y detalle de un ojal.",
+    "texturaAcabado": "Superficie plana y tensa, ligeramente brillante.",
+    "noConfundirCon": [
+      "lona frontlit en una valla fija",
+      "roll up (con estructura enrollable)"
+    ]
+  },
+  "relacionados": [
+    "mat-13",
+    "mat-20",
+    "mat-16"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/festival-musica/01.webp",
+      "alt": "Escenario con banner textil colgado",
+      "proyecto": "festival-musica",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/festival-musica/02.webp",
+      "alt": "Panel impreso en bastidor, lateral de escenario",
+      "proyecto": "festival-musica",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/festival-musica/03.webp",
+      "alt": "Photocall de festival en exterior",
+      "proyecto": "festival-musica",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/festival-musica/04.webp",
+      "alt": "Escenario de festival con dos photocalls laterales",
+      "proyecto": "festival-musica",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

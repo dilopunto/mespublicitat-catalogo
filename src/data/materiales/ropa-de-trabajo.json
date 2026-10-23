@@ -1,0 +1,165 @@
+{
+  "id": "mat-30",
+  "slug": "ropa-de-trabajo",
+  "nombre": "Ropa de trabajo",
+  "categoria": "textil-y-merchandising",
+  "resumen": "Prendas de trabajo personalizadas con logotipo para equipos, comercios y empresas.",
+  "queEs": "La ropa de trabajo incluye polos, camisetas, chalecos y otras prendas uniformes que se personalizan con logotipo. Se utiliza para dar imagen homogénea al equipo. Si se necesitan prendas con requisitos normativos (por ejemplo, alta visibilidad), debe consultarse antes.",
+  "cualidades": [
+    {
+      "icono": "textil",
+      "titulo": "Uniformidad",
+      "texto": "Imagen homogénea."
+    },
+    {
+      "icono": "escudo",
+      "titulo": "Uso profesional",
+      "texto": "Pensada para el trabajo diario."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Logotipo",
+      "texto": "Bordado o estampado."
+    }
+  ],
+  "ventajas": [
+    "Imagen profesional del equipo.",
+    "Reconocimiento de marca.",
+    "Opciones para distintos puestos."
+  ],
+  "composicion": {
+    "descripcion": "Tejidos según prenda y normativa. Modelos y marcas por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Prendas",
+      "valor": "Polos, camisetas, chalecos…",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Personalización",
+      "valor": "Bordado o estampado",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Hostelería",
+      "descripcion": "Uniformes del personal."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Polos con logotipo."
+    },
+    {
+      "titulo": "Empresas",
+      "descripcion": "Ropa de equipo."
+    }
+  ],
+  "acabadosCompatibles": [
+    "bordado",
+    "estampado-textil"
+  ],
+  "recomendaciones": [
+    "Indica las tallas y el puesto.",
+    "Consulta normativas específicas si las hay."
+  ],
+  "limitaciones": [
+    "Prendas con certificación por confirmar.",
+    "Plazos según cantidad."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/ropa-de-trabajo/muestra-01.webp",
+    "alt": "Ropa de trabajo personalizada: chaqueta, polos y pantalón",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/ropa-de-trabajo/galeria-1-material.webp",
+      "alt": "Ropa de trabajo: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/ropa-de-trabajo/galeria-2-proceso.webp",
+      "alt": "Ropa de trabajo: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/ropa-de-trabajo/galeria-3-resultado.webp",
+      "alt": "Ropa de trabajo: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Prendas de trabajo uniformes con logotipo bordado.",
+    "caracteristicasFisicas": "Prendas limpias, logotipo visible y bien colocado.",
+    "entorno": "Entorno de trabajo (tienda, hostelería, taller).",
+    "encuadre": "Plano de equipo y detalle de bordado.",
+    "texturaAcabado": "Tejidos resistentes, bordado en relieve.",
+    "noConfundirCon": [
+      "ropa de moda",
+      "camiseta promocional"
+    ]
+  },
+  "relacionados": [
+    "mat-25",
+    "mat-26",
+    "mat-27"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

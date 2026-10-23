@@ -1,0 +1,193 @@
+{
+  "id": "mat-22",
+  "slug": "expositores",
+  "nombre": "Expositores",
+  "categoria": "eventos-y-plv",
+  "resumen": "Soportes para mostrar productos o información: de suelo, sobremesa, cartón o metacrilato.",
+  "queEs": "Los expositores son elementos pensados para mostrar productos, folletos o mensajes en un punto de venta o evento. Pueden fabricarse en cartón, PVC, metacrilato u otros materiales, y se diseñan según el producto.",
+  "cualidades": [
+    {
+      "icono": "escala",
+      "titulo": "A medida",
+      "texto": "Adaptado al producto."
+    },
+    {
+      "icono": "plegable",
+      "titulo": "Versátil",
+      "texto": "Varias formas y materiales."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen de marca",
+      "texto": "Gráfica integrada."
+    }
+  ],
+  "ventajas": [
+    "Destacan el producto en el punto de venta.",
+    "Se adaptan a cada campaña.",
+    "Desde cartón hasta metacrilato."
+  ],
+  "composicion": {
+    "descripcion": "Cartón, PVC, metacrilato u otros. Materiales y modelos por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Tipos",
+      "valor": "Suelo, mostrador, sobremesa",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Material",
+      "valor": "Según modelo",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del material."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos",
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Tiendas",
+      "descripcion": "Expositor de producto en lineal."
+    },
+    {
+      "titulo": "Ferias",
+      "descripcion": "Soportes de folletos."
+    },
+    {
+      "titulo": "Campañas",
+      "descripcion": "Expositores temporales."
+    }
+  ],
+  "acabadosCompatibles": [
+    "troquelado",
+    "montaje-estructura",
+    "corte-a-medida"
+  ],
+  "recomendaciones": [
+    "Indica peso y medidas del producto.",
+    "Elige el material según la duración."
+  ],
+  "limitaciones": [
+    "La resistencia depende del material.",
+    "Requiere diseño estructural."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/expositores/muestra-01.webp",
+    "alt": "Expositor con estantes y gráfica impresa",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/expositores/galeria-1-material.webp",
+      "alt": "Expositores: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/expositores/galeria-2-proceso.webp",
+      "alt": "Expositores: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/expositores/galeria-3-resultado.webp",
+      "alt": "Expositores: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Expositor de producto con gráfica en un punto de venta.",
+    "caracteristicasFisicas": "Estructura estable, gráfica nítida y producto visible.",
+    "entorno": "Punto de venta, tienda o feria.",
+    "encuadre": "Plano medio con el producto en uso.",
+    "texturaAcabado": "Superficies mates, aristas limpias.",
+    "noConfundirCon": [
+      "mostrador",
+      "material de lineal (más pequeño)"
+    ]
+  },
+  "relacionados": [
+    "mat-23",
+    "mat-21",
+    "mat-10"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/evento-economistas-barcelona/01.webp",
+      "alt": "Escenario con cubos rotulados con logos y expositor vertical",
+      "proyecto": "evento-economistas-barcelona",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/columna-impresa/01.webp",
+      "alt": "Columna impresa sobre una mesa de taller",
+      "proyecto": "columna-impresa",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/foro-bienestar/03.webp",
+      "alt": "Podio y cubos con logos en un escenario",
+      "proyecto": "foro-bienestar",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

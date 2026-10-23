@@ -1,0 +1,167 @@
+{
+  "id": "mat-11",
+  "slug": "polipropileno",
+  "nombre": "Polipropileno",
+  "categoria": "soportes-rigidos",
+  "resumen": "Hoja plástica ligera y resistente a la humedad, útil para carteles temporales en exterior.",
+  "queEs": "El polipropileno es un plástico ligero y resistente a la humedad. Se presenta con frecuencia en hojas alveolares (con canales internos), muy usadas para carteles temporales. El formato exacto que se ofrece está por confirmar.",
+  "cualidades": [
+    {
+      "icono": "gota",
+      "titulo": "Resistente al agua",
+      "texto": "No absorbe la humedad."
+    },
+    {
+      "icono": "ligero",
+      "titulo": "Muy ligero",
+      "texto": "Fácil de colgar y manejar."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Uso temporal",
+      "texto": "Carteles de corta o media duración."
+    }
+  ],
+  "ventajas": [
+    "Económico para tiradas amplias.",
+    "Resiste mejor la humedad que el cartón.",
+    "Se corta con facilidad."
+  ],
+  "composicion": {
+    "descripcion": "Polipropileno, habitualmente en hoja alveolar. Formatos y espesores por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Estructura",
+      "valor": "Alveolar u otra, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Superficie",
+      "valor": "Lisa, ligeramente rugosa",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso posible en interior."
+    },
+    "exterior": {
+      "apto": true,
+      "nota": "Uso habitual en exterior temporal."
+    }
+  },
+  "aplicaciones": [
+    "exterior",
+    "eventos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Obras",
+      "descripcion": "Señalización de obra y seguridad."
+    },
+    {
+      "titulo": "Inmobiliaria",
+      "descripcion": "Carteles de venta o alquiler."
+    },
+    {
+      "titulo": "Campañas",
+      "descripcion": "Carteles electorales o de eventos."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-a-medida",
+    "esquinas-redondeadas"
+  ],
+  "recomendaciones": [
+    "Úsalo para campañas de corta duración.",
+    "Valora fijaciones con bridas o ojales."
+  ],
+  "limitaciones": [
+    "Aspecto menos premium que otros rígidos.",
+    "Se marca y dobla si se golpea."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/polipropileno/muestra-01.webp",
+    "alt": "Planchas de polipropileno alveolar con los canales huecos visibles en el canto",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/polipropileno/galeria-1-material.webp",
+      "alt": "Polipropileno: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/polipropileno/galeria-2-proceso.webp",
+      "alt": "Polipropileno: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/polipropileno/galeria-3-resultado.webp",
+      "alt": "Polipropileno: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Hoja de polipropileno alveolar impresa, como cartel temporal.",
+    "caracteristicasFisicas": "Canto con canales internos visibles, superficie lisa.",
+    "entorno": "Cartel en exterior, sujeto a una valla o poste.",
+    "encuadre": "Plano medio con detalle del canto alveolar.",
+    "texturaAcabado": "Superficie lisa con ligero relieve de canales.",
+    "noConfundirCon": [
+      "cartón pluma (interior, espuma)",
+      "PVC espumado (superficie más fina)"
+    ]
+  },
+  "relacionados": [
+    "mat-07",
+    "mat-08",
+    "mat-14"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

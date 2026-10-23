@@ -1,0 +1,194 @@
+{
+  "id": "mat-10",
+  "slug": "metacrilato",
+  "nombre": "Metacrilato",
+  "categoria": "soportes-rigidos",
+  "resumen": "Plástico rígido y brillante, transparente o de color, para displays, placas y expositores.",
+  "queEs": "El metacrilato (PMMA) es un plástico rígido con gran claridad y brillo. Puede ser transparente, translúcido o de color. Se corta con láser o fresadora y se usa en expositores, placas, portafolletos y señalización de aspecto cuidado.",
+  "cualidades": [
+    {
+      "icono": "sol",
+      "titulo": "Transparente",
+      "texto": "Gran claridad óptica."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Brillante",
+      "texto": "Acabado visual cuidado."
+    },
+    {
+      "icono": "rigido",
+      "titulo": "Rígido",
+      "texto": "Forma estable y limpia."
+    }
+  ],
+  "ventajas": [
+    "Aspecto premium.",
+    "Admite impresión, vinilo y grabado.",
+    "Se combina con distanciadores y soportes."
+  ],
+  "composicion": {
+    "descripcion": "Polimetilmetacrilato (PMMA), en colada o extrusión, según calidad. Tipo y espesores por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Transparencia",
+      "valor": "Transparente, opal o color",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Corte",
+      "valor": "Láser o fresado",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Muy habitual en interior."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Posible en exterior según tipo; confirmar."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "exterior",
+    "escaparates",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Placas de despacho",
+      "descripcion": "Rotulación con separadores metálicos."
+    },
+    {
+      "titulo": "Expositores",
+      "descripcion": "Soportes de producto y portafolletos."
+    },
+    {
+      "titulo": "Señalética",
+      "descripcion": "Pictogramas y carteles elegantes."
+    }
+  ],
+  "acabadosCompatibles": [
+    "canto-pulido",
+    "fresado-cnc",
+    "esquinas-redondeadas"
+  ],
+  "recomendaciones": [
+    "Define si va impreso por delante o por detrás.",
+    "Pide canto pulido si es visible."
+  ],
+  "limitaciones": [
+    "Se raya con facilidad.",
+    "Puede romperse con golpes fuertes."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/metacrilato/muestra-01.webp",
+    "alt": "Planchas de metacrilato transparente apiladas, con el canto pulido visible",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/metacrilato/galeria-1-material.webp",
+      "alt": "Metacrilato: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/metacrilato/galeria-2-proceso.webp",
+      "alt": "Metacrilato: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/metacrilato/galeria-3-resultado.webp",
+      "alt": "Metacrilato: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Placa de metacrilato transparente con gráfica o texto.",
+    "caracteristicasFisicas": "Canto pulido, reflejos y transparencia visibles.",
+    "entorno": "Recepción o mostrador de un comercio.",
+    "encuadre": "Plano en ángulo para captar brillo y canto.",
+    "texturaAcabado": "Superficie muy lisa, brillante y transparente.",
+    "noConfundirCon": [
+      "PVC espumado (opaco y mate)",
+      "vinilo ácido (esmerilado)"
+    ]
+  },
+  "relacionados": [
+    "mat-09",
+    "mat-07",
+    "mat-22"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/puesto-burger/02.webp",
+      "alt": "Detalle de letras iluminadas sobre frontal negro",
+      "proyecto": "puesto-burger",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/concierto-anfiteatro/02.webp",
+      "alt": "Llavero con colgante de corazón y entrada impresa en plástico rosa",
+      "proyecto": "concierto-anfiteatro",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/concierto-anfiteatro/03.webp",
+      "alt": "Llavero con colgante en mano",
+      "proyecto": "concierto-anfiteatro",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "mat-35",
+  "slug": "catalogos-y-revistas",
+  "nombre": "Catálogos y revistas",
+  "categoria": "impresion-grafica",
+  "resumen": "Catálogos y revistas encuadernados para presentar productos o contenidos con varias páginas.",
+  "queEs": "Son publicaciones de varias páginas con distintos tipos de encuadernación: grapado, espiral, tapa blanda y otros. Se utilizan para catálogos de producto, memorias y revistas.",
+  "cualidades": [
+    {
+      "icono": "capa",
+      "titulo": "Varias páginas",
+      "texto": "Contenido ordenado."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen cuidada",
+      "texto": "Impresión de calidad."
+    },
+    {
+      "icono": "regla",
+      "titulo": "Encuadernación",
+      "texto": "Según número de páginas."
+    }
+  ],
+  "ventajas": [
+    "Presentan un catálogo completo.",
+    "Acabado profesional.",
+    "Se adaptan al contenido."
+  ],
+  "composicion": {
+    "descripcion": "Papel o cartulina, con encuadernación. Papeles y opciones por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Encuadernación",
+      "valor": "Grapado, espiral u otras, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Páginas",
+      "valor": "Según proyecto",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": [
+      {
+        "nombre": "A4",
+        "medida": "210 × 297 mm",
+        "estado": "referencia"
+      },
+      {
+        "nombre": "A5",
+        "medida": "148 × 210 mm",
+        "estado": "referencia"
+      }
+    ],
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Catálogos",
+      "descripcion": "Productos y servicios."
+    },
+    {
+      "titulo": "Revistas",
+      "descripcion": "Publicaciones periódicas."
+    },
+    {
+      "titulo": "Memorias",
+      "descripcion": "Informes de empresa."
+    }
+  ],
+  "acabadosCompatibles": [
+    "encuadernacion",
+    "plegado",
+    "laminado"
+  ],
+  "recomendaciones": [
+    "Define el número de páginas pronto.",
+    "Elige encuadernación según uso."
+  ],
+  "limitaciones": [
+    "El número de páginas condiciona la encuadernación.",
+    "Requiere más tiempo de producción."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/catalogos-y-revistas/muestra-01.webp",
+    "alt": "Catálogo o revista impresa abierta por una doble página",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/catalogos-y-revistas/galeria-1-material.webp",
+      "alt": "Catálogos y revistas: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/catalogos-y-revistas/galeria-2-proceso.webp",
+      "alt": "Catálogos y revistas: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/catalogos-y-revistas/galeria-3-resultado.webp",
+      "alt": "Catálogos y revistas: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Catálogo o revista encuadernada, abierta o cerrada.",
+    "caracteristicasFisicas": "Lomo limpio, páginas bien alineadas y portada nítida.",
+    "entorno": "Mesa de trabajo o mostrador.",
+    "encuadre": "Plano en ángulo mostrando lomo y páginas.",
+    "texturaAcabado": "Papel liso mate o brillante, portada resistente.",
+    "noConfundirCon": [
+      "flyer de una hoja",
+      "libro de tapa dura"
+    ]
+  },
+  "relacionados": [
+    "mat-32",
+    "mat-31",
+    "mat-34"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

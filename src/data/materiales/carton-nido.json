@@ -1,0 +1,167 @@
+{
+  "id": "mat-12",
+  "slug": "carton-nido",
+  "nombre": "Cartón nido",
+  "categoria": "soportes-rigidos",
+  "resumen": "Panel de cartón con núcleo en panal, rígido, ligero y reciclable, para displays e interiores efímeros.",
+  "queEs": "Es un panel de cartón con núcleo en forma de panal de abeja entre dos caras. Combina rigidez y poco peso, y es reciclable. Se usa en displays, stands efímeros y mobiliario promocional de interior.",
+  "cualidades": [
+    {
+      "icono": "ligero",
+      "titulo": "Ligero",
+      "texto": "Poco peso para su tamaño."
+    },
+    {
+      "icono": "rigido",
+      "titulo": "Rígido",
+      "texto": "El panal aporta resistencia."
+    },
+    {
+      "icono": "check",
+      "titulo": "Reciclable",
+      "texto": "Material de cartón."
+    }
+  ],
+  "ventajas": [
+    "Opción sostenible para campañas temporales.",
+    "Se monta sin herramientas especiales.",
+    "Admite impresión directa o encolada."
+  ],
+  "composicion": {
+    "descripcion": "Cartón con núcleo alveolar en panal y caras de papel o cartón. Calidades por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Núcleo",
+      "valor": "Panal de cartón",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Uso",
+      "valor": "Interior y temporal",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": false,
+      "nota": "No recomendado en exterior o con humedad."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Displays de cartón",
+      "descripcion": "Expositores y torres para campañas."
+    },
+    {
+      "titulo": "Stands efímeros",
+      "descripcion": "Estructuras ligeras para ferias."
+    },
+    {
+      "titulo": "Mobiliario",
+      "descripcion": "Mostradores y mesas de cartón."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-a-medida",
+    "troquelado",
+    "montaje-estructura"
+  ],
+  "recomendaciones": [
+    "Ideal si la campaña es corta.",
+    "Protégelo de la humedad."
+  ],
+  "limitaciones": [
+    "Se deteriora con agua.",
+    "Menor resistencia a cargas que otros rígidos."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/carton-nido/muestra-01.webp",
+    "alt": "Muestra de cartón nido: canto con estructura alveolar de panal",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/carton-nido/galeria-1-material.webp",
+      "alt": "Planchas de cartón nido con el panal visible en el canto",
+      "tipo": "material",
+      "estado": "disponible",
+      "origen": "ia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/carton-nido/galeria-2-proceso.webp",
+      "alt": "Cartón nido: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/carton-nido/galeria-3-resultado.webp",
+      "alt": "Cartón nido: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Panel de cartón nido con núcleo de panal visible en el canto.",
+    "caracteristicasFisicas": "Estructura de panal entre dos caras lisas.",
+    "entorno": "Display o stand de cartón en interior.",
+    "encuadre": "Plano de detalle del canto con el panal.",
+    "texturaAcabado": "Superficie de cartón lisa, núcleo de celdas hexagonales.",
+    "noConfundirCon": [
+      "cartón pluma (núcleo de espuma)",
+      "polipropileno alveolar (plástico)"
+    ]
+  },
+  "relacionados": [
+    "mat-08",
+    "mat-22",
+    "mat-19"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

@@ -1,0 +1,199 @@
+{
+  "id": "mat-19",
+  "slug": "stands",
+  "nombre": "Stands",
+  "categoria": "eventos-y-plv",
+  "resumen": "Espacios de feria y eventos, modulares o a medida, que combinan estructura, gráfica y mobiliario.",
+  "queEs": "Un stand es un espacio diseñado para representar una marca en ferias y eventos. Combina estructura, paneles, gráficas y mobiliario. Puede ser modular y reutilizable o diseñarse a medida para cada evento.",
+  "cualidades": [
+    {
+      "icono": "escala",
+      "titulo": "A medida",
+      "texto": "Adaptado al espacio."
+    },
+    {
+      "icono": "plegable",
+      "titulo": "Modular",
+      "texto": "Montaje y desmontaje."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Imagen de marca",
+      "texto": "Coherente con la identidad."
+    }
+  ],
+  "ventajas": [
+    "Representa la marca en un espacio propio.",
+    "Modular y reutilizable.",
+    "Integra producto y gráfica."
+  ],
+  "composicion": {
+    "descripcion": "Estructura, paneles, gráficas y mobiliario. Componentes y sistemas por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Tipo",
+      "valor": "Modular o a medida",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Gráfica",
+      "valor": "Impresa en distintos soportes",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del evento."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Ferias comerciales",
+      "descripcion": "Stand propio con identidad de marca."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Espacios promocionales temporales."
+    },
+    {
+      "titulo": "Showrooms",
+      "descripcion": "Presentación de producto."
+    }
+  ],
+  "acabadosCompatibles": [
+    "montaje-estructura",
+    "montaje-bastidor"
+  ],
+  "recomendaciones": [
+    "Consulta las normas del recinto (alturas, materiales).",
+    "Define las medidas del espacio desde el inicio."
+  ],
+  "limitaciones": [
+    "Cada feria impone sus normas.",
+    "Requiere planificación de montaje."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/stands/muestra-01.webp",
+    "alt": "Stand de feria con paredes impresas y mostrador",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/stands/galeria-1-material.webp",
+      "alt": "Stands: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/stands/galeria-2-proceso.webp",
+      "alt": "Stands: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/stand-feria-animacion/04.webp",
+      "alt": "Esquina de stand de feria con gráfica impresa",
+      "estado": "disponible",
+      "origen": "propia",
+      "tipo": "resultado",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Stand de feria con gráficas, paneles y mostrador.",
+    "caracteristicasFisicas": "Gráficas tensas, estructura limpia y rotulación visible.",
+    "entorno": "Pabellón de feria con iluminación.",
+    "encuadre": "Plano general del stand y detalle de gráficas.",
+    "texturaAcabado": "Superficies mates y estructura metálica.",
+    "noConfundirCon": [
+      "roll up (elemento suelto)",
+      "mostrador aislado"
+    ]
+  },
+  "relacionados": [
+    "mat-21",
+    "mat-15",
+    "mat-22"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/stand-feria-animacion/01.webp",
+      "alt": "Stand de feria con paredes impresas y mobiliario",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "stand-feria-animacion"
+    },
+    {
+      "src": "assets/proyectos/concierto-anfiteatro/01.webp",
+      "alt": "Escenario de concierto en anfiteatro",
+      "proyecto": "concierto-anfiteatro",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/stand-feria-animacion/02.webp",
+      "alt": "Stand de feria con paredes impresas, vista general",
+      "proyecto": "stand-feria-animacion",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/stand-feria-animacion/03.webp",
+      "alt": "Stand de feria con paredes impresas, vista lateral",
+      "proyecto": "stand-feria-animacion",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "mat-36",
+  "slug": "etiquetas-y-adhesivos",
+  "nombre": "Etiquetas y adhesivos",
+  "categoria": "impresion-grafica",
+  "resumen": "Etiquetas y adhesivos impresos para productos, envases y comunicación de marca.",
+  "queEs": "Son piezas autoadhesivas impresas que se usan para identificar productos, cerrar envases o comunicar marca. Pueden ser de papel o de vinilo, con corte recto o troquelado. La resistencia al agua o a la intemperie depende del material elegido.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Imagen de marca",
+      "texto": "Impresión nítida."
+    },
+    {
+      "icono": "tijera",
+      "titulo": "Formas a medida",
+      "texto": "Corte recto o troquelado."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Adhesivo",
+      "texto": "Permanente o removible."
+    }
+  ],
+  "ventajas": [
+    "Identifican y protegen el producto.",
+    "Se producen en series.",
+    "Se adaptan a envases y superficies."
+  ],
+  "composicion": {
+    "descripcion": "Papel o vinilo autoadhesivo. Materiales y adhesivos por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Formas",
+      "valor": "Recto o troquelado",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Adhesivo",
+      "valor": "Permanente o removible, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del material."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Envases",
+      "descripcion": "Etiquetas de producto."
+    },
+    {
+      "titulo": "Cierres",
+      "descripcion": "Precintos de marca."
+    },
+    {
+      "titulo": "Promoción",
+      "descripcion": "Pegatinas de campaña."
+    }
+  ],
+  "acabadosCompatibles": [
+    "troquelado",
+    "corte-contorno",
+    "laminado"
+  ],
+  "recomendaciones": [
+    "Indica la superficie donde se pegará.",
+    "Define si necesita resistir agua o frío."
+  ],
+  "limitaciones": [
+    "La resistencia depende del material.",
+    "Formas especiales requieren troquel."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/etiquetas-y-adhesivos/muestra-01.webp",
+    "alt": "Rollo y hojas de etiquetas y adhesivos impresos",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/etiquetas-y-adhesivos/galeria-1-material.webp",
+      "alt": "Etiquetas y adhesivos: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/etiquetas-y-adhesivos/galeria-2-proceso.webp",
+      "alt": "Etiquetas y adhesivos: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/etiquetas-y-adhesivos/galeria-3-resultado.webp",
+      "alt": "Etiquetas y adhesivos: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Etiquetas adhesivas en rollo o hoja, o pegadas en envases.",
+    "caracteristicasFisicas": "Troquelado limpio, impresión nítida y colores definidos.",
+    "entorno": "Envases o productos en un mostrador.",
+    "encuadre": "Plano cenital con varias etiquetas y detalle de un troquel.",
+    "texturaAcabado": "Superficie lisa, mate o brillante.",
+    "noConfundirCon": [
+      "vinilo de gran tamaño",
+      "tarjeta de visita"
+    ]
+  },
+  "relacionados": [
+    "mat-03",
+    "mat-31",
+    "mat-32"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

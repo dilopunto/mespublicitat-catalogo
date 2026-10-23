@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-23",
+  "claveAlmacenamiento": "mp-cookies",
+  "resumenBanner": "Usamos solo el almacenamiento imprescindible para recordar tu elección. Si lo aceptas, cargamos además las tipografías desde Google Fonts, un servicio de terceros. Esta web no usa analítica ni publicidad.",
+  "intro": "Esta página explica qué almacenamiento y qué servicios de terceros utiliza el catálogo de MésPublicitat, para qué sirven y cómo puedes cambiar tu elección en cualquier momento. Está redactada tras revisar el código real de la web.",
+  "categorias": [
+    {
+      "id": "necesarias",
+      "nombre": "Necesarias",
+      "obligatoria": true,
+      "utilizada": true,
+      "texto": "Imprescindibles para que la web recuerde tu elección sobre cookies. No requieren consentimiento.",
+      "elementos": [
+        {
+          "nombre": "mp-cookies",
+          "tipo": "Almacenamiento local del navegador (localStorage)",
+          "titular": "MésPublicitat (propia)",
+          "finalidad": "Guardar si has aceptado o rechazado los elementos opcionales y la fecha de tu decisión.",
+          "duracion": "Hasta que borres los datos del navegador o cambies tu elección."
+        }
+      ]
+    },
+    {
+      "id": "terceros",
+      "nombre": "Tipografías de Google Fonts",
+      "obligatoria": false,
+      "utilizada": true,
+      "texto": "Muestran los titulares y textos con las tipografías Anton y Carlito. No instalan cookies, pero tu navegador se conecta a servidores de Google, que reciben tu dirección IP. Si los rechazas, la web usa las tipografías de tu sistema y funciona igual.",
+      "elementos": [
+        {
+          "nombre": "fonts.googleapis.com y fonts.gstatic.com",
+          "tipo": "Solicitud a un servidor de terceros (sin cookies)",
+          "titular": "Google",
+          "finalidad": "Descargar las tipografías Anton y Carlito.",
+          "duracion": "Solo durante la visita; el navegador puede conservar los archivos en su caché."
+        }
+      ]
+    },
+    {
+      "id": "analitica",
+      "nombre": "Analítica",
+      "obligatoria": false,
+      "utilizada": false,
+      "texto": "Esta web no utiliza actualmente ninguna herramienta de analítica o medición."
+    },
+    {
+      "id": "marketing",
+      "nombre": "Publicidad y redes sociales",
+      "obligatoria": false,
+      "utilizada": false,
+      "texto": "Esta web no utiliza actualmente cookies publicitarias ni de redes sociales, ni incrusta contenido de terceros (vídeos, mapas, píxeles)."
+    }
+  ],
+  "formulario": "El formulario de contacto no envía los datos a ningún servidor: prepara un correo electrónico (mailto:) en tu aplicación de correo. No instala cookies.",
+  "cambiarEleccion": "Puedes cambiar o retirar tu consentimiento en cualquier momento con el enlace «Configurar cookies» del pie de página. También puedes borrar los datos del sitio desde la configuración de tu navegador.",
+  "pendientesLegales": [
+    "Razón social o nombre completo del titular de la web.",
+    "NIF/CIF del titular.",
+    "Domicilio completo (calle, número y código postal); solo consta Barcelona.",
+    "Política de privacidad publicada y enlazada (existe un borrador sin publicar): base jurídica, plazos de conservación y derechos RGPD.",
+    "Revisión de las transferencias internacionales de datos asociadas a Google Fonts, o alternativa: alojar las tipografías en el propio servidor y eliminar este tercero.",
+    "Revisión legal final conforme al RGPD, la LOPDGDD y el artículo 22.2 de la LSSI por un profesional."
+  ],
+  "contacto": "comercial@mespublicitat.com"
+}

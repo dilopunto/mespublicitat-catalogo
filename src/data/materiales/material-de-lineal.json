@@ -1,0 +1,166 @@
+{
+  "id": "mat-23",
+  "slug": "material-de-lineal",
+  "nombre": "Material de lineal",
+  "categoria": "eventos-y-plv",
+  "resumen": "Elementos de punto de venta para estantería: cenefas, stoppers, wobblers y señalización de producto.",
+  "queEs": "El material de lineal reúne piezas pequeñas para identificar y destacar productos en estanterías: cenefas, stoppers, wobblers y carteles de precio. Se produce en cartón, PVC u otros plásticos y se ajusta a las normas de cada punto de venta.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Destaca producto",
+      "texto": "Llama la atención en el lineal."
+    },
+    {
+      "icono": "regla",
+      "titulo": "Medidas exactas",
+      "texto": "Se ajusta a la estantería."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Campañas",
+      "texto": "Uso temporal."
+    }
+  ],
+  "ventajas": [
+    "Aumenta la visibilidad en el punto de venta.",
+    "Producción en series.",
+    "Variedad de formatos."
+  ],
+  "composicion": {
+    "descripcion": "Cartón, PVC u otros soportes, según pieza. Materiales por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Formas",
+      "valor": "Troqueladas según pieza",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Fijación",
+      "valor": "Adhesivo, clip o encaje",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": false,
+      "nota": "Pensado para interior."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Supermercados",
+      "descripcion": "Cenefas y stoppers de producto."
+    },
+    {
+      "titulo": "Tiendas",
+      "descripcion": "Carteles de precio."
+    },
+    {
+      "titulo": "Campañas",
+      "descripcion": "Señalización temporal."
+    }
+  ],
+  "acabadosCompatibles": [
+    "troquelado",
+    "corte-a-medida"
+  ],
+  "recomendaciones": [
+    "Pide las medidas de lineal al distribuidor.",
+    "Concreta la fijación."
+  ],
+  "limitaciones": [
+    "Las normas varían según cadena.",
+    "Requiere troquel para formas especiales."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/material-de-lineal/muestra-01.webp",
+    "alt": "Cartel de lineal colgado en una estantería de supermercado",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/material-de-lineal/galeria-1-material.webp",
+      "alt": "Material de lineal: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/material-de-lineal/galeria-2-proceso.webp",
+      "alt": "Material de lineal: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/material-de-lineal/galeria-3-resultado.webp",
+      "alt": "Material de lineal: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Cenefa o stopper de lineal con gráfica de producto.",
+    "caracteristicasFisicas": "Troquelado limpio, gráfica clara, colores vivos.",
+    "entorno": "Estantería de tienda con producto.",
+    "encuadre": "Plano medio en estantería real.",
+    "texturaAcabado": "Superficie lisa, mate o brillo.",
+    "noConfundirCon": [
+      "expositor de suelo",
+      "cartel grande en pared"
+    ]
+  },
+  "relacionados": [
+    "mat-22",
+    "mat-21",
+    "mat-33"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

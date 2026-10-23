@@ -1,0 +1,203 @@
+{
+  "id": "mat-03",
+  "slug": "vinilo-impreso",
+  "nombre": "Vinilo impreso",
+  "categoria": "vinilos-y-adhesivos",
+  "resumen": "Vinilo adhesivo con imagen impresa a todo color para rotular cristales, paredes, vehículos y soportes.",
+  "queEs": "Es un vinilo autoadhesivo en el que se imprime el diseño completo: fotografías, degradados y colores corporativos. Se pega sobre la superficie o se monta sobre un panel rígido. Es la opción más versátil para cartelería y rotulación personalizada.",
+  "cualidades": [
+    {
+      "icono": "pincel",
+      "titulo": "Todo color",
+      "texto": "Admite fotografías, degradados y colores corporativos."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Versátil",
+      "texto": "Se aplica sobre múltiples superficies."
+    },
+    {
+      "icono": "escudo",
+      "titulo": "Protegible",
+      "texto": "Puede laminarse para proteger la impresión."
+    }
+  ],
+  "ventajas": [
+    "Imagen completa en una sola pieza.",
+    "Se puede cortar por contorno para formas especiales.",
+    "Una opción flexible para interior y exterior."
+  ],
+  "composicion": {
+    "descripcion": "Película de PVC u otro polímero con adhesivo y soporte. Tinta y laminado según proceso de impresión; por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Impresión",
+      "valor": "Imagen digital a todo color",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Acabado de superficie",
+      "valor": "Mate, brillo u otras opciones, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Muy habitual en interiores."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del vinilo, la tinta y el laminado utilizados."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "exterior",
+    "escaparates",
+    "vehiculos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Escaparates",
+      "descripcion": "Campañas y promociones en el cristal."
+    },
+    {
+      "titulo": "Paredes",
+      "descripcion": "Gráficas de gran impacto en comercios y oficinas."
+    },
+    {
+      "titulo": "Mobiliario",
+      "descripcion": "Vinilo pegado sobre mostradores o paneles."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "corte-contorno",
+    "montaje-sobre-rigido"
+  ],
+  "recomendaciones": [
+    "Indica dónde se va a colocar para recomendarte el vinilo y el laminado adecuados.",
+    "Revisa que el diseño tenga la resolución suficiente para su tamaño final."
+  ],
+  "limitaciones": [
+    "La durabilidad depende de vinilo, laminado y exposición; por confirmar.",
+    "Las superficies rugosas o muy porosas pueden requerir otro adhesivo."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/vinilo-impreso/muestra-01.webp",
+    "alt": "Gran gráfica de vinilo impreso a todo color sobre una fachada",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/vinilo-impreso/galeria-1-material.webp",
+      "alt": "Vinilo impreso: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-impreso/galeria-2-proceso.webp",
+      "alt": "Vinilo impreso: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-impreso/galeria-3-resultado.webp",
+      "alt": "Vinilo impreso: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Vinilo impreso a todo color aplicado en una superficie.",
+    "caracteristicasFisicas": "Imagen nítida a todo color, bordes limpios, sin burbujas ni arrugas.",
+    "entorno": "Pared o escaparate de un comercio ya rotulado.",
+    "encuadre": "Plano general con un detalle del borde del vinilo.",
+    "texturaAcabado": "Superficie lisa, mate o brillante según laminado.",
+    "noConfundirCon": [
+      "vinilo de corte (color liso, sin imagen)",
+      "lona (soporte textil, no adhesivo)"
+    ]
+  },
+  "relacionados": [
+    "mat-01",
+    "mat-02",
+    "mat-06"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/exposicion-alicia/01.webp",
+      "alt": "Expositor de tienda con gráfica en vinilo impreso",
+      "proyecto": "exposicion-alicia",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/food-truck/01.webp",
+      "alt": "Food truck rotulado con vinilo impreso",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "food-truck"
+    },
+    {
+      "src": "assets/proyectos/food-truck/02.webp",
+      "alt": "Furgoneta food truck con rótulo superior",
+      "proyecto": "food-truck",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/puesto-burger/01.webp",
+      "alt": "Puesto de comida con frontal impreso y carteles",
+      "proyecto": "puesto-burger",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "mat-25",
+  "slug": "camisetas-y-polos",
+  "nombre": "Camisetas y polos",
+  "categoria": "textil-y-merchandising",
+  "resumen": "Camisetas y polos personalizados con logotipo o diseño para equipos, eventos y promociones.",
+  "queEs": "Son prendas básicas que se personalizan con logotipos o diseños. Se utilizan para uniformes de empresa, regalos promocionales y eventos. La técnica de personalización (vinilo textil, estampado, bordado) se recomienda según el tejido y la cantidad.",
+  "cualidades": [
+    {
+      "icono": "textil",
+      "titulo": "Prendas básicas",
+      "texto": "Camiseta o polo."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Personalizables",
+      "texto": "Logotipo o diseño."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Series cortas o largas",
+      "texto": "Según cantidad."
+    }
+  ],
+  "ventajas": [
+    "Refuerzan la imagen corporativa.",
+    "Útiles como regalo promocional.",
+    "Admiten varias técnicas."
+  ],
+  "composicion": {
+    "descripcion": "Prendas de algodón, poliéster o mezclas, según modelo. Marcas y calidades por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Técnicas",
+      "valor": "Estampado o bordado, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Tallas",
+      "valor": "Según modelo",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Equipos",
+      "descripcion": "Uniformes con logotipo."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Camisetas para el personal."
+    },
+    {
+      "titulo": "Promociones",
+      "descripcion": "Regalos de marca."
+    }
+  ],
+  "acabadosCompatibles": [
+    "bordado",
+    "estampado-textil"
+  ],
+  "recomendaciones": [
+    "Indica cantidad, tallas y colores.",
+    "Elige técnica según tejido."
+  ],
+  "limitaciones": [
+    "Las técnicas dependen del tejido.",
+    "Los lavados afectan la durabilidad."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/camisetas-y-polos/muestra-01.webp",
+    "alt": "Camisetas y polos personalizados en una percha de tienda",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/camisetas-y-polos/galeria-1-material.webp",
+      "alt": "Camisetas y polos: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/camisetas-y-polos/galeria-2-proceso.webp",
+      "alt": "Camisetas y polos: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/camisetas-y-polos/galeria-3-resultado.webp",
+      "alt": "Camisetas y polos: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Camiseta o polo personalizados, doblados o puestos.",
+    "caracteristicasFisicas": "Logotipo nítido, bien colocado, tejido sin arrugas.",
+    "entorno": "Fondo neutro o uso en equipo.",
+    "encuadre": "Plano de producto y detalle del logotipo.",
+    "texturaAcabado": "Tejido de algodón o mezcla, estampado visible.",
+    "noConfundirCon": [
+      "sudadera",
+      "bolsa de tela"
+    ]
+  },
+  "relacionados": [
+    "mat-26",
+    "mat-27",
+    "mat-30"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/merch-festival/03.webp",
+      "alt": "Camiseta negra con estampación a color: la zona impresa centrada",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 0%",
+      "proyecto": "merch-festival"
+    },
+    {
+      "src": "assets/proyectos/f1-barcelona/03.webp",
+      "alt": "Persona de espaldas con polo de MÉS PUBLICITAT",
+      "proyecto": "f1-barcelona",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}

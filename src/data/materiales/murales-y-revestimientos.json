@@ -1,0 +1,199 @@
+{
+  "id": "mat-17",
+  "slug": "murales-y-revestimientos",
+  "nombre": "Murales y revestimientos",
+  "categoria": "gran-formato",
+  "resumen": "Impresión de gran formato para decorar paredes completas, con vinilo, papel u otros soportes.",
+  "queEs": "Los murales y revestimientos son gráficas a medida para cubrir paredes completas o grandes superficies, con vinilo, papel pintado o materiales textiles. Se utilizan para transformar espacios comerciales, oficinas y eventos.",
+  "cualidades": [
+    {
+      "icono": "escala",
+      "titulo": "A medida",
+      "texto": "Se adapta a la pared."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Gran impacto",
+      "texto": "Imagen continua."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Instalación profesional",
+      "texto": "Montaje por paños."
+    }
+  ],
+  "ventajas": [
+    "Transforma un espacio con un solo elemento.",
+    "Imagen continua adaptada a la medida de la pared.",
+    "Combina diseño y marca."
+  ],
+  "composicion": {
+    "descripcion": "Vinilo, papel u otro soporte para pared. Soportes disponibles por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Instalación",
+      "valor": "Por paños o piezas",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Soporte",
+      "valor": "Vinilo, papel u otros, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso principal."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende del soporte; confirmar."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "escaparates"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Oficinas",
+      "descripcion": "Imagen corporativa en la pared."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Fondos de marca en tienda."
+    },
+    {
+      "titulo": "Hostelería",
+      "descripcion": "Decoración temática."
+    }
+  ],
+  "acabadosCompatibles": [
+    "laminado",
+    "corte-a-medida"
+  ],
+  "recomendaciones": [
+    "Toma las medidas exactas de la pared.",
+    "Revisa el estado de la superficie antes de instalar."
+  ],
+  "limitaciones": [
+    "La pared debe estar lisa y limpia.",
+    "Las uniones entre paños pueden notarse."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/murales-y-revestimientos/muestra-01.webp",
+    "alt": "Mural impreso de gran formato en un vestíbulo",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/murales-y-revestimientos/galeria-1-material.webp",
+      "alt": "Murales y revestimientos: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/murales-y-revestimientos/galeria-2-proceso.webp",
+      "alt": "Murales y revestimientos: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/murales-y-revestimientos/galeria-3-resultado.webp",
+      "alt": "Murales y revestimientos: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Mural impreso cubriendo una pared completa.",
+    "caracteristicasFisicas": "Imagen continua, sin burbujas y con uniones discretas.",
+    "entorno": "Interior de un comercio, oficina o restaurante.",
+    "encuadre": "Plano amplio del espacio completo.",
+    "texturaAcabado": "Superficie mate, sin brillos.",
+    "noConfundirCon": [
+      "vinilo decorativo (motivos pequeños)",
+      "fotocall (fondo móvil)"
+    ]
+  },
+  "relacionados": [
+    "mat-06",
+    "mat-03",
+    "mat-18"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/cartel-exterior/01.webp",
+      "alt": "Estructura exterior con carteles ilustrados",
+      "proyecto": "cartel-exterior",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/rotulos-fachada/01.webp",
+      "alt": "Fachada de tienda con rótulo en letras verdes",
+      "proyecto": "rotulos-fachada",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/foro-ciberseguridad/01.webp",
+      "alt": "Panel impreso en pared de un foro",
+      "proyecto": "foro-ciberseguridad",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    },
+    {
+      "src": "assets/proyectos/mural-interior/01.webp",
+      "alt": "Mural impreso de gran formato en interior",
+      "proyecto": "mural-interior",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}

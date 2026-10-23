@@ -1,0 +1,169 @@
+{
+  "id": "mat-01",
+  "slug": "vinilo-de-corte",
+  "nombre": "Vinilo de corte",
+  "categoria": "vinilos-y-adhesivos",
+  "resumen": "Vinilo adhesivo de color liso, cortado con plóter, ideal para textos, logotipos y formas.",
+  "queEs": "Es una lámina de vinilo con adhesivo por una cara y color uniforme. No lleva imagen impresa: se corta siguiendo el diseño y se pega sobre la superficie con una cinta de transferencia. Es la solución habitual para rotular nombres, horarios y logotipos en cristales, paredes, puertas o vehículos.",
+  "cualidades": [
+    {
+      "icono": "regla",
+      "titulo": "Corte preciso",
+      "texto": "Se corta por la forma exacta del texto o logotipo."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Color liso",
+      "texto": "Tinta uniforme de la gama de colores del fabricante."
+    },
+    {
+      "icono": "capa",
+      "titulo": "Aplicación sencilla",
+      "texto": "Se transfiere de una vez con cinta de aplicación."
+    }
+  ],
+  "ventajas": [
+    "Aspecto limpio y profesional, sin fondo visible.",
+    "Adecuado para tiradas cortas y diseños sencillos.",
+    "Combina bien con cristal, pintura lisa y superficies rígidas."
+  ],
+  "composicion": {
+    "descripcion": "Película de PVC con adhesivo sensible a la presión y papel soporte. El tipo exacto (calandrado o fundido) depende del fabricante.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Presentación",
+      "valor": "Bobina, que se corta con plóter",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Superficie del vinilo",
+      "valor": "Mate o brillo, según referencia",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual en cristales, puertas y paredes lisas."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Depende de la calidad del vinilo elegida; confirmar con el proveedor."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "exterior",
+    "escaparates",
+    "vehiculos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Rótulo de local",
+      "descripcion": "Nombre y horario en el cristal de la puerta."
+    },
+    {
+      "titulo": "Rotulación de rutas",
+      "descripcion": "Logotipo y teléfono en un vehículo comercial."
+    },
+    {
+      "titulo": "Señalética interior",
+      "descripcion": "Números de sala y pictogramas en mamparas."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-contorno",
+    "cinta-transferencia"
+  ],
+  "recomendaciones": [
+    "Pide un diseño vectorial para que el plóter corte sin errores.",
+    "Evita detalles demasiado finos o textos muy pequeños."
+  ],
+  "limitaciones": [
+    "La gama de colores es la del fabricante, no admite degradados.",
+    "La superficie debe estar limpia, seca y lisa."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/vinilo-de-corte/muestra-01.webp",
+    "alt": "Aplicación de letras de vinilo de corte rojo sobre un cristal",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/vinilo-de-corte/galeria-1-material.webp",
+      "alt": "Vinilo de corte: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-de-corte/galeria-2-proceso.webp",
+      "alt": "Vinilo de corte: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/vinilo-de-corte/galeria-3-resultado.webp",
+      "alt": "Vinilo de corte: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Rótulo de texto y logotipo en vinilo de color liso aplicado sobre cristal.",
+    "caracteristicasFisicas": "Bordes de corte nítidos, color uniforme, sin imagen impresa ni degradados.",
+    "entorno": "Escaparate o puerta de cristal de un comercio.",
+    "encuadre": "Plano medio frontal con detalle en los bordes de las letras.",
+    "texturaAcabado": "Superficie lisa, mate o con ligero brillo.",
+    "noConfundirCon": [
+      "vinilo impreso (lleva imagen a todo color)",
+      "vinilo ácido (efecto esmerilado)"
+    ]
+  },
+  "relacionados": [
+    "mat-03",
+    "mat-05",
+    "mat-04"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

@@ -1,0 +1,167 @@
+{
+  "id": "mat-08",
+  "slug": "carton-pluma",
+  "nombre": "Cartón pluma",
+  "categoria": "soportes-rigidos",
+  "resumen": "Panel muy ligero de espuma entre dos caras de cartón, ideal para interior y usos temporales.",
+  "queEs": "Es un panel formado por una capa de espuma de poliestireno entre dos cartulinas. Muy ligero y de superficie lisa, se usa para montar fotografías, carteles y displays de uso temporal en interior.",
+  "cualidades": [
+    {
+      "icono": "ligero",
+      "titulo": "Muy ligero",
+      "texto": "Fácil de colgar y transportar."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Superficie lisa",
+      "texto": "Buena base para impresión o montaje."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Uso temporal",
+      "texto": "Pensado para campañas de corta duración."
+    }
+  ],
+  "ventajas": [
+    "Económico para uso a corto plazo.",
+    "Fácil de cortar y montar.",
+    "Ideal para presentaciones y exposiciones."
+  ],
+  "composicion": {
+    "descripcion": "Núcleo de espuma de poliestireno con cartulina en ambas caras. Espesores y calidades por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Núcleo",
+      "valor": "Espuma de poliestireno",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Caras",
+      "valor": "Cartulina",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual en interior."
+    },
+    "exterior": {
+      "apto": false,
+      "nota": "No recomendado en exterior ni con humedad."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "escaparates",
+    "eventos"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Presentaciones",
+      "descripcion": "Paneles para ferias y reuniones."
+    },
+    {
+      "titulo": "Exposiciones",
+      "descripcion": "Montaje de fotografías y láminas."
+    },
+    {
+      "titulo": "Eventos",
+      "descripcion": "Carteles de bienvenida y señalización."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-a-medida",
+    "montaje-sobre-rigido"
+  ],
+  "recomendaciones": [
+    "Úsalo para campañas de duración corta.",
+    "Protégelo de golpes durante el transporte."
+  ],
+  "limitaciones": [
+    "Sensible a la humedad y al calor.",
+    "Se marca o se hunde con golpes en el borde."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/carton-pluma/muestra-01.webp",
+    "alt": "Muestra de cartón pluma: núcleo de espuma entre dos caras de cartón, con el canto visible",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/carton-pluma/galeria-1-material.webp",
+      "alt": "Planchas de cartón pluma apiladas con el canto de espuma visible",
+      "tipo": "material",
+      "estado": "disponible",
+      "origen": "ia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/carton-pluma/galeria-2-proceso.webp",
+      "alt": "Cartón pluma: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/carton-pluma/galeria-3-resultado.webp",
+      "alt": "Cartón pluma: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Panel de cartón pluma con una lámina impresa montada.",
+    "caracteristicasFisicas": "Borde con núcleo blanco de espuma visible entre dos capas de cartulina.",
+    "entorno": "Presentación en interior, sobre un caballete o en pared.",
+    "encuadre": "Plano medio con detalle del canto del panel.",
+    "texturaAcabado": "Superficie de cartulina lisa, canto con espuma blanca.",
+    "noConfundirCon": [
+      "PVC espumado (más rígido y resistente)",
+      "cartón nido (núcleo de panal)"
+    ]
+  },
+  "relacionados": [
+    "mat-07",
+    "mat-12",
+    "mat-11"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

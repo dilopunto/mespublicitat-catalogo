@@ -1,0 +1,165 @@
+{
+  "id": "mat-26",
+  "slug": "sudaderas",
+  "nombre": "Sudaderas",
+  "categoria": "textil-y-merchandising",
+  "resumen": "Sudaderas personalizadas para equipos, comercios y campañas, con logotipo estampado o bordado.",
+  "queEs": "Las sudaderas son prendas de tejido grueso y abrigo que se personalizan con logotipos o diseños. Se usan en equipos, comercios y merchandising. La personalización se recomienda según el tejido.",
+  "cualidades": [
+    {
+      "icono": "textil",
+      "titulo": "Abrigo",
+      "texto": "Tejido más grueso."
+    },
+    {
+      "icono": "pincel",
+      "titulo": "Personalizables",
+      "texto": "Logotipo o diseño."
+    },
+    {
+      "icono": "reloj",
+      "titulo": "Larga duración",
+      "texto": "Prenda de uso frecuente."
+    }
+  ],
+  "ventajas": [
+    "Prenda de uso habitual con alta visibilidad de marca.",
+    "Opción de merchandising atractiva.",
+    "Admite estampado o bordado."
+  ],
+  "composicion": {
+    "descripcion": "Prendas de algodón, poliéster o mezclas con felpa. Marcas y calidades por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Técnicas",
+      "valor": "Estampado o bordado, por confirmar",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Modelos",
+      "valor": "Con o sin capucha",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "No aplica: prenda."
+    }
+  },
+  "aplicaciones": [
+    "promocion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Equipos",
+      "descripcion": "Sudaderas del equipo."
+    },
+    {
+      "titulo": "Comercios",
+      "descripcion": "Uniformes de invierno."
+    },
+    {
+      "titulo": "Marcas",
+      "descripcion": "Merchandising."
+    }
+  ],
+  "acabadosCompatibles": [
+    "bordado",
+    "estampado-textil"
+  ],
+  "recomendaciones": [
+    "Elige un color que contraste con el logotipo.",
+    "Indica tallas y cantidades."
+  ],
+  "limitaciones": [
+    "El tejido grueso limita el detalle fino.",
+    "Los lavados afectan la durabilidad."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/sudaderas/muestra-01.webp",
+    "alt": "Sudaderas personalizadas colgadas",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/sudaderas/galeria-1-material.webp",
+      "alt": "Sudaderas: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/sudaderas/galeria-2-proceso.webp",
+      "alt": "Sudaderas: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/sudaderas/galeria-3-resultado.webp",
+      "alt": "Sudaderas: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Sudadera personalizada con logotipo en el pecho o la espalda.",
+    "caracteristicasFisicas": "Logotipo bien centrado, tejido de felpa visible.",
+    "entorno": "Fondo neutro o uso cotidiano.",
+    "encuadre": "Plano frontal y detalle de la zona estampada.",
+    "texturaAcabado": "Tejido grueso con textura de felpa.",
+    "noConfundirCon": [
+      "camiseta (tejido fino)",
+      "chaqueta de trabajo"
+    ]
+  },
+  "relacionados": [
+    "mat-25",
+    "mat-27",
+    "mat-30"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": []
+}

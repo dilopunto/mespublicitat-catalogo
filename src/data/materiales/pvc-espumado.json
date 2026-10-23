@@ -1,0 +1,203 @@
+{
+  "id": "mat-07",
+  "slug": "pvc-espumado",
+  "nombre": "PVC espumado",
+  "categoria": "soportes-rigidos",
+  "resumen": "Plancha rígida y ligera de PVC expandido, fácil de cortar e imprimir, muy usada en cartelería.",
+  "queEs": "Es una plancha de PVC con estructura interna espumada, lisa y ligera. Se imprime directamente o se le pega un vinilo impreso. Es una de las soluciones más habituales para carteles, paneles y displays de interior y exterior protegido.",
+  "cualidades": [
+    {
+      "icono": "ligero",
+      "titulo": "Ligero",
+      "texto": "Pesa poco en relación con su rigidez."
+    },
+    {
+      "icono": "rigido",
+      "titulo": "Rígido",
+      "texto": "Mantiene la forma y la planitud."
+    },
+    {
+      "icono": "tijera",
+      "titulo": "Fácil de cortar",
+      "texto": "Admite corte recto y por contorno."
+    }
+  ],
+  "ventajas": [
+    "Buen equilibrio entre coste, peso y rigidez.",
+    "Superficie lisa para buena impresión.",
+    "Se cuelga, se apoya o se monta en estructuras."
+  ],
+  "composicion": {
+    "descripcion": "Plancha de PVC celular (espumado) con superficie lisa. Densidades y espesores disponibles por confirmar.",
+    "estado": "general"
+  },
+  "caracteristicasTecnicas": [
+    {
+      "etiqueta": "Superficie",
+      "valor": "Lisa, mate o satinada",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Corte",
+      "valor": "Recto, por contorno o fresado",
+      "estado": "general"
+    },
+    {
+      "etiqueta": "Durabilidad estimada",
+      "valor": null,
+      "estado": "pendiente"
+    },
+    {
+      "etiqueta": "Certificados",
+      "valor": null,
+      "estado": "pendiente"
+    }
+  ],
+  "grosoresFormatos": {
+    "espesores": null,
+    "medidasMaximas": null,
+    "formatosEstandar": null,
+    "estado": "pendiente"
+  },
+  "usos": {
+    "interior": {
+      "apto": true,
+      "nota": "Uso habitual en interiores."
+    },
+    "exterior": {
+      "apto": null,
+      "nota": "Posible en exterior protegido; confirmar calidad y duración."
+    }
+  },
+  "aplicaciones": [
+    "interior",
+    "escaparates",
+    "eventos",
+    "senalizacion"
+  ],
+  "ejemplosAplicacion": [
+    {
+      "titulo": "Carteles de tienda",
+      "descripcion": "Precios, ofertas y señalización."
+    },
+    {
+      "titulo": "Paneles informativos",
+      "descripcion": "Planos y normas en interiores."
+    },
+    {
+      "titulo": "Displays de PLV",
+      "descripcion": "Soportes de producto y expositores."
+    }
+  ],
+  "acabadosCompatibles": [
+    "corte-a-medida",
+    "fresado-cnc",
+    "esquinas-redondeadas",
+    "montaje-sobre-rigido"
+  ],
+  "recomendaciones": [
+    "Elige el espesor según tamaño y uso.",
+    "Para exterior, consulta primero con nosotros."
+  ],
+  "limitaciones": [
+    "Es sensible a golpes en esquinas y cantos.",
+    "Se dilata y deforma con calor extremo."
+  ],
+  "imagenPrincipal": {
+    "src": "assets/materiales/pvc-espumado/muestra-01.webp",
+    "alt": "Planchas apiladas de PVC espumado blanco con el canto visible",
+    "estado": "disponible",
+    "origen": "ia",
+    "foco": "50% 50%"
+  },
+  "galeria": [
+    {
+      "src": "assets/materiales/pvc-espumado/galeria-1-material.webp",
+      "alt": "PVC espumado: material",
+      "tipo": "material",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/pvc-espumado/galeria-2-proceso.webp",
+      "alt": "PVC espumado: proceso",
+      "tipo": "proceso",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/materiales/pvc-espumado/galeria-3-resultado.webp",
+      "alt": "PVC espumado: resultado",
+      "tipo": "resultado",
+      "estado": "pendiente",
+      "origen": "pendiente",
+      "foco": "50% 50%"
+    }
+  ],
+  "referenciaVisual": {
+    "producto": "Plancha de PVC espumado impresa o con vinilo pegado.",
+    "caracteristicasFisicas": "Superficie lisa y uniforme, canto blanco o crema visible.",
+    "entorno": "Cartel colgado en una pared de comercio o en un stand.",
+    "encuadre": "Plano medio con detalle del canto de la plancha.",
+    "texturaAcabado": "Superficie lisa y mate, canto compacto.",
+    "noConfundirCon": [
+      "cartón pluma (núcleo de espuma y cartón)",
+      "metacrilato (transparente y brillante)"
+    ]
+  },
+  "relacionados": [
+    "mat-08",
+    "mat-09",
+    "mat-11"
+  ],
+  "fuentes": {
+    "tipo": "conocimiento tecnico general",
+    "verificado": false,
+    "nota": "Conocimiento técnico general redactado para orientar; no son prestaciones comerciales confirmadas.",
+    "pendientes": [
+      "Espesores o gramajes",
+      "Medidas máximas",
+      "Durabilidad",
+      "Certificados",
+      "Disponibilidad y plazos",
+      "Acabados y técnicas que ofrece MésPublicitat"
+    ]
+  },
+  "aplicacionesVerificadas": false,
+  "proyectosReales": [
+    {
+      "src": "assets/proyectos/letras-corporeas/01.webp",
+      "alt": "Letras corpóreas negras sobre mesa de trabajo",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%",
+      "proyecto": "letras-corporeas"
+    },
+    {
+      "src": "assets/proyectos/rotulos-fachada/03.webp",
+      "alt": "Rótulo de fachada rojo, vista lejana",
+      "proyecto": "rotulos-fachada",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/letras-corporeas/02.webp",
+      "alt": "Letras corpóreas negras con tipografía, sobre mesa",
+      "proyecto": "letras-corporeas",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "50% 50%"
+    },
+    {
+      "src": "assets/proyectos/jornada-directivos/05.webp",
+      "alt": "Expositores con tableros impresos, vista trasera",
+      "proyecto": "jornada-directivos",
+      "estado": "disponible",
+      "origen": "propia",
+      "foco": "contain"
+    }
+  ]
+}
