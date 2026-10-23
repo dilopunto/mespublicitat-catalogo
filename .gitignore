@@ -1,4 +1,5 @@
 # generado
+site/
 dist/index.inline.html
 # temporales y del sistema
 __pycache__/

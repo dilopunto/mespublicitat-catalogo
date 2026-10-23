@@ -1,0 +1,30 @@
+[build]
+  command = "python3 tools/build.py --site"
+  publish = "site"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+
+# La web usa rutas con # (no necesita reglas SPA), pero cualquier ruta desconocida vuelve al inicio en vez de dar 404.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

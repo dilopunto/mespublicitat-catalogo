@@ -19,6 +19,10 @@ python -m http.server 8080             # desde la raíz del proyecto
 `dist/index.html` enlaza las imágenes como `../public/assets/...`; para publicarlo en un servidor sube `dist/` y `public/` manteniendo esa relación (o usa `python tools/build.py --prefix ''` si las pones junto al HTML).
 `python tools/build.py --inline` crea además `dist/index.inline.html` (una sola pieza con imágenes incrustadas, solo para vista previa; no se versiona).
 
+## Publicación en Netlify
+
+`netlify.toml` ya está configurado: comando `python3 tools/build.py --site` y carpeta de publicación `site/` (index.html + assets/, autocontenida y sin rutas `../`). La web usa rutas con `#`, así que no hay páginas internas que den 404; cualquier ruta desconocida vuelve a `index.html`. Cada push a `main` publica automáticamente. Para probar en local: `python3 tools/build.py --site && python3 -m http.server 8080 -d site`.
+
 ## Cookies
 
 La web no usa cookies. Guarda la elección del usuario en `localStorage` (clave `mp-cookies`). Las tipografías de Google Fonts solo se cargan si el usuario las acepta. Texto y datos de la política en `src/data/cookies.json`; el banner y su lógica están en `src/js/app.js`. El usuario puede cambiar su elección desde «Configurar cookies» en el pie de página.

@@ -14,12 +14,12 @@ data = json.dumps({'categorias': js_('categorias.json'), 'aplicaciones': js_('ap
                    'empresa': js_('empresa.json'), 'materiales': mats, 'proyectos': js_('proyectos.json')['proyectos'], 'cookies': js_('cookies.json')}, ensure_ascii=False).replace('</', '<\\/')
 # Las rutas de imagen de los JSON son relativas a public/ (assets/...). dist/index.html las usa como ../public/assets/... (sin duplicar archivos).
 # Para publicar en un servidor, sube dist/index.html y la carpeta public/assets manteniendo esa relación (o usa --prefix '').
-PFX = sys.argv[sys.argv.index('--prefix') + 1] if '--prefix' in sys.argv else '../public/'
+SITE = '--site' in sys.argv  # producción: carpeta site/ autocontenida (index.html + assets/)
+PFX = '' if SITE else (sys.argv[sys.argv.index('--prefix') + 1] if '--prefix' in sys.argv else '../public/')
 data = data.replace('"src": "assets/', '"src": "' + PFX + 'assets/').replace('"logo": "assets/', '"logo": "' + PFX + 'assets/')
 h = rd('src/index.template.html').replace('/*__CSS__*/', rd('src/css/styles.css')).replace('/*__JS__*/', rd('src/js/app.js'))
 h = h.replace('__DATA__', data).replace('__LOGO_FULL__', logo('logotipo-principal.png')).replace('__LOGO_ISO__', logo('isotipo.png'))
 (R / 'dist').mkdir(exist_ok=True)
-import sys
 if '--inline' in sys.argv:  # versión autocontenida (vista previa): incrusta como data-URI solo las imágenes usadas por las fichas
     from PIL import Image; import io
     used = {x['src'] for m in mats for x in [m['imagenPrincipal']] + m['galeria'] + m['proyectosReales'] if x['estado'] == 'disponible'}
@@ -33,5 +33,14 @@ if '--inline' in sys.argv:  # versión autocontenida (vista previa): incrusta co
     hi = h
     for u, d in uri.items(): hi = hi.replace(PFX + u, d)
     (R / 'dist/index.inline.html').write_text(hi, encoding='utf-8'); print('dist/index.inline.html', len(hi) // 1024, 'KB')
-(R / 'dist/index.html').write_text(h, encoding='utf-8')
-print('dist/index.html', len(h) // 1024, 'KB')
+if SITE:
+    import shutil
+    out = R / 'site'
+    if out.exists(): shutil.rmtree(out)
+    shutil.copytree(R / 'public/assets', out / 'assets', ignore=shutil.ignore_patterns('LEEME.md', '*.md'))
+    (out / 'index.html').write_text(h, encoding='utf-8')
+    (out / 'robots.txt').write_text('User-agent: *\nAllow: /\n', encoding='utf-8')
+    print('site/index.html', len(h) // 1024, 'KB +', sum(1 for _ in (out / 'assets').rglob('*') if _.is_file()), 'archivos en site/assets')
+else:
+    (R / 'dist/index.html').write_text(h, encoding='utf-8')
+    print('dist/index.html', len(h) // 1024, 'KB')
