@@ -135,8 +135,9 @@ function ckApply(terceros){
 }
 const ckB=document.getElementById('ckBanner'),ckD=document.getElementById('ckDlg');let ckLast=null;
 document.getElementById('ckText').textContent=CK.resumenBanner;
-function ckShow(){ckB.hidden=false;requestAnimationFrame(()=>ckB.classList.add('show'))}
-function ckHide(){ckB.classList.remove('show');setTimeout(()=>ckB.hidden=true,350)}
+function ckPad(){document.documentElement.style.setProperty('--ckh',ckB.hidden?'0px':ckB.offsetHeight+'px')}
+function ckShow(){ckB.hidden=false;ckPad();requestAnimationFrame(()=>ckB.classList.add('show'));addEventListener('resize',ckPad)}
+function ckHide(){ckB.classList.remove('show');document.documentElement.style.setProperty('--ckh','0px');setTimeout(()=>ckB.hidden=true,350)}
 function ckDecide(t){ckSet(t);ckHide();if(ckD.open)ckD.close()}
 document.getElementById('ckAll').onclick=()=>ckDecide(true);
 document.getElementById('ckRej').onclick=()=>ckDecide(false);
